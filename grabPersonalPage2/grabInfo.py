@@ -11,7 +11,7 @@ from helper_functions import *
 from grabHtml import URLLister
 
 def main():
-    conn = psycopg2.connect("dbname=myproject user=myprojectuser host='localhost' password='lovelinhui1314#'")
+    conn = psycopg2.connect("dbname=myproject user=myprojectuser host='localhost' password=''")
    
     ppURL_f = open("ppURL.txt", "r")
     university = None
@@ -79,7 +79,7 @@ def main():
         #print cur.fetchall()
       except Exception,e:
           conn.close()
-          conn = psycopg2.connect("dbname=myproject user=myprojectuser host='localhost' password='lovelinhui1314#'")
+          conn = psycopg2.connect("dbname=myproject user=myprojectuser host='localhost' password=''")
           print e
           pass
     conn.close()
