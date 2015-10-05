@@ -1,0 +1,23 @@
+{% extends 'blog/base.html' %}
+
+{% block content %}
+    <div class="reseacher">
+        <h1><p>{{ profile.name|linebreaks }}</p></h1>
+        <hr>
+        <div class="row">
+          <div class="small-4 large-3 columns">
+              <img src="{{ profile.photo_url}}" alt="Not Found">
+          </div>
+          <div class="small-8 large-9 columns">
+              <b>Position: </b>
+              <p>{{ profile.position|linebreaks }}</p>
+              <b>School: </b>
+              <p>{{ profile.university|linebreaks }}</p>
+              <b>Research Interest: </b>
+              <p>{{ profile.interests|linebreaks }}</p>
+              <b>Text: </b>
+              <p>{{ profile.critical_text|linebreaks }}</p>
+          </div>
+        </div>
+    </div>
+{% endblock %}

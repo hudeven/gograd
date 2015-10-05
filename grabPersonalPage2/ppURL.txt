@@ -1,0 +1,3406 @@
+#CMU
+http://www.cs.cmu.edu/~cga
+http://www.cs.cmu.edu/~andersoe
+http://www.cs.cmu.edu/~balzers
+http://www.cs.cmu.edu/~ninamf
+http://www.frc.ri.cmu.edu/~sankalp/
+http://www.cs.cmu.edu/~eavrunin
+http://www.cs.cmu.edu/~hbadino
+http://www.andrew.cmu.edu/~cbaker
+http://www.cs.cmu.edu/~dbamman/
+http://www-2.cs.cmu.edu/~zivbj/
+http://www.cs.cmu.edu/~gjb
+http://www.cs.cmu.edu/~mbergerm
+http://www.cs.cmu.edu/~guyb
+http://www.cs.cmu.edu/~jblocki
+http://www.cs.cmu.edu/~avrim
+http://www-2.cs.cmu.edu/~lblum/
+http://www.cs.cmu.edu/~avrim
+http://www.cs.cmu.edu/~vboddeti
+http://www.cs.cmu.edu/~lboytsov/
+http://www.cs.cmu.edu/~dbradley/index.html
+http://www.cs.cmu.edu/~breaux
+http://www.cs.cmu.edu/~brookes
+http://www.cs.cmu.edu/~hbb
+http://www.cs.cmu.edu/~ralf
+http://www.cs.cmu.edu/~brettb
+http://www.cs.cmu.edu/~plb
+http://www.cs.cmu.edu/~bryant
+http://www.cs.cmu.edu/~caiyang
+http://www.cs.cmu.edu/~callan/
+http://www.cs.cmu.edu/~jcmoreno/
+http://www.cs.cmu.edu/~jasoncam
+http://www.andrew.cmu.edu/~icaoberg
+http://www.cs.cmu.edu/~jgc
+http://cs.cmu.edu/~aleida
+http://www.cs.cmu.edu/~jxc
+http://www.cs.cmu.edu/~deb
+http://www.cs.cmu.edu/~sharonw
+http://www.cs.cmu.edu/~kkchang
+http://www.cs.cmu.edu/~ddchen
+http://www.cs.cmu.edu/~xinleic
+http://www.cs.cmu.edu/~meichen
+http://www.cs.cmu.edu/~jchiu1/
+http://www.cs.cmu.edu/~choset
+http://www.frc.ri.cmu.edu/~sanjibac/
+http://cs.cmu.edu/~cicek
+http://www.cs.cmu.edu/~emc/
+http://www.cs.cmu.edu/~wcohen
+http://www.pitt.edu/~jeffcohn
+http://www.cs.cmu.edu/~tcortina
+http://www.cs.cmu.edu/~dennisc/
+http://www.cs.cmu.edu/~crary
+http://www.cs.cmu.edu/~marian
+http://www.cs.cmu.edu/~dabbish/
+http://www.cs.cmu.edu/~rbd/
+http://www.cs.cmu.edu/~rajarshd
+http://www.cs.cmu.edu/~ftorre
+http://www.cs.cmu.edu/~rutad
+http://www.cs.cmu.edu/~anind
+http://www.cs.cmu.edu/~mbdias/
+http://www.cs.cmu.edu/~jdigney
+http://www.cs.cmu.edu/~spdow/
+http://www.cs.cmu.edu/~cmdowney/
+http://www.cs.cmu.edu/~adragan
+http://www.cs.cmu.edu/~jdunietz/
+http://www.cs.bilkent.edu.tr/~duygulu
+http://www.cs.cmu.edu/~vdwivedi/
+http://www.cs.cmu.edu/~cdyer
+http://www.cs.cmu.edu/~aebtekar/
+http://www.cs.cmu.edu/~davide
+http://www.cs.cmu.edu/~me/
+http://www.cs.cmu.edu/~colleen
+http://www-2.cs.cmu.edu/~christos/
+http://cs.cmu.edu/~mfaruqui
+http://www.cs.cmu.edu/~kayvonf
+http://www.cs.cmu.edu/~wfeely
+http://www.cs.cmu.edu/~cathyf/
+http://www.cs.cmu.edu/~mfiterau
+http://www.cs.cmu.edu/~dfouhey/
+http://www.cs.cmu.edu/~cfrieze
+http://www.contrib.andrew.cmu.edu/~df2x
+http://cs.cmu.edu/~nathanfu
+http://www.cs.cmu.edu/~yingkaig/
+http://www.cs.cmu.edu/~garlan
+http://www.cs.cmu.edu/~weigand
+http://www.cs.cmu.edu/~gelernter
+http://www.cs.cmu.edu/~hgeyer/
+http://www.lix.polytechnique.fr/~ghorbal/
+http://www.cs.cmu.edu/~garof
+http://www.cs.cmu.edu/~garth/
+http://www.cs.cmu.edu/~seth
+http://www.cs.cmu.edu/~pcasanov/
+http://www.cs.cmu.edu/~sgopal1
+http://www.cs.cmu.edu/~ggordon
+http://www.cs.cmu.edu/~ygu1/
+http://www.cs.cmu.edu/~sguennem/
+http://www.cs.cmu.edu/~adg
+http://www.cs.cmu.edu/~abhinavg
+http://www.andrew.cmu.edu/~nitingup
+http://www.cs.cmu.edu/~anupamg/
+http://www.cs.cmu.edu/~venkatg/
+http://www.pitt.edu/~emotion/zakiahammal.html
+http://www.cs.cmu.edu/~harchol
+http://www.cs.cmu.edu/~rwh
+http://www-2.cs.cmu.edu/~alex/
+http://www.cs.cmu.edu/~hebert/
+http://www.cs.cmu.edu/~ahefny/
+http://www.cs.cmu.edu/~hhibshi
+http://www.cs.cmu.edu/~jkh
+http://www.cs.cmu.edu/~jasonh/
+http://www.cs.cmu.edu/~dhuber
+http://www.cs.cmu.edu/~hudson
+http://www.cs.cmu.edu/~jhutz
+http://cs.cmu.edu/~sj1
+http://www.cs.cmu.edu/~sjauhar
+http://www.cs.cmu.edu/~sjavdani/
+http://www.cs.cmu.edu/~lujiang/
+http://www.cs.cmu.edu/~hanbyulj
+http://frc.ri.cmu.edu/~kaess/
+http://www.cs.cmu.edu/~arunkaly
+http://www.cs.cmu.edu/~tk
+http://www.cs.cmu.edu/~kkandasa/
+http://www.cs.cmu.edu/~rkanjira
+http://frc.ri.cmu.edu/~kantor
+http://www.cs.cmu.edu/~dilsun
+http://www.frc.ri.cmu.edu/~alonzo
+http://www.cs.cmu.edu/~kesden
+http://www.cs.cmu.edu/~nkholgad
+http://www.cs.cmu.edu/~kiesler/
+http://www.cs.cmu.edu/~sk1
+http://www.cs.cmu.edu/~yubink
+http://www.cs.cmu.edu/~sjunikim
+http://www.cs.cmu.edu/~ckingsf
+http://www.cs.cmu.edu/~kkitani
+http://www.cs.cmu.edu/~zkolter
+http://www.cs.cmu.edu/~akomurav
+http://www.cs.cmu.edu/~chenk/
+http://www.cs.cmu.edu/~soonhok
+http://www.cs.cmu.edu/~dkonomis/
+http://www.cs.cmu.edu/~dkoutra/
+http://www.cs.cmu.edu/~jennsbl
+http://www.cs.cmu.edu/~ianlane
+http://www.cs.cmu.edu/~cjl/
+http://www.cs.cmu.edu/~alavie
+http://www.cs.cmu.edu/~clegoues
+http://www.cnbc.cmu.edu/~tai
+http://www.cs.cmu.edu/~lsl
+http://www.cs.cmu.edu/~duli
+http://www.cs.cmu.edu/~maxim
+http://www.cs.cmu.edu/~hl
+http://www.cs.cmu.edu/~chuchenl
+http://www.frc.ri.cmu.edu/~lantao/
+http://www.cs.cmu.edu/~hanxiaol/
+http://www.cs.cmu.edu/~bliu1
+http://www.cs.cmu.edu/~ylong/
+http://www.cs.cmu.edu/~kevinma/
+http://www.cs.cmu.edu/~mmaass/
+http://www.cs.cmu.edu/~ram
+http://www-2.cs.cmu.edu/~jmankoff/
+http://www.cs.cmu.edu/~mason/
+http://www.cs.cmu.edu/~mazda
+http://www.cs.cmu.edu/~maxion/
+http://cs.cmu.edu/~bethmc/
+http://www.cs.cmu.edu/~bmclaren
+http://www.cs.cmu.edu/~jmendoza/
+http://cs.cmu.edu/~fmetze
+http://www.cs.cmu.edu/~glmiller
+http://www.cs.cmu.edu/~bmin
+http://www.cs.cmu.edu/~imisra/
+http://www.cs.cmu.edu/~teruko
+http://www.cs.cmu.edu/~tom
+http://www.cs.cmu.edu/~smitsch
+http://www.cs.cmu.edu/~awm
+http://www.cs.cmu.edu/~imoraru
+http://www.frc.ri.cmu.edu/~hpm/
+http://www.cs.cmu.edu/~morency/
+http://www.cs.cmu.edu/~mostow
+http://www.cs.cmu.edu/~ymovshov/
+http://www.cs.cmu.edu/~dmovshov
+http://www.cs.cmu.edu/~tcm/
+http://www.cs.cmu.edu/~mmukerje/
+http://www.cs.cmu.edu/~kmuruges/
+http://www.cs.cmu.edu/~bam/
+http://www.cs.cmu.edu/~bnagy
+http://www.cs.cmu.edu/~unallasa
+http://www.cs.cmu.edu/~srinivas
+http://www.cs.cmu.edu/~venkatrn/
+http://www.cs.cmu.edu/~dnaylor/
+http://www.cs.cmu.edu/~illah
+http://www.cs.cmu.edu/~ehn
+http://www.cs.cmu.edu/~brendano
+http://www.cs.cmu.edu/~droh
+http://www.cs.cmu.edu/~romeara
+http://www.cs.cmu.edu/~comar
+http://cs.cmu.edu/~spalakod
+http://www.cs.cmu.edu/~mpapamic
+http://www.cs.cmu.edu/~norm
+http://www.cs.cmu.edu/~apappu
+http://www.cs.cmu.edu/~ylpark
+http://www.cs.cmu.edu/~pavlo
+http://www.cs.cmu.edu/~dpellow/
+http://www.cs.cmu.edu/~jpfeffer
+http://www.cs.cmu.edu/~fp
+http://www.cs.cmu.edu/~bapoczos/
+http://www.cs.cmu.edu/~tpope
+http://www.cs.cmu.edu/~arielpro
+http://www.cs.cmu.edu/~nrafidi/
+http://www.ece.cmu.edu/~raj
+http://www.cs.cmu.edu/~vramakri
+http://www.cs.cmu.edu/~bhiksha
+http://www.cs.cmu.edu/~aramdas
+http://www.cs.cmu.edu/~agrao
+http://www.cs.cmu.edu/~araza
+http://www.cs.cmu.edu/~mrmiller
+http://www.cs.cmu.edu/~er1k
+http://www.cs.cmu.edu/~mringenb/
+http://www.cs.cmu.edu/~camr
+http://www.cs.cmu.edu/~cprose/
+http://www.cs.cmu.edu/~roni
+http://www.cs.cmu.edu/~zbr/
+http://www.cs.cmu.edu/~iruchkin
+http://www.cs.cmu.edu/~air
+http://www.cs.cmu.edu/~ryzhyk/
+http://www.cs.cmu.edu/~msakr
+http://www.ece.cmu.edu/~rajas
+http://www.cs.cmu.edu/~sandholm/
+http://www.cs.cmu.edu/~satya
+http://www.cs.cmu.edu/~pscerri
+http://www.cs.cmu.edu/~fschaub/
+http://www.cs.cmu.edu/~scherlis
+http://www.cs.cmu.edu/~cleah
+http://www.cs.cmu.edu/~schmerl
+http://www.cs.cmu.edu/~schneide
+http://www.cs.cmu.edu/~scott
+http://www.cs.cmu.edu/~nseegmil/
+http://www.cs.cmu.edu/~srini
+http://www.cs.cmu.edu/~shaw/
+http://www.cs.cmu.edu/~yaser/
+http://cs.oberlin.edu/~asherman
+http://www.frc.ri.cmu.edu/~shi
+http://www.cs.cmu.edu/~hideki
+http://www.cs.cmu.edu/~mws
+http://www-2.cs.cmu.edu/~dps/
+http://www.cs.brown.edu/~ls/
+http://www.cs.cmu.edu/~gsigurds/
+http://www.cs.cmu.edu/~reids
+http://www.cs.cmu.edu/~rjsimmon
+http://www.cs.cmu.edu/~aarti
+http://www.frc.ri.cmu.edu/~ssingh/
+http://www.cs.cmu.edu/~ssingla
+http://www.ece.cmu.edu/~brunos
+http://www.cs.cmu.edu/~djslater
+http://www.cs.cmu.edu/~sleator
+http://www-2.cs.cmu.edu/~sfs/
+http://www.cs.cmu.edu/~nasmith
+http://www.cs.cmu.edu/~smsong
+http://www.cs.cmu.edu/~siddh
+http://www.cs.cmu.edu/~prs
+http://www-2.cs.cmu.edu/~astein/
+http://www.cs.cmu.edu/~rahuls
+http://www.cs.cmu.edu/~jssunshi
+http://www.cs.cmu.edu/~sutner/
+http://www.cs.cmu.edu/~jtassaro/
+http://www.-2.cs.cmu.edu/~cet/
+http://www.cs.cmu.edu/~dst/
+http://www.cs.cmu.edu/~etrainer
+http://www.cs.cmu.edu/~treuille/
+http://www.frc.ri.cmu.edu/~avalada
+http://www.cs.cmu.edu/~sci-disc
+http://www.cs.cmu.edu/~mmv
+http://www.cs.princeton.edu/~aravindv
+http://www.cs.cmu.edu/~biglou/
+http://www.cs.cmu.edu/~hdw/
+http://www.frc.ri.cmu.edu/~mwagner
+http://www.cs.cmu.edu/~dwajc
+http://www.cs.cmu.edu/~jcwalker/
+http://www.cs.cmu.edu/~yipeiw
+http://www.cs.cmu.edu/~haohanw/
+http://www.cs.cmu.edu/~haoyuw/
+http://www.cs.cmu.edu/~kwaugh
+http://www.cs.cmu.edu/~lwehbe/
+http://www.cs.cmu.edu/~andersw
+http://www.cs.cmu.edu/~lew
+http://http://www.cs.cmu.edu/~gweisz/
+http://www.frc.ri.cmu.edu/~dsw
+http://cs.cmu.edu/~jwwiese
+http://www.cs.cmu.edu/~wing/
+http://www.cs.cmu.edu/~winters
+http://www.cs.cmu.edu/~daegunw
+http://www.cs.cmu.edu/~pworona/
+http://www.andrew.cmu.edu/~chaoyuaw
+http://www.cs.cmu.edu/~pengtaox/
+http://www.cs.cmu.edu/~xfxie
+http://www.cs.cmu.edu/~epxing
+http://www.cs.cmu.edu/~chenren/
+http://www.cs.cmu.edu/~dix
+http://www.kde.cs.tsukuba.ac.jp/~yuto_ymgc/
+http://www.cs.cmu.edu/~xiaohuay
+http://www.cs.cmu.edu/~fengy/
+http://www.cs.cmu.edu/~ziy
+http://www.cs.cmu.edu/~liuy/
+http://www.cs.cmu.edu/~diyiy
+http://www.cs.cmu.edu/~sungwook/
+http://www.cs.cmu.edu/~yiming
+http://www.cs.cmu.edu/~dyogatam/
+http://www.cs.cmu.edu/~yyoon1/
+http://users.ece.cmu.edu/~byronyu/index.html
+http://www.cs.cmu.edu/~lixiu/
+http://www.cs.cmu.edu/~weiyu/
+http://www.cs.cmu.edu/~garthz
+http://www.frc.ri.cmu.edu/~jizhang03/
+http://www.cs.cmu.edu/~weizhan1/
+
+#MIT CSAIL http://www.csail.mit.edu/biographies/PI/biolist.php http://www.csail.mit.edu/user/[0-9]+
+http://www.scottaaronson.com/
+http://www.swiss.csail.mit.edu/~hal/hal.html
+http://web.mit.edu/persci/people/adelson/index.html
+http://cag.csail.mit.edu/~agarwal/
+http://cag.csail.mit.edu/~saman/
+http://www.csg.csail.mit.edu/Users/arvind/
+http://nms.csail.mit.edu/~hari/
+http://www.scottaaronson.com/
+http://www.swiss.csail.mit.edu/~hal/hal.html
+http://web.mit.edu/persci/people/adelson/index.html
+http://cag.csail.mit.edu/~agarwal/
+http://cag.csail.mit.edu/~saman/
+http://www.csg.csail.mit.edu/Users/arvind/
+http://nms.csail.mit.edu/~hari/
+http://people.csail.mit.edu/regina/
+http://theory.csail.mit.edu/~bab/
+http://www.w3.org/People/Berners-Lee
+http://people.csail.mit.edu/~brooks
+http://adam.chlipala.net/
+http://larch-www.lcs.mit.edu:8001/~corbato/
+http://halab.mit.edu/
+http://people.csail.mit.edu/costis
+http://people.csail.mit.edu/people/davis/
+http://erikdemaine.org/
+http://www.csg.csail.mit.edu/Users/dennis/
+http://csg.lcs.mit.edu/~devadas
+http://people.csail.mit.edu/fredo/
+http://www-math.mit.edu/~edelman
+http://people.csail.mit.edu/people/fisher/
+https://billf.mit.edu/
+http://www.psrg.lcs.mit.edu/~gifford
+http://groups.csail.mit.edu/sls/people/glass.shtml
+http://www-math.mit.edu/~goemans
+http://theory.csail.mit.edu/~shafi/
+http://people.csail.mit.edu/polina
+http://people.csail.mit.edu/welg/
+http://nms.csail.mit.edu/~guttag/
+http://groups.csail.mit.edu/icelab/?q=user/2
+http://csail.mit.edu/~bkph
+http://people.csail.mit.edu/indyk
+http://people.csail.mit.edu/people/tommi/tommi.html
+http://people.csail.mit.edu/dnj
+http://www.pdos.csail.mit.edu/~kaashoek/
+http://people.csail.mit.edu/people/lpk
+http://csail.mit.edu/~lkagal/
+http://people.csail.mit.edu/karger
+http://people.csail.mit.edu/dina
+http://www.ai.mit.edu/people/boris/boris.html
+http://web.mit.edu/manoli/www/
+http://theory.csail.mit.edu/~kelner/
+http://research.microsoft.com/Lampson/
+http://theory.csail.mit.edu/~ftl/
+http://supertech.csail.mit.edu/~cel/
+http://groups.csail.mit.edu/marine/wiki/index.php?title=Main_Page
+http://www.pmg.csail.mit.edu/~liskov
+http://web.mit.edu/alo/www/
+http://medg.csail.mit.edu/people/wjl/
+http://www.csail.mit.edu/~tlp
+http://theory.csail.mit.edu/~lynch/
+http://db.lcs.mit.edu/madden
+http://people.csail.mit.edu/madry/
+http://theory.csail.mit.edu/~meyer/
+http://people.csail.mit.edu/silvio/
+http://www.mit.edu/~rcm
+http://www.pdos.csail.mit.edu/~rtm/
+http://people.csail.mit.edu/dmoshkov//
+http://people.csail.mit.edu/~unamay
+http://people.csail.mit.edu/peh
+http://cbcl.mit.edu/
+http://people.csail.mit.edu/whit/
+http://theory.csail.mit.edu/~rivest
+http://web.mit.edu/rruth/www/
+http://groups.csail.mit.edu/rrg/
+http://people.csail.mit.edu/ronitt/
+http://people.csail.mit.edu/rus
+http://mit.edu/Saltzer
+http://people.csail.mit.edu/sanchez
+http://www.sls.csail.mit.edu/people/seneff.shtml
+http://people.csail.mit.edu/shanir
+http://www-math.mit.edu/~shor/
+http://people.csail.mit.edu/hes/index.html
+http://www-math.mit.edu/~sipser/
+http://people.csail.mit.edu/asolar/
+http://theory.csail.mit.edu/~madhu/
+http://www.swiss.csail.mit.edu/~gjs/gjs.html
+http://www.medg.csail.mit.edu/people/psz/psz.html
+http://people.csail.mit.edu/russt/
+http://web.mit.edu/cocosci/josh.html
+http://people.csail.mit.edu/cjt/
+http://mit.edu/tidor
+http://people.csail.mit.edu/torralba
+http://groups.csail.mit.edu/synbio
+http://people.csail.mit.edu/williams/Web%20site/williams.shtml
+http://ssg.mit.edu/
+http://people.csail.mit.edu/people/phw/phw.html
+http://swiss.csail.mit.edu/users/wisdom/
+http://people.csail.mit.edu/matei/
+http://people.csail.mit.edu/nickolai/
+http://www.sls.csail.mit.edu/sls/people/zue.shtml
+
+#MIT LIDS https://lids.mit.edu/people?tid=14
+http://www.mit.edu/~dimitrib/home.html
+http://alpha-leonis.lids.mit.edu/wordpress/
+http://dahleh.lids.mit.edu/
+http://ares.lids.mit.edu/
+http://acl.mit.edu/
+http://www.mit.edu/~jaillet/
+http://sertac.scripts.mit.edu/web/
+http://www.mit.edu/~ameg/
+http://www.mit.edu/~mitter/
+http://web.mit.edu/aeroastro/sites/modiano/
+https://asu.mit.edu/
+http://www.mit.edu/~parrilo/
+http://people.lids.mit.edu/yp/homepage/
+https://mardavij.lids.mit.edu/
+http://www.mit.edu/~devavrat/
+http://www.mit.edu/~jnt/home.html
+
+#Berkely http://www.eecs.berkeley.edu/Faculty/Lists/CS/list.shtml
+http://www.cs.berkeley.edu/~pabbeel
+http://vis.berkeley.edu/~maneesh
+http://www.eecs.berkeley.edu/~krste
+http://www.jbot.org
+http://www.eecs.berkeley.edu/~bajcsy/
+http://www.cs.berkeley.edu/~barsky/
+http://www.eecs.berkeley.edu/~bartlett/
+http://www.cs.berkeley.edu/~brewer/
+http://www.cs.berkeley.edu/~jfc/
+http://www.eecs.berkeley.edu/~alexch
+http://www.cs.berkeley.edu/~culler/
+http://eecs.berkeley.edu/~trevor
+http://www.cs.berkeley.edu/~demmel/
+http://denero.org
+http://www.eecs.berkeley.edu/~efros/
+http://www.armandofox.com/
+http://www.cs.berkeley.edu/~franklin/
+http://www.cs.berkeley.edu/~ddgarcia/
+http://www.cs.berkeley.edu/~sanjamg
+http://goldberg.berkeley.edu
+http://psychology.berkeley.edu/people/tom-griffiths
+http://www.cs.berkeley.edu/~bjoern
+http://www.ischool.berkeley.edu/~hearst/
+http://db.cs.berkeley.edu/jmh/
+http://www.cs.berkeley.edu/~hilfingr/
+http://www.cs.berkeley.edu/~pabbeel
+http://vis.berkeley.edu/~maneesh
+http://www.eecs.berkeley.edu/~krste
+http://www.jbot.org
+http://www.eecs.berkeley.edu/~bajcsy/
+http://www.cs.berkeley.edu/~barsky/
+http://www.eecs.berkeley.edu/~bartlett/
+http://www.cs.berkeley.edu/~brewer/
+http://www.cs.berkeley.edu/~jfc/
+http://www.eecs.berkeley.edu/~alexch
+http://www.cs.berkeley.edu/~culler/
+http://eecs.berkeley.edu/~trevor
+http://www.cs.berkeley.edu/~demmel/
+http://denero.org
+http://www.eecs.berkeley.edu/~efros/
+http://www.armandofox.com/
+http://www.cs.berkeley.edu/~franklin/
+http://www.cs.berkeley.edu/~ddgarcia/
+http://www.cs.berkeley.edu/~sanjamg
+http://goldberg.berkeley.edu
+http://psychology.berkeley.edu/people/tom-griffiths
+http://www.cs.berkeley.edu/~bjoern
+http://www.ischool.berkeley.edu/~hearst/
+http://db.cs.berkeley.edu/jmh/
+http://www.cs.berkeley.edu/~hilfingr/
+http://www.cs.berkeley.edu/~jordan/
+http://www.cs.berkeley.edu/~adj/
+http://www.cs.berkeley.edu/~randy/
+http://www.cs.berkeley.edu/~klein/
+http://www.cs.berkeley.edu/~kubitron/
+http://www.cs.berkeley.edu/~malik/
+http://www.stat.berkeley.edu/~mossel/
+http://www.eecs.berkeley.edu/~necula/
+http://www.cs.berkeley.edu/~job/
+http://math.berkeley.edu/~lpachter/
+http://www.cs.berkeley.edu/~christos/
+http://people.ischool.berkeley.edu/~parikh/
+http://www.cs.berkeley.edu/~pattrsn/
+http://www.paulos.net
+http://www.eecs.berkeley.edu/~prasad
+http://www.cs.berkeley.edu/~ravir/
+http://www.cs.berkeley.edu/~satishr/
+http://www.eecs.berkeley.edu/~sylvia/
+http://www.eecs.berkeley.edu/~brecht
+http://www.cs.berkeley.edu/~russell/
+http://srl.cs.berkeley.edu/~ksen/
+http://www.cs.berkeley.edu/~sequin/
+http://www.eecs.berkeley.edu/Faculty/Homepages/shenker.html
+http://www.cs.berkeley.edu/~jrs/
+http://www.cs.berkeley.edu/~sinclair/
+http://www.cs.berkeley.edu/~dawnsong
+http://www.eecs.berkeley.edu/~yss/
+http://www.cs.berkeley.edu/~istoica/
+http://math.berkeley.edu/~bernd/
+http://www.cs.berkeley.edu/~luca/
+http://www.tygar.net
+http://www.cs.berkeley.edu/~vazirani/
+http://www.cs.berkeley.edu/~daw/
+http://www.cs.berkeley.edu/~johnw/
+http://www.cs.berkeley.edu/~yelick/
+http://eecs.berkeley.edu/~niryosef
+
+#Stanford http://cs.stanford.edu/faculty
+http://graphics.stanford.edu/~maneesh
+http://theory.stanford.edu/~aiken
+http://bailis.org/
+http://ai.stanford.edu/~serafim
+http://bejerano.stanford.edu/
+http://bejerano.stanford.edu/directions.html
+http://hci.stanford.edu/msb/
+http://www.stanford.edu/~dabo/
+http://www-cs-students.stanford.edu/~moses/
+http://www.stanford.EDU/~cheriton
+http://www.stanford.edu/~coopers
+http://cva.stanford.edu/billd_webpage_new.html
+http://verify.stanford.edu/dill
+http://cs.stanford.edu/people/rondror/
+http://www.stanford.edu/~engler/
+http://physbam.stanford.edu/~fedkiw
+http://www-db.stanford.edu/people/hector.html
+http://logic.stanford.edu/people/genesereth/
+http://geometry.stanford.edu/member/guibas/index.html
+http://www-graphics.stanford.edu/~hanrahan/
+http://hennessy-cube.stanford.edu/JohnHennessy.html
+http://www-vlsi.stanford.edu/~horowitz/
+http://www.cs.cornell.edu/~djames
+http://www.stanford.edu/~jurafsky/
+http://www.stanford.edu/~skatti/
+http://robotics.Stanford.EDU/~ok/
+http://csl.stanford.edu/~christos
+http://anshul.kundaje.net
+http://suif.stanford.edu/~lam
+https://profiles.stanford.edu/james-landay
+http://cs.stanford.edu/people/jure
+http://csl.stanford.edu/~pal
+http://vision.stanford.edu
+http://nlp.stanford.edu/~manning/
+http://www.scs.stanford.edu/~dm/
+http://www.scs.stanford.edu/~dm/addr/
+http://ee.stanford.edu/~nickm
+http://theory.stanford.edu/people/jcm/home.html
+http://www.stanford.edu/~subh/
+http://www.andrewng.org
+http://ogun.stanford.edu/~kunle/
+http://www.stanford.edu/~ouster
+http://www.stanford.edu/~balaji
+http://cs.stanford.edu/people/chrismre
+http://cs.Stanford.EDU/people/eroberts
+http://www.stanford.edu/~mendel
+http://theory.stanford.edu/~tim
+http://robotics.stanford.edu/users/sahami/bio.html
+http://robotics.stanford.edu/~jks/
+http://cvgl.stanford.edu/silvio/
+http://robotics.Stanford.EDU/~shoham/
+http://robots.stanford.edu
+http://theory.stanford.edu/~valiant/
+http://infolab.stanford.edu/~widom
+http://www.stanford.edu/~rrwill/
+http://theory.stanford.edu/~virgi
+
+#UIUC http://www.cs.uiuc.edu/directory/faculty
+Tarek F. Abdelzaher
+Sarita V. Adve
+Vikram Adve
+Gul Agha
+Brian P. Bailey
+Marco  Caccamo
+Matthew Caesar
+Roy H. Campbell
+Kevin C. Chang
+Chandra Sekhar Chekuri
+Jerry DeJong DeJong, II
+Jeff Erickson
+Paul  Fischer
+Margaret M. Fleck
+David Alexander Forsyth
+Wai-Tat  Fu
+Maria Jesus Garzaran
+P. Brighten Godfrey
+William D. Gropp
+Carl A. Gunter
+Elsa L. Gunter
+Indranil  Gupta
+Jiawei  Han
+Sariel  Har-Peled
+John C. Hart
+Julia Constanze Hockenmaier
+Derek W. Hoiem
+Sheldon Howard Jacobson
+Laxmikant V. Kale
+Karrie G. Karahalios
+Alex  Kirlik
+Andreas Kloeckner
+Alexandra  Kolla
+William T. Kramer
+Robin H. Kravets
+Ranjitha  Kumar
+Steven M. LaValle
+Svetlana  Lazebnik
+Darko  Marinov
+Jose  Meseguer
+Klara  Nahrstedt
+Luke  Olson
+David A. Padua
+Aditya G. Parameswaran
+Madhusudan  Parthasarathy
+Jian  Peng
+Leonard B. Pitt
+Manoj M. Prabhakaran
+Grigore  Rosu
+Dan  Roth
+Rob A. Rutenbar
+Mark  Sammons
+Lui Sha
+Saurabh  Sinha
+Paris  Smaragdis
+Marc  Snir
+Hari Sundaram
+Josep  Torrellas
+Mahesh  Viswanathan
+Tandy  Warnow
+Tao  Xie
+Chengxiang  Zhai
+Craig  Zilles
+
+#Cornell http://www.cs.cornell.edu/people/faculty
+David Albonesi|http://www.csl.cornell.edu/~albonesi/
+Erik Andersen|http://www.cs.cornell.edu/~eland/
+Yoav Artzi|http://yoavartzi.com/
+Graeme Bailey|http://www.cs.cornell.edu/~bailey
+Kavita Bala|http://www.cs.cornell.edu/~kb/
+Christopher Batten|http://www.csl.cornell.edu/~cbatten/
+Serge Belongie|http://www.cs.cornell.edu/~sjb
+David Bindel|http://www.cs.cornell.edu/~bindel/
+Kenneth P. Birman|http://www.cs.cornell.edu/ken/
+Anne Bracy|http://www.cs.cornell.edu/~bracy/
+Claire Cardie|http://www.cs.cornell.edu/home/cardie/
+Tsuhan Chen|http://www.engineering.cornell.edu/research/faculty/profile.cfm?netid=tc345
+Tanzeem Choudhury|http://www.cs.cornell.edu/~tanzeem/
+Michael Clarkson|http://www.cs.cornell.edu/~clarkson
+Robert L. Constable|http://www.cs.cornell.edu/home/rc/
+Dan Cosley|http://www.cs.cornell.edu/~danco/
+Cristian Danescu Niculescu-Mizil|http://infosci.cornell.edu/faculty/cristian-danescu-niculescu-mizil
+Alan J. Demers|http://www.cs.cornell.edu/annual_report/00-01/bios.htm#demers
+Shimon Edelman|http://comp9.psych.cornell.edu/people/Faculty/se37.html
+Deborah Estrin|http://www.cs.cornell.edu/~destrin
+Nate Foster|http://www.cs.cornell.edu/~jnfoster/
+Michael D. George|http://www.cs.cornell.edu/~mdgeorge/
+Arpita Ghosh|http://www.arpitaghosh.com/
+Carla Gomes|http://www.cs.cornell.edu/gomes/Default.htm
+Donald P. Greenberg|http://www.graphics.cornell.edu/people/director.html
+David Gries|http://www.cs.cornell.edu/gries/
+Francois Guimbretiere|http://www.cs.cornell.edu/~francois/
+Joseph Y. Halpern|http://www.cs.cornell.edu/home/halpern/
+Juris Hartmanis|http://www.cs.cornell.edu/annual_report/00-01/bios.htm#hartmanis
+Haym Hirsh|http://www.cs.rutgers.edu/~hirsh/
+John E. Hopcroft|http://www.cs.cornell.edu/jeh/
+Daniel P. Huttenlocher|http://tech.cornell.edu/people/dan-huttenlocher
+Thorsten Joachims|http://www.cs.cornell.edu/People/tj/
+Ari Juels|http://www.arijuels.com/
+Alon Keinan|http://keinanlab.cb.bscb.cornell.edu/
+Jon Kleinberg|http://www.cs.cornell.edu/home/kleinber/
+Robert Kleinberg|http://www.cs.cornell.edu/~rdk/
+Ross Knepper|http://www.cs.cornell.edu/~rak/
+Dexter Kozen|http://www.cs.cornell.edu/~kozen/
+Hadas Kress-Gazit|http://www.mae.cornell.edu/index.cfm/page/fac/kressgazit.htm
+Lillian Lee|http://www.cs.cornell.edu/home/llee
+Rajit Manohar|http://vlsi.cornell.edu/~rajit/
+Steve Marschner|http://www.cs.cornell.edu/~srm
+Jose F. Martinez|http://www.csl.cornell.edu/~martinez
+David Mimno|http://infosci.cornell.edu/faculty/david-mimno
+Greg Morrisett|http://www.cs.cornell.edu/~jgm/
+Andrew Myers|http://www.cs.cornell.edu/andru/
+Mor Naaman|http://mornaaman.com
+Anil Nerode|http://www.math.cornell.edu/~anil/
+Tim Novikoff|http://tech.cornell.edu/network/tim-novikoff
+Rafael Pass|http://www.cs.cornell.edu/~rafael/
+Tom Ristenpart|http://rist.tech.cornell.edu/
+Fred B. Schneider|http://www.cs.cornell.edu/fbs/index.htm
+Bart Selman|http://www.cs.cornell.edu/selman/
+Phoebe Sengers|http://www.cs.cornell.edu/people/sengers/
+Vitaly Shmatikov|http://www.cs.cornell.edu/~shmat/
+David B. Shmoys|http://www.cs.cornell.edu/home/shmoys/shmoys.html
+Noah Snavely|http://www.cs.cornell.edu/~snavely/
+Karthik Sridharan|http://ttic.uchicago.edu/~karthik/
+David Steurer|http://www.cs.princeton.edu/~dsteurer/
+Eva Tardos|http://www.cs.cornell.edu/home/eva/eva.html
+Ross Tate|http://www.cs.cornell.edu/~ross/
+Tim Teitelbaum|http://www.cs.cornell.edu/Info/People/tt/Tim_Teitelbaum.html
+Charles Van Loan|http://www.cs.cornell.edu/cv/
+Robbert van Renesse|http://www.cs.cornell.edu/Info/People/rvr/
+Hakim Weatherspoon|http://www.cs.cornell.edu/~hweather
+Kilian Weinberger|http://www.cs.cornell.edu/~kilian/
+Walker White|http://www.cs.cornell.edu/~wmwhite/
+Stephen Wicker|http://wisl.ece.cornell.edu/wicker/
+Amy Williams|http://williamslab.bscb.cornell.edu/
+David Williamson|http://www.orie.cornell.edu/~dpw/
+Haiyuan Yu|http://yulab.icmb.cornell.edu
+Ramin Zabih|http://www.cs.cornell.edu/~rdz
+Zhiru Zhang|http://www.csl.cornell.edu/~zhiruz/
+
+#University of Washington http://www.cs.washington.edu/people/faculty/
+Richard Anderson|https://www.cs.washington.edu/people/faculty/anderson/
+Ruth E. Anderson|http://homes.cs.washington.edu/~rea
+Tom Anderson|http://www.cs.washington.edu/people/faculty/tom/
+Magdalena Balazinska|http://www.cs.washington.edu/people/faculty/magda/
+Paul Beame|http://www.cs.washington.edu/people/faculty/beame/
+Adam Blank|http://homes.cs.washington.edu/~blank/
+Rastislav Bodik|http://www.cs.berkeley.edu/~bodik/index.html
+Alan Borning|http://www.cs.washington.edu/people/faculty/borning/
+Maya Cakmak|http://www.mayacakmak.com
+Luis Ceze|http://www.cs.washington.edu/people/faculty/luisceze
+Alvin Cheung|http://www.cs.washington.edu/people/faculty/akcheung
+Yejin Choi|http://homes.cs.washington.edu/~yejin/
+Brian Curless|http://www.cs.washington.edu/people/faculty/curless
+Pedro Domingos|http://homes.cs.washington.edu/~pedrod/
+Susan Eggers|http://www.cs.washington.edu/people/faculty/eggers/
+Michael Ernst|http://www.cs.washington.edu/people/faculty/mernst/
+Oren Etzioni|http://homes.cs.washington.edu/~etzioni/
+Ali Farhadi|http://www.cs.washington.edu/people/faculty/ali/
+James Fogarty|http://www.cs.washington.edu/people/faculty/jfogarty/
+Dieter Fox|http://homes.cs.washington.edu/~fox
+Hellmut Golde|/people/faculty/
+Shyam Gollakota|http://www.cs.washington.edu/people/faculty/gshyam/
+Dan Grossman|http://homes.cs.washington.edu/~djg/
+Carlos Guestrin|/people/faculty/guestrin/
+Jeffrey Heer|/people/faculty/jheer
+Bruce Hemingway|http://www.cs.washington.edu/people/faculty/bruceh/
+Sham Kakade|http://research.microsoft.com/en-us/um/people/skakade/
+Anna Karlin|http://www.cs.washington.edu/people/faculty/karlin/
+Ted Kehl|https://homes.cs.washington.edu/~ted/
+Ira Kemelmacher-Shlizerman|http://www.cs.washington.edu/people/faculty/kemelmi/
+Tadayoshi Kohno|http://homes.cs.washington.edu/~yoshi/
+Arvind Krishnamurthy|http://www.cs.washington.edu/people/faculty/arvind/
+Richard E. Ladner|http://www.cs.washington.edu/people/faculty/ladner/
+Ed Lazowska|http://www.cs.washington.edu/people/faculty/lazowska/
+James Lee|http://www.cs.washington.edu/people/faculty/jrl/
+Lee lab website|http://leelab.cs.washington.edu/
+Sergey Levine|http://www.eecs.berkeley.edu/~svlevine/
+Hank Levy|http://www.cs.washington.edu/people/faculty/levy/
+Barbara Mones|http://www.cs.washington.edu/people/faculty/mones/
+Allison Obourn|http://homes.cs.washington.edu/~aeobourn/
+Mark Oskin|http://www.cs.washington.edu/people/faculty/oskin/
+Shayan Oveis Gharan|http://homes.cs.washington.edu/~shayan/
+Shwetak Patel|http://abstract.cs.washington.edu/~shwetak/
+Hal Perkins|http://www.cs.washington.edu/people/faculty/perkins/
+Zoran Popović|https://homes.cs.washington.edu/~zoran/
+Dan Ports|http://drkp.net/
+Anup Rao|https://www.cs.washington.edu/people/faculty/anuprao/
+Rajesh Rao|http://www.cs.washington.edu/people/faculty/rao/
+Stuart Reges|http://www.cs.washington.edu/people/faculty/reges/
+Katharina Reinecke|http://reinecke.people.si.umich.edu/
+Matt Reynolds|http://www.ee.washington.edu/people/faculty/reynolds_matt/
+Franziska Roesner|http://www.franziroesner.com/
+Thomas Rothvoss|http://www.cs.washington.edu/people/faculty/rothvoss
+Larry Ruzzo|http://www.cs.washington.edu/people/faculty/ruzzo/
+Georg Seelig|http://homes.cs.washington.edu/~seelig/
+Steven Seitz|http://homes.cs.washington.edu/~seitz/
+Linda Shapiro|http://homes.cs.washington.edu/~shapiro/
+Alan Shaw|/people/faculty/shaw
+Joshua R. Smith|https://www.cs.washington.edu/people/faculty/jrs/
+Noah Smith|/people/faculty/nasmith/
+Larry Snyder|/people/faculty/snyder
+Dan Suciu|http://www.cs.washington.edu/people/faculty/suciu/
+Steve Tanimoto|http://www.cs.washington.edu/people/faculty/tanimoto/
+Zachary Tatlock|http://homes.cs.washington.edu/~ztatlock/
+Emanuel Todorov|http://homes.cs.washington.edu/~todorov/
+Martin Tompa|http://www.cs.washington.edu/people/faculty/tompa/
+Emina Torlak|http://homes.cs.washington.edu/~emina/
+Xi Wang|/people/faculty/xi
+Daniel S. Weld|http://www.cs.washington.edu/people/faculty/weld/
+John Zahorjan|http://homes.cs.washington.edu/~zahorjan/homepage/
+Luke Zettlemoyer|http://www.cs.washington.edu/people/faculty/lsz/
+
+#Princeton University http://www.cs.princeton.edu/people/faculty
+Andrew Appel|http://www.cs.princeton.edu/~appel
+Sanjeev Arora|http://www.cs.princeton.edu/~arora
+David August|http://www.cs.princeton.edu/~august
+Mark Braverman|http://www.cs.princeton.edu/~mbraverm
+Moses Charikar|http://www.cs.princeton.edu/~moses
+Bernard Chazelle|http://www.cs.princeton.edu/~chazelle
+Douglas Clark|http://www.cs.princeton.edu/~doug
+David Dobkin|http://www.cs.princeton.edu/~dpd
+Robert Dondero|http://www.cs.princeton.edu/~rdondero
+Zeev Dvir|http://www.cs.princeton.edu/~zdvir
+Barbara Engelhardt|http://www.cs.princeton.edu/~bee
+Nick Feamster|http://www.cs.princeton.edu/~feamster
+Christiane Fellbaum|http://www.cs.princeton.edu/~fellbaum
+Edward Felten|http://www.cs.princeton.edu/~felten
+Adam Finkelstein|http://www.cs.princeton.edu/~af
+Michael Freedman|http://www.cs.princeton.edu/~mfreed
+Thomas Funkhouser|http://www.cs.princeton.edu/~funk
+Donna Gabai|http://www.cs.princeton.edu/~dgabai
+Maia Ginsburg|http://www.cs.princeton.edu/~maia
+Aarti Gupta|http://www.cs.princeton.edu/~aartig
+Elad Hazan|http://www.cs.princeton.edu/~ehazan
+Alan Kaplan|http://www.cs.princeton.edu/~ak18
+Brian Kernighan|http://www.cs.princeton.edu/~bwk
+Andrea LaPaugh|http://www.cs.princeton.edu/~aslp
+Daniel Leyzberg|http://www.cs.princeton.edu/~dl9
+Kai Li|http://www.cs.princeton.edu/~li
+Xiaoyan Li|http://www.cs.princeton.edu/~xiaoyan
+Margaret Martonosi|http://www.cs.princeton.edu/~mrm
+Christopher Moretti|http://www.cs.princeton.edu/~cmoretti
+Arvind Narayanan|http://www.cs.princeton.edu/~arvindn
+Vivek Pai|http://www.cs.princeton.edu/~vivek
+Larry Peterson|http://www.cs.princeton.edu/~llp
+Iasonas Petras|http://www.cs.princeton.edu/~ipetras
+Jennifer Rexford|http://www.cs.princeton.edu/~jrex
+Szymon Rusinkiewicz|http://www.cs.princeton.edu/~smr
+Szymon Rusinkiewicz|http://www.cs.princeton.edu/~smr/
+Robert Sedgewick|http://www.cs.princeton.edu/~rs
+Sebastian Seung|http://www.cs.princeton.edu/~sseung
+Jaswinder Singh|http://www.cs.princeton.edu/~jps
+Mona Singh|http://www.cs.princeton.edu/~mona
+Robert Tarjan|http://www.cs.princeton.edu/~ret
+Olga Troyanskaya|http://www.cs.princeton.edu/~ogt
+David Walker|http://www.cs.princeton.edu/~dpw
+Kevin Wayne|http://www.cs.princeton.edu/~wayne
+Jianxiong Xiao|http://www.cs.princeton.edu/~xj
+
+#Georgia Institute of Technology http://www.cc.gatech.edu/people/faculty
+David A. Bader|http://www.cc.gatech.edu/~bader
+Tucker Balch|http://www.cc.gatech.edu/~tucker
+Michael Best|http://www.cc.gatech.edu/~mikeb
+Alexandra Boldyreva|http://www.cc.gatech.edu/~aboldyre
+Byron Boots|http://www.cc.gatech.edu/~bboots3/
+Amy Bruckman|http://www.cc.gatech.edu/~asb
+Polo Chau|http://www.cc.gatech.edu/~dchau
+Edmond Chow|http://www.cc.gatech.edu/~echow
+Henrik I. Christensen|http://www.cc.gatech.edu/~hic
+Thomas Conte|http://www.cc.gatech.edu/~conte
+Frank Dellaert|http://www.cc.gatech.edu/~dellaert
+Bistra Dilkina|http://www.cc.gatech.edu/~bdilkina/
+Ellen Do|http://www.cc.gatech.edu/~ellendo
+Constantine Dovrolis|http://www.cc.gatech.edu/~dovrolis
+Keith Edwards|http://www.cc.gatech.edu/~keith
+Greg Eisenhauer|http://www.cc.gatech.edu/~eisen/
+Jacob Eisenstein|http://www.cc.gatech.edu/~jeisenst/
+Irfan Essa|http://www.cc.gatech.edu/~irfan
+Nick Feamster|http://www.cc.gatech.edu/~feamster
+Ronald Ferguson|http://www.cc.gatech.edu/~rwf
+Peter Freeman|http://www.cc.gatech.edu/~freeman/
+Richard Fujimoto|http://www.cc.gatech.edu/~fujimoto
+Ada Gavrilovska|http://www.cc.gatech.edu/~ada
+Seymour Goodman|http://www.cc.gatech.edu/~goodman
+Beki Grinter|http://www.cc.gatech.edu/~beki
+Concettina Guerra|http://www.cc.gatech.edu/~guerra
+Mark Guzdial|http://www.cc.gatech.edu/~guzdial
+Chad Huneycutt|http://www.cc.gatech.edu/~chadh
+Charles Isbell, Jr.|http://www.cc.gatech.edu/~isbell/
+Melody Jackson|http://www.cc.gatech.edu/~melody
+Maithilee Kunda|http://www.cc.gatech.edu/~mkunda/
+Wenke Lee|http://www.cc.gatech.edu/~wenke
+Fuxin Li|http://www.cc.gatech.edu/~fli/
+Richard Lipton|http://www.cc.gatech.edu/~rjl
+Karen Liu|http://www.cc.gatech.edu/~karenliu
+Ling Liu|http://www.cc.gatech.edu/~lingliu
+Blair MacIntyre|http://www.cc.gatech.edu/~blair
+Leo Mark|http://www.cc.gatech.edu/~leomark
+Milena Mihail|http://www.cc.gatech.edu/~mihail
+Mayur Naik|http://www.cc.gatech.edu/~naik/
+Shamkant Navathe|http://www.cc.gatech.edu/~sham
+Nancy Nersessian|http://www.cc.gatech.edu/~nancyn
+Edward Omiecinski|http://www.cc.gatech.edu/~edwardo
+Alessandro Orso|http://www.cc.gatech.edu/~orso
+Santosh Pande|http://www.cc.gatech.edu/~santosh
+Haesun Park|http://www.cc.gatech.edu/~hpark
+Colin Potts|http://www.cc.gatech.edu/~potts
+Milos Prvulovic|http://www.cc.gatech.edu/~milos
+Calton Pu|http://www.cc.gatech.edu/~calton
+Ashwin Ram|http://www.cc.gatech.edu/~ashwin
+Umakishore Ramachandran|http://www.cc.gatech.edu/~rama
+James Rehg|http://www.cc.gatech.edu/~rehg
+Mark Riedl|http://www.cc.gatech.edu/~riedl/
+Jason Riedy|http://www.cc.gatech.edu/~jriedy/
+Jarek Rossignac|http://www.cc.gatech.edu/~jarek
+Karsten Schwan|http://www.cc.gatech.edu/~schwan
+Le Song|http://www.cc.gatech.edu/~lsong/
+Thad Starner|http://www.cc.gatech.edu/~thad
+John Stasko|http://www.cc.gatech.edu/~stasko
+Andrea Thomaz|http://www.cc.gatech.edu/~athomaz/
+Greg Turk|http://www.cc.gatech.edu/~turk
+Vijay Vazirani|http://www.cc.gatech.edu/~vazirani
+Santosh Vempala|http://www.cc.gatech.edu/~vempala/
+Eric Vigoda|http://www.cc.gatech.edu/~vigoda
+Richard Vuduc|http://www.cc.gatech.edu/~richie/
+Matthew Wolf|http://www.cc.gatech.edu/~mwolf/
+Matthew Wolf|http://www.cc.gatech.edu/~mwolf/
+Jun Xu|http://www.cc.gatech.edu/~jx
+Ellen Zegura|http://www.cc.gatech.edu/~ewz
+Hongyuan Zha|http://www.cc.gatech.edu/~zha/
+
+#University of Texas ​Austin https://www.cs.utexas.edu/faculty
+http://www.cs.utexas.edu/~lorenzo/
+http://www.cs.utexas.edu/users/bajaj/cvc/index.shtml
+http://www.cs.utexas.edu/~boyer/
+http://www.cs.utexas.edu/~dburger/
+http://www.cs.utexas.edu/users/cannata
+http://www.cs.utexas.edu/%7Ewcook/
+http://www.cs.utexas.edu/users/dahlin/
+http://www.cs.utexas.edu/~inderjit/
+http://www.cs.utexas.edu/~rfd/
+http://www.cs.utexas.edu/~isil/
+http://www.cs.utexas.edu/users/downing/
+http://www.cs.utexas.edu/users/emerson/
+http://www.cs.utexas.edu/~fussell/
+http://www.cs.utexas.edu/~gouda/
+http://www.cs.utexas.edu/users/grauman/
+http://www.cs.utexas.edu/~marijn/
+http://www.cs.utexas.edu/~hunt/
+http://www.cs.utexas.edu/~kaufmann/
+http://www.cs.utexas.edu/~skeckler/
+http://www.cs.utexas.edu/~klivans/
+http://www.cs.utexas.edu/~kuipers/
+http://www.cs.utexas.edu/users/lam/
+http://www.cs.utexas.edu/~vl/
+http://www.cs.utexas.edu/~lin/
+http://www.cs.utexas.edu/~mckinley/
+http://www.cs.utexas.edu/~risto/
+http://www.cs.utexas.edu/~miranker/
+http://www.cs.utexas.edu/users/misra/
+http://www.cs.utexas.edu/~mitra/
+http://www.cs.utexas.edu/~mok/mok.html
+http://www.cs.utexas.edu/~mooney/
+http://www.cs.utexas.edu/~moore/
+http://www.cs.utexas.edu/users/myers/
+http://www.cs.utexas.edu/~vallathn/
+http://www.cs.utexas.edu/~sniekum
+http://www.cs.utexas.edu/~ans/
+http://www.cs.utexas.edu/~novak/
+http://www.cs.utexas.edu/~pingali/
+http://www.cs.utexas.edu/~plaxton/
+http://www.cs.utexas.edu/~porter/
+http://nr.com/whp/
+http://www.cs.utexas.edu/~ecprice/
+http://www.cs.utexas.edu/~lili/
+http://www.cs.utexas.edu/~vlr/
+http://www.cs.utexas.edu/~pradeepr/
+http://www.cs.utexas.edu/users/jrellerm
+http://www.cs.utexas.edu/~ear/
+http://www.cs.utexas.edu/~scottm/
+http://www.cs.utexas.edu/~shmat/
+http://www.cs.utexas.edu/~pstone/
+http://gamedev.utexas.edu/
+http://www.cs.utexas.edu/~rvdg/
+http://www.cs.utexas.edu/~mwalfish/
+http://www.cs.utexas.edu/~tandy/
+http://www.cs.utexas.edu/~bwaters/
+http://www.cs.utexas.edu/~witchel/
+http://www.cs.utexas.edu/~yzhang/
+http://www.cs.utexas.edu/~diz/
+
+#California Institute of Technology http://www.cms.caltech.edu/people
+Yaser  S. Abu-Mostafa|http://www.work.caltech.edu
+Alan H. Barr|http://www.gg.caltech.edu/index.html
+Oscar P. Bruno|http://www.caltech.edu/~obruno
+Joel W. Burdick|http://robotics.caltech.edu/~jwb/jwb.html
+Venkat Chandrasekaran|http://users.cms.caltech.edu/~venkatc
+Mathieu Desbrun|http://www.geometry.caltech.edu/~mathieu/
+John Doyle|http://www.cds.caltech.edu/~doyle
+Yizhao Thomas Hou|http://users.cms.caltech.edu/~hou/
+Katrina Ligett|http://users.cms.caltech.edu/~katrina/
+Steven Low|http://netlab.caltech.edu
+Alain J. Martin|http://www.cs.caltech.edu/~alains/
+Richard M. Murray|http://www.cds.caltech.edu/~murray
+Houman Owhadi|http://users.cms.caltech.edu/~owhadi/
+Christopher Umans|http://www.cs.caltech.edu/~umans/
+Adam Wierman|http://www.cs.caltech.edu/~adamw
+Erik Winfree|http://www.dna.caltech.edu/~winfree
+Yisong Yue|http://www.yisongyue.com
+Pietro Perona|http://www.vision.caltech.edu/Perona.html
+John Preskill|http://www.theory.caltech.edu/~preskill
+Lulu Qian|http://www.qianlab.caltech.edu/people.html
+Gerard Holzmann|http://spinroot.com/gerard/
+Michael Hucka|http://www.cds.caltech.edu/~mhucka
+Paul Rothemund|http://www.dna.caltech.edu/~pwkr
+Damien Woods|http://www.dna.caltech.edu/~woods/
+Kanianthra Mani Chandy|http://www.infospheres.caltech.edu/people/mani
+Carver Mead|http://www.cns.caltech.edu/people/faculty/mead.html
+
+#University of Wisconsin ​Madison https://www.cs.wisc.edu/people/faculty
+Aditya Akella|http://pages.cs.wisc.edu/~akella/
+Remzi Arpaci-Dusseau|http://pages.cs.wisc.edu/~remzi/
+Andrea Arpaci-Dusseau|http://pages.cs.wisc.edu/~dusseau/
+Eric Bach|http://pages.cs.wisc.edu/~bach/
+Suman Banerjee|http://pages.cs.wisc.edu/~suman/
+Paul Barford|http://pages.cs.wisc.edu/~pb/
+Shuchi Chawla|http://pages.cs.wisc.edu/~shuchi/
+AnHai Doan|http://pages.cs.wisc.edu/~anhai/
+Charles Dyer|http://pages.cs.wisc.edu/~dyer/
+Michael Ferris|http://pages.cs.wisc.edu/~ferris/
+Michael Gleicher|http://pages.cs.wisc.edu/~gleicher/
+Mark D. Hill|http://www.cs.wisc.edu/~markhill
+Somesh Jha|http://pages.cs.wisc.edu/~jha/
+Deborah Joseph|http://pages.cs.wisc.edu/~joseph/
+Ben Liblit|http://pages.cs.wisc.edu/~liblit/
+Miron Livny|http://pages.cs.wisc.edu/~miron/
+Barton Miller|http://pages.cs.wisc.edu/~bart/
+Bilge Mutlu|http://bilgemutlu.com/
+Jeffrey Naughton|http://pages.cs.wisc.edu/~naughton/
+Jignesh Patel|http://pages.cs.wisc.edu/~jignesh/
+Jignesh Patel|http://bigfastdata.blogspot.com
+Thomas Reps|http://pages.cs.wisc.edu/~reps/
+Amos Ron|http://pages.cs.wisc.edu/~amos/
+Karthikeyan Sankaralingam|http://pages.cs.wisc.edu/~karu/wiki/
+Jude Shavlik|http://pages.cs.wisc.edu/~shavlik/
+Eftychios Sifakis|http://pages.cs.wisc.edu/~sifakis/
+Ben Snyder|http://pages.cs.wisc.edu/~bsnyder/
+Gurindar Sohi|http://pages.cs.wisc.edu/~sohi/
+Michael Swift|http://pages.cs.wisc.edu/~swift/
+Dieter van Melkebeek|http://pages.cs.wisc.edu/~dieter/
+David Wood|http://pages.cs.wisc.edu/~david/
+Stephen Wright|http://pages.cs.wisc.edu/~swright/
+Jerry Zhu|http://pages.cs.wisc.edu/~jerryzhu/
+
+#University of California Los Angeles http://www.cs.ucla.edu/faculty/
+Aditya Akella|http://www.cs.ucla.edu//people/akella
+Aws Albarghouthi|http://www.cs.ucla.edu//people/aws
+Remzi Arpaci-Dusseau|http://www.cs.ucla.edu//people/remzi
+Andrea Arpaci-Dusseau|http://www.cs.ucla.edu//people/dusseau
+Eric Bach|http://www.cs.ucla.edu//people/bach
+Suman Banerjee|http://www.cs.ucla.edu//people/suman
+Paul Barford|http://www.cs.ucla.edu//people/pb
+Shuchi Chawla|http://www.cs.ucla.edu//people/shuchi
+Loris D'Antoni|http://www.cs.ucla.edu//people/loris
+AnHai Doan|http://www.cs.ucla.edu//people/anhai
+Charles Dyer|http://www.cs.ucla.edu//people/dyer
+Michael Ferris|http://www.cs.ucla.edu//people/ferris
+Michael Gleicher|http://www.cs.ucla.edu//people/gleicher
+Mark D. Hill|http://www.cs.ucla.edu//people/markhill
+Somesh Jha|http://www.cs.ucla.edu//people/jha
+Deborah Joseph|http://www.cs.ucla.edu//people/joseph
+Paris Koutris|http://www.cs.ucla.edu//people/paris
+Ben Liblit|http://www.cs.ucla.edu//people/liblit
+Miron Livny|http://www.cs.ucla.edu//people/miron
+Barton Miller|http://www.cs.ucla.edu//people/bart
+Bilge Mutlu|http://www.cs.ucla.edu//people/bilge
+Jeffrey Naughton|http://www.cs.ucla.edu//people/naughton
+Jignesh Patel|http://www.cs.ucla.edu//people/jignesh
+Thomas Reps|http://www.cs.ucla.edu//people/reps
+Amos Ron|http://www.cs.ucla.edu//people/amos
+Karthikeyan Sankaralingam|http://www.cs.ucla.edu//people/karu
+Jude Shavlik|http://www.cs.ucla.edu//people/shavlik
+Eftychios Sifakis|http://www.cs.ucla.edu//people/sifakis
+Ben Snyder|http://www.cs.ucla.edu//people/bsnyder
+Gurindar Sohi|http://www.cs.ucla.edu//people/sohi
+Michael Swift|http://www.cs.ucla.edu//people/swift
+Dieter van Melkebeek|http://www.cs.ucla.edu//people/dieter
+David Wood|http://www.cs.ucla.edu//people/david
+Stephen Wright|http://www.cs.ucla.edu//people/swright
+Jerry Zhu|http://www.cs.ucla.edu//people/jerryzhu
+ALFONSO CARDENAS|http://www.cs.ucla.edu/~cardenas/cardenas041211.html
+
+#University of Michigan ​Ann Arbor http://cse.eecs.umich.edu/eecs/faculty/csefaculty.html
+Abernethy, Jacob |http://web.eecs.umich.edu/~jabernet/
+Abney, Steven |http://www.umich.edu/~abney/
+Ackerman, Mark S.|http://www.eecs.umich.edu/~ackerm
+Adar, Eytan |http://www.cond.org/
+Atkins, Ella M.|http://www.engin.umich.edu/aero/people/faculty/ella-atkins
+Austin, Todd |http://www.eecs.umich.edu/~taustin
+Baveja, Satinder S.|http://www.eecs.umich.edu/~baveja
+Bertacco, Valeria |http://www.eecs.umich.edu/~valeria
+Brehob, Mark |http://www.eecs.umich.edu/~brehob/
+Cafarella, Michael J.|http://www.eecs.umich.edu/~michjc/
+Chen, Peter M.|http://www.eecs.umich.edu/~pmchen
+Chesney, David |http://eecs.umich.edu/cse/faculty/chesney/
+Compton, Kevin J.|http://www.eecs.umich.edu/~kjc
+Corso, Jason |http://web.eecs.umich.edu/~jjcorso
+Deng, Jia |http://web.eecs.umich.edu/~jiadeng/
+DeOrio, Andrew W.|http://www.andrewdeorio.com/
+Dreslinski, Ron |http://web.eecs.umich.edu/~rdreslin/
+Durfee, Edmund H.|http://ai.eecs.umich.edu/people/durfee/
+Dutta, Prabal |http://www.eecs.umich.edu/~prabal/
+Essl, Georg |http://www.eecs.umich.edu/~gessl
+Eustice, Ryan M.|http://www.umich.edu/~eustice
+Flinn, Jason |http://www.eecs.umich.edu/~jflinn
+Fu, Kevin |http://web.eecs.umich.edu/~kevinfu/
+Guan, YuanFang |http://guanlab.ccmb.med.umich.edu/index.html
+Halderman, J. Alex |http://www.cse.umich.edu/~jhalderm/
+Hayes, John P.|http://www.eecs.umich.edu/~jhayes
+Hero, Alfred O.|http://www.eecs.umich.edu/~hero/
+Honeyman, Peter |http://www.citi.umich.edu/u/honey/
+Jagadish, HV |http://www.eecs.umich.edu/~jag
+Jahanian, Farnam |http://www.eecs.umich.edu/~farnam/
+Jamin, Sugih |http://www.eecs.umich.edu/~sugih
+Kieras, David E.|http://ai.eecs.umich.edu/people/kieras/
+Kuipers, Benjamin |http://eecs.umich.edu/~kuipers/
+Lafortune, Stephane |https://wiki.eecs.umich.edu/stephane/
+Laird, John E.|http://ai.eecs.umich.edu/people/laird/index.html
+Lee, Honglak |http://www.eecs.umich.edu/~honglak
+Liu, Mingyan |http://www.eecs.umich.edu/~mingyan
+Madhyastha, Harsha |http://web.eecs.umich.edu/~harshavm/
+Mahlke, Scott |http://www.eecs.umich.edu/~mahlke
+Mao, Zhuoqing Morley |http://www.eecs.umich.edu/~zmao
+Markov, Igor |http://www.eecs.umich.edu/~imarkov/
+Mars, Jason |http://web.eecs.umich.edu/~profmars/
+Mazumder, Pinaki |http://www.eecs.umich.edu/~mazum
+Mei, Qiaozhu |http://www-personal.umich.edu/~qmei/
+Mihalcea, Rada |http://web.eecs.umich.edu/~mihalcea/
+Miller, Carl A.|http://www-personal.umich.edu/~carlmi/index.html
+Mozafari, Barzan |http://web.eecs.umich.edu/~mozafari/
+Mudge, Trevor |http://www.eecs.umich.edu/~tnm/
+Narayanasamy, Satish |http://www.eecs.umich.edu/~nsatish/
+Nguyen, Long |http://www.stat.lsa.umich.edu/~xuanlong/
+Noble, Brian |http://www.eecs.umich.edu/~bnoble/
+Olson, Edwin |http://april.eecs.umich.edu/people/ebolson/
+Papaefthymiou, Marios |http://www.eecs.umich.edu/~marios
+Pettie, Seth |http://www.eecs.umich.edu/~pettie/
+Pollack, Martha |http://www.provost.umich.edu/about/m_pollack/m_pollack.html
+Prakash, Atul |http://www.eecs.umich.edu/~aprakash/
+Radev, Dragomir |http://www.eecs.umich.edu/~radev
+Sakallah, Karem A.|http://www.eecs.umich.edu/~karem
+Schoenebeck, Grant |http://web.eecs.umich.edu/~schoeneb/
+Shi, Yaoyun |http://www.eecs.umich.edu/~shiyy
+Shin, Kang G.|http://www.eecs.umich.edu/~kgshin/
+Soloway, Elliot |http://www.soe.umich.edu/people/profile/elliot_soloway/
+Stout, Quentin F.|http://www.eecs.umich.edu/~qstout/
+Strauss, Martin J.|http://www.eecs.umich.edu/~martinjs/
+Syed, Zeeshan H.|http://www.eecs.umich.edu/~zhs/
+Tang, Lingjia |http://www.lingjia.org
+Teneketzis, Demosthenis |http://www.eecs.umich.edu/~teneket/
+Tewari, Ambuj |http://www.stat.lsa.umich.edu/~tewaria/
+Thomason, Richmond H.|http://www.eecs.umich.edu/~rthomaso/
+Wakefield, Gregory H.|http://sitemaker.umich.edu/gregory.h.wakefield
+Wellman, Michael |http://ai.eecs.umich.edu/people/wellman/
+Wenisch, Thomas F.|https://www.eecs.umich.edu/~twenisch/
+Wiens, Jenna |http://web.eecs.umich.edu/~wiensj/
+Winsor, Donald C.|http://www.eecs.umich.edu/~don
+Zhou, Shuheng |http://www-personal.umich.edu/~shuhengz/
+
+#Columbia University http://www.cs.columbia.edu/people/faculty
+Aho, AlfredV.|http://www.cs.columbia.edu/~aho
+Allen, PeterKirby|http://www.cs.columbia.edu/~allen
+Andoni, Alexandr|http://www.mit.edu/~andoni/
+Belhumeur, PeterN|http://www1.cs.columbia.edu/~belhumeur/
+Bellovin, StevenM.|https://www.cs.columbia.edu/~smb
+Bishop, Allison|http://www.cs.columbia.edu/~allison
+Blaer, PaulS|http://www.cs.columbia.edu/~pblaer/
+Blei, David|http://www.cs.columbia.edu/~blei
+Cannon, AdamH|http://www.cs.columbia.edu/~cannon
+Carloni, Luca|http://www.cs.columbia.edu/~luca
+Chaintreau, Augustin|http://www.cs.columbia.edu/~augustin
+Chang, Shih-Fu|http://www.ee.columbia.edu/~sfchang
+Chen, Xi|http://www.cs.columbia.edu/~xichen/
+Ciocarlie, Matei|http://me.columbia.edu/matei-ciocarlie
+Collins, Michael|http://www.cs.columbia.edu/~mcollins
+Drinea, Eleni|http://datascience.columbia.edu/eleni-drinea
+Edwards, StephenA.|http://www.cs.columbia.edu/~sedwards
+Erlich, Yaniv|http://TeamErlich.org
+Feiner, StevenK|http://www.cs.columbia.edu/~feiner
+Geambasu, Roxana|http://www.cs.columbia.edu/~roxana
+Gravano, Luis|http://www.cs.columbia.edu/~gravano
+Grinspun, Eitan|http://www.cs.columbia.edu/~eitan
+Gross, JonathanL.|http://www.cs.columbia.edu/~gross
+Hirschberg, JuliaB.|http://www.cs.columbia.edu/~julia/
+Hsu, DanielJ|http://www.cs.columbia.edu/~djhsu/
+Jana, Suman|http://cs.utexas.edu/~suman
+Jebara, Tony|http://www.cs.columbia.edu/~jebara
+Johnson, DavidS|http://davidsjohnson.net/
+Kaiser, GailE|http://www.cs.columbia.edu/~kaiser
+Kender, JohnR|http://www.cs.columbia.edu/~jrk/
+Keromytis, AngelosD|http://www1.cs.columbia.edu/~angelos
+Kim, MarthaA|http://www.cs.columbia.edu/~martha/
+Lee, JaeWoo|http://www.cs.columbia.edu/~jae/
+Malkin, TalG|http://www.cs.columbia.edu/~tal
+McKeown, Kathleen|http://www.cs.columbia.edu/~kathy/
+Misra, Vishal|http://www.cs.columbia.edu/~misra
+Nayar, ShreeK|http://www.cs.columbia.edu/~nayar/
+Nieh, Jason|http://www.cs.columbia.edu/~nieh/
+Nowick, Steven|http://www.cs.columbia.edu/~nowick/
+Radev, Dragomir|http://www.eecs.umich.edu/~radev/
+Ross, KennethA|http://www.cs.columbia.edu/~kar/
+Rubenstein, Dan|http://www.cs.columbia.edu/~danr/
+Schulzrinne, HenningG|http://www.cs.columbia.edu/~hgs/
+Servedio, RoccoA.|http://www.cs.columbia.edu/~rocco
+Sethumadhavan, Simha|http://www.cs.columbia.edu/~simha
+Stein, Clifford|http://ieor.columbia.edu/fac-bios/stein/faculty.html
+Stolfo, SalvatoreJ|http://www.cs.columbia.edu/~sal/
+Stroustrup, Bjarne|http://www.stroustrup.com/
+Traub, JosephF.|http://www.cs.columbia.edu/~traub/
+Vapnik, Vladimir|http://www.clrc.rhul.ac.uk/people/vlad/
+Venkatasubramanian, Venkat|http://cheme.columbia.edu/venkat-venkatasubramanian
+Wu, Eugene|http://www.mit.edu/~eugenewu/
+Yang, Junfeng|http://www.cs.columbia.edu/~junfeng
+Yannakakis, Mihalis|http://www.cs.columbia.edu/~mihalis
+Yemini, Yechiam|http://www.cs.columbia.edu/~yemini/
+Zheng, Changxi|http://www.cs.columbia.edu/~cxz/
+Zussman, Gil|http://www.ee.columbia.edu/~zussman/
+Coffman, Ed|http://www.ee.columbia.edu/~egc
+Galil, Zvi|http://www.cs.columbia.edu/~galil/
+Unger, StephenH|http://www.cs.columbia.edu/~unger/
+Waltz, David|http://www.cs.columbia.edu/~waltz/
+Wozniakowski, Henryk|http://www.cs.columbia.edu/~henryk/
+
+#University of California ​San Diego http://cse.ucsd.edu/faculty_profile#top
+http://www-cse.ucsd.edu/~baden
+http://www.cse.ucsd.edu/~vbafna/
+http://www-cse.ucsd.edu/users/mihir/short-cv.html
+http://www.math.ucsd.edu/~sbuss/
+http://www.cse.ucsd.edu/~carter/
+http://www.cse.ucsd.edu/users/kuan/
+http://www.cse.ucsd.edu/users/gary/
+http://charlotte.ucsd.edu/users/dasgupta/
+http://www.db.ucsd.edu/People/alin/
+http://www-cse.ucsd.edu/users/elkan/
+http://www.jacobsschool.ucsd.edu/faculty/faculty_bios/index.sfe?fmp_recid=31
+http://www.cse.ucsd.edu/~yfreund/
+http://math.ucsd.edu/~fan/
+http://www.math.ucsd.edu/~fan/ron/
+http://www.cs.ucsd.edu/users/wgg
+http://www.cse.ucsd.edu/~gupta
+http://hci.ucsd.edu/hollan/
+http://cseweb.ucsd.edu/users/howden/
+http://idekerlab.ucsd.edu/people/Pages/trey-ideker.aspx
+http://www-cse.ucsd.edu/~russell/
+http://www.cse.ucsd.edu/~kriegman/
+http://www.cs.ucsd.edu/users/ikrueger/
+http://vis.ucsd.edu/~fkuester
+http://www.cse.ucsd.edu/~daniele
+http://cseweb.ucsd.edu/~minnes/
+http://www.cs.ucsd.edu/users/alex/
+http://www.cse.ucsd.edu/users/ricko/
+http://kodiak.ucsd.edu/alon/
+http://www.cse.ucsd.edu/users/pasquale/
+http://www-cse.ucsd.edu/users/paturi/
+http://www.cs.ucsd.edu/users/ppevzner/research.html
+http://cseweb.ucsd.edu/~gmporter/
+http://cseweb.ucsd.edu/~ravir
+http://www.math.ucsd.edu/~remmel/
+http://www.cse.ucsd.edu/~trosing/
+http://www.cse.ucsd.edu/~saul/contact.html
+http://www.cs.ucsd.edu/~savage
+http://www.calit2.net/~jschulze/
+http://www.cs.ucsd.edu/~bsimon
+http://www.jacobsschool.ucsd.edu/~lsmarr/
+http://www.cse.ucsd.edu/users/snoeren/
+http://www.jacobsschool.ucsd.edu/FacBios/findprofile.pl?fmp_recid=226
+http://genome.ucsd.edu
+http://www.cs.ucsd.edu/users/mbtaylor/
+http://pages.ucsd.edu/~ztu/
+http://www-cse.ucsd.edu/users/tullsen/research.html
+http://fleece.ucsd.edu/~vardy/
+http://www-cse.ucsd.edu/users/vianu/
+http://www.cs.ucsd.edu/users/voelker
+
+#University of Maryland ​College Park https://www.cs.umd.edu/people/faculty
+Ashok Agrawala  |http://www.cs.umd.edu/~agrawala/
+John Aloimonos  |http://www.cfar.umd.edu/~yiannis/
+Ben Bederson  |http://www.cs.umd.edu/~bederson/
+Bobby Bhattacharjee  |http://www.cs.umd.edu/~bobby/
+Marine Carpuat  |http://www.cs.umd.edu/~marine
+Andrew Childs  |http://cs.umd.edu/~amchilds
+Rance Cleaveland  |http://www.cs.umd.edu/~rance/
+Hector Corrada Bravo  |http://www.umiacs.umd.edu/~hcorrada/
+Hal Daume III  |http://www.umiacs.umd.edu/~hal/
+Larry Davis  |http://www.umiacs.umd.edu/~lsd/
+Amol Deshpande  |http://www.cs.umd.edu/~amol/
+Ramani Duraiswami  |http://www.umiacs.umd.edu/~ramani/
+Howard Elman  |http://www.cs.umd.edu/~elman/
+Fawzi Emad  |http://www.cs.umd.edu/~fpe/
+Jeffrey Foster  |http://www.cs.umd.edu/~jfoster/
+Jon Froehlich  |http://www.cs.umd.edu/~jonf
+William Gasarch  |http://www.cs.umd.edu/~gasarch/
+Tom Goldstein  |http://www.cs.umd.edu/~tomg
+Evan Golub  |http://www.cs.umd.edu/~egolub/
+Mohammad Hajiaghayi  |http://www.cs.umd.edu/~hajiagha/
+Michael Hicks  |http://www.cs.umd.edu/~mwh/
+Jeffrey K. Hollingsworth  |http://www.cs.umd.edu/~hollings/
+Michelle Hugue  |http://www.cs.umd.edu/~meesh/
+David Jacobs  |http://www.cs.umd.edu/~djacobs
+Jonathan Katz  |http://www.cs.umd.edu/~jkatz/
+Pete Keleher  |http://pete.kelehers.me
+Zia Khan  |http://www.umiacs.umd.edu/~zia
+Samir Khuller  |http://www.cs.umd.edu/~samir/
+Clyde Kruskal  |http://www.cs.umd.edu/~kruskal/
+Anwar Mamat  |http://www.cs.umd.edu/~anwar/
+Michelle Mazurek  |http://www.umiacs.umd.edu/~mmazurek/
+Atif Memon  |http://www.cs.umd.edu/~atif/
+David Mount  |http://www.cs.umd.edu/~mount/
+Dana Nau  |http://www.cs.umd.edu/~nau/
+Nelson Padua-Perez  |http://www.cs.umd.edu/~nelson/
+Don Perlis  |http://www.cs.umd.edu/~perlis/
+Jandelyn Plane  |http://www.cs.umd.edu/~jplane/
+Mihai Pop  |http://www.cbcb.umd.edu/~mpop/
+Adam Porter  |http://www.cs.umd.edu/~aporter/
+James Purtilo  |http://doubletap.cs.umd.edu/purtilo/
+James Reggia  |http://www.cs.umd.edu/~reggia/
+Hanan Samet  |http://www.cs.umd.edu/~hjs/
+Elaine Shi  |http://www.cs.umd.edu/~elaine/
+Ben Shneiderman  |http://www.cs.umd.edu/~ben/
+Neil Spring  |http://www.cs.umd.edu/~nspring/
+Aravind Srinivasan  |http://www.cs.umd.edu/~srin/
+Alan Sussman  |http://www.cs.umd.edu/~als/
+David Van Horn  |http://ter.ps/dvanhorn
+Amitabh Varshney  |http://www.cs.umd.edu/~varshney/
+Victor Basili  |http://www.cs.umd.edu/~basili/
+Bonnie Dorr  |http://www.umiacs.umd.edu/~bonnie/
+Laveen Kanal  |http://www.cs.umd.edu/~kanal/
+Raymond Miller  |http://www.cs.umd.edu/~miller/
+Jack Minker  |http://prism.cs.umd.edu/people/minker.html
+Dianne O'Leary  |http://www.cs.umd.edu/~oleary/
+William Pugh  |http://www.cs.umd.edu/~pugh/
+Alexander Barg  |http://www.ece.umd.edu/~abarg/
+Rajeev Barua  |http://www.glue.umd.edu/~barua/
+Ramalingam Chellappa  |http://www.cfar.umd.edu/~rama/
+Marshini Chetty  |http://marshini.net
+Michel Cukier  |http://terpconnect.umd.edu/~mcukier/
+Michael Cummings  |http://serine.umiacs.umd.edu/
+Nicholas Diakopoulos  |http://www.nickdiakopoulos.com/
+Leah Findlater  |http://terpconnect.umd.edu/~leahkf/
+Joseph Ja' Ja'  |http://www.umiacs.umd.edu/~joseph/
+Jimmy Lin  |http://www.umiacs.umd.edu/~jimmylin/
+Douglas Oard  |http://www.ee.umd.edu/~oard/
+Philip Resnik  |http://www.umiacs.umd.edu/~resnik/
+Andre Tits  |http://www.ee.umd.edu/~andre/
+Uzi Vishkin  |http://www.umiacs.umd.edu/~vishkin/
+Donald Yeung  |http://www.ece.umd.edu/~yeung/
+Lise Getoor  |http://www.cs.umd.edu/~getoor/
+Sukhyun Song  |http://www.cs.umd.edu/~shsong/
+
+#Harvard University http://www.seas.harvard.edu/computer-science/people
+Ryan P. Adams|http://hips.seas.harvard.edu/
+Ryan P. Adams|http://www.thetalkingmachines.com
+David M. Brooks|http://www.eecs.harvard.edu/~dbrooks/
+Yiling Chen|http://www.yiling.seas.harvard.edu
+Stephen Chong|http://people.seas.harvard.edu/~chong/
+David Cox|http://www.coxlab.org/
+Finale Doshi-Velez|http://finale.seas.harvard.edu/
+Krzysztof Gajos|http://www.eecs.harvard.edu/~kgajos/
+Krzysztof Gajos|http://iis.seas.harvard.edu/
+Steven J. Gortler|http://www.eecs.harvard.edu/~sjg
+Steven J. Gortler|http://gvi.seas.harvard.edu/content/gortler-lab
+Barbara J. Grosz|http://grosz.seas.harvard.edu
+Scott Kuindersma|http://scottk.seas.harvard.edu/
+Harry R. Lewis|http://lewis.seas.harvard.edu
+Harry R. Lewis|http://harry-lewis.blogspot.com/
+David J. Malan|http://cs.harvard.edu/malan
+Michael D. Mitzenmacher|http://www.eecs.harvard.edu/~michaelm/
+Michael D. Mitzenmacher|http://www.mybiasedcoin.blogspot.com/
+Jelani Nelson|http://people.seas.harvard.edu/~minilek/
+Jelani Nelson|http://toc.seas.harvard.edu/
+David C. Parkes|http://www.eecs.harvard.edu/~parkes/
+David C. Parkes|http://www.econcs.seas.harvard.edu/
+Hanspeter Pfister|http://gvi.seas.harvard.edu/pfister
+Margo I. Seltzer|http://www.eecs.harvard.edu/~margo/
+Margo I. Seltzer|http://www.eecs.harvard.edu/~syrah/
+Margo I. Seltzer|http://mis-misinformation.blogspot.com/
+Stuart M. Shieber|http://www.eecs.harvard.edu/~shieber/
+Stuart M. Shieber|http://osc.hul.harvard.edu/
+Stuart M. Shieber|http://blogs.law.harvard.edu/pamphlet/
+Yaron Singer|http://people.seas.harvard.edu/~yaron/
+Michael D. Smith|http://www.eecs.harvard.edu/~smith/
+Salil P. Vadhan|http://people.seas.harvard.edu/~salil/
+Salil P. Vadhan|http://toc.seas.harvard.edu/
+Salil P. Vadhan|http://crcs.seas.harvard.edu/
+Leslie Valiant|http://people.seas.harvard.edu/~valiant
+James H. Waldo|http://www.eecs.harvard.edu/~waldo/
+
+#University of Pennsylvania http://www.seas.upenn.edu/directory/departments.php
+http://www.seas.upenn.edu/~firooz/
+http://www.seas.upenn.edu/~riteshag/
+http://mems.seas.upenn.edu/homepage.php
+http://arratia.seas.upenn.edu
+http://bargatin.seas.upenn.edu/
+http://www.seas.upenn.edu/~dsb/
+http://nanoquant.seas.upenn.edu
+http://bau.seas.upenn.edu/
+http://www.sas.upenn.edu/~baumgart/baumgartlab/Home_Page.html
+http://www.seas.upenn.edu/~bonnell/
+http://www.seas.upenn.edu/~burdick2/
+http://carpick.seas.upenn.edu/
+http://www.seas.upenn.edu/~iweichen/
+http://chowlab.seas.upenn.edu
+http://www.med.upenn.edu/apps/faculty/index.php/g329/p6624208
+http://www.lrsm.upenn.edu/~composto/intro.html
+http://crocker.seas.upenn.edu/
+http://www.seas.upenn.edu/~cubukcu/Cubukcu_Lab/Home.html
+http://www.med.upenn.edu/apps/faculty/index.php/g334/p32990
+http://pathology.uphs.upenn.edu/Faculty/FacultyInfo.aspx?site=FacultyList&dept=Faculty&id=19682
+http://ic.ese.upenn.edu/
+http://www.cis.upenn.edu/~devietti/
+http://www.seas.upenn.edu/~discher/
+http://www.seas.upenn.edu/bmtlab/
+http://www.med.upenn.edu/apps/faculty/index.php/g319/p5523
+http://fangyenlab.seas.upenn.edu/
+http://gianola.seas.upenn.edu/index.html
+http://www.seas.upenn.edu/~hammer/
+http://biolines.seas.upenn.edu/
+http://issadore.seas.upenn.edu/
+http://www.grasp.upenn.edu/people/jadbabaie.html
+http://www.med.upenn.edu/physiol/p_janmey_bio.html
+http://www.lrsm.upenn.edu/~nanophys/
+http://www.gse.upenn.edu/~kafai/
+http://kagan.seas.upenn.edu/
+http://www.seas.upenn.edu/~ladislav/
+http://www.bio.upenn.edu/faculty/kim/
+http://www.grasp.upenn.edu/people/koditschek.html
+http://haptics.seas.upenn.edu/
+http://www.grasp.upenn.edu/people/kumar.html
+http://lazzaralab.seas.upenn.edu/
+http://www.seas.upenn.edu/~leegroup/index.html
+http://www.grasp.upenn.edu/people/lee.html
+http://www.seas.upenn.edu/~littlab/Site/Home.html
+http://www.med.upenn.edu/orl/people/liu/
+http://mlab.seas.upenn.edu/
+http://www.seas.upenn.edu/~injury/
+http://www.cis.upenn.edu/acg/
+http://www.med.upenn.edu/orl/
+http://www.seas.upenn.edu/~molneuro/
+http://www.grasp.upenn.edu/people/mintz.html
+http://cbmurray.chem.upenn.edu/
+http://patelgroup.seas.upenn.edu/
+http://creminslab.com/
+http://www.bio.upenn.edu/faculty/plotkin/
+http://www.seas.upenn.edu/~purohit/research/index.htm
+https://fling.seas.upenn.edu/~biophys/dynamic/wordpress/
+http://rajlab.seas.upenn.edu/
+http://www.sas.upenn.edu/rappegroup/
+http://rrgroup.seas.upenn.edu/
+http://www.uphs.upenn.edu/idd/Rubin.html
+http://www.meganryerson.com/research.html
+http://www.seas.upenn.edu/~santiago/
+http://www.seas.upenn.edu/~seider/group/index.html
+http://shenoy.seas.upenn.edu/index.html
+http://www.grasp.upenn.edu/people/shi.html
+http://sinnoresearchgroup.org/
+http://www.med.upenn.edu/orl/people/soslowsky/index.shtml
+http://stebelab.seas.upenn.edu/
+http://www.grasp.upenn.edu/people/taylor.html
+http://www.seas.upenn.edu/~atsourk/
+http://turner.seas.upenn.edu/
+http://opimweb.wharton.upenn.edu/people/faculty.cfm?id=13
+http://sensor.seas.upenn.edu/
+http://www.phil.upenn.edu/faculty/weinstein
+http://www.seas.upenn.edu/~winey
+http://spinepain.seas.upenn.edu
+http://www.seas.upenn.edu/%7Eshuyang/
+http://modlabupenn.org/
+
+#Brown University http://cs.brown.edu/people/faculty/
+http://cs.brown.edu/~ugur/
+http://cs.brown.edu/~ec/
+http://cs.brown.edu/~twd/
+http://cs.brown.edu/~pff/
+http://cs.brown.edu/~rfonseca/
+http://cs.brown.edu/~amy/
+http://cs.brown.edu/~hays/
+http://cs.brown.edu/~mph/
+http://jeffhuang.com/
+http://cs.brown.edu/~jfh/
+http://cs.brown.edu/~sorin/
+http://cs.brown.edu/~cjenkins/
+http://cs.brown.edu/~klein/
+http://cs.brown.edu/~kraskat/
+http://cs.brown.edu/~sk/
+http://cs.brown.edu/~dhl/
+http://cs.brown.edu/~mlittman/
+http://cs.brown.edu/~anna/
+http://cs.brown.edu/~bjm/
+http://cs.brown.edu/~braphael/
+http://cs.brown.edu/~spr/
+http://cs.brown.edu/~jes/
+http://cs.brown.edu/~sudderth/
+http://cs.brown.edu/~rt/
+http://cs.brown.edu/~stefie10/
+http://cs.brown.edu/~eli/
+http://cs.brown.edu/~pvaliant/
+http://cs.brown.edu/~pw/
+http://cs.brown.edu/~sbz/
+http://cs.brown.edu/~avd/
+http://cs.brown.edu/~black/
+http://cs.brown.edu/~rbb/
+http://cs.brown.edu/~tld/
+http://www.cs.wpi.edu/~kfisler/
+http://cs.brown.edu/~jj/
+http://cs.brown.edu/~franco/
+http://www.imada.sdu.dk/~vandinfa/
+http://cs.brown.edu/~tn
+http://www.cs.brown.edu/~sstrickl
+
+#Purdue University ​West Lafayette http://csdata.cs.purdue.edu/people/faculty/
+http://www.cs.purdue.edu/homes/aliaga/
+http://www.cs.purdue.edu/homes/aref
+http://www.cs.purdue.edu/homes/mja
+http://www.math.purdue.edu/~sbasu
+http://www.cs.purdue.edu/homes/bertino
+http://www.cs.purdue.edu/homes/bb
+http://www.cs.purdue.edu/homes/clifton
+http://www.cs.purdue.edu/homes/dec
+http://www.cs.purdue.edu/homes/bxd
+http://www.cs.purdue.edu/homes/ake
+http://www.cs.purdue.edu/homes/fahmy/
+http://www.cs.purdue.edu/homes/gnf
+http://www.cs.purdue.edu/homes/ayg
+http://www.cs.purdue.edu/homes/egrigore
+http://www.cs.purdue.edu/homes/seh
+http://www.cs.purdue.edu/homes/cmh
+http://www.cs.purdue.edu/homes/hosking/
+http://www.cs.purdue.edu/homes/suresh
+http://www.cs.purdue.edu/homes/dkihara
+http://www.cs.purdue.edu/homes/ninghui
+http://www.cs.purdue.edu/homes/ci
+http://www.math.purdue.edu/~lucier/
+http://www.cs.purdue.edu/homes/apm
+http://www.cs.purdue.edu/homes/neville
+http://homes.cerias.purdue.edu/~crisn/
+http://www.cs.purdue.edu/homes/park
+http://www.cs.purdue.edu/homes/popescu
+http://www.cs.purdue.edu/homes/apothen
+http://www.cs.purdue.edu/homes/sunil
+http://www.cs.purdue.edu/homes/alanqi
+http://www.cs.purdue.edu/homes/rego
+http://www.cs.purdue.edu/cgvlab
+http://www.cs.purdue.edu/homes/sameh
+http://www.cs.purdue.edu/homes/lsi
+http://www.cs.purdue.edu/homes/skeel
+http://spaf.cerias.purdue.edu/
+http://www.cs.purdue.edu/homes/spa
+http://www.cs.purdue.edu/homes/xmt/
+http://homes.cerias.purdue.edu/~ssw/
+http://www.cs.purdue.edu/homes/dxu
+http://www.cs.purdue.edu/homes/xyzhang
+http://www.cadlab.ecn.purdue.edu/~dave/
+http://www.ece.purdue.edu/~sbagchi/
+http://www.stat.purdue.edu/~wsc/
+http://www.cerias.purdue.edu/about/people/directory.php?class=faculty;id=4
+http://dynamo.ecn.purdue.edu/~ebertd/
+http://www.biology.purdue.edu/people/faculty/gribskov/
+http://www.ece.purdue.edu/~ychu/
+http://power1.chem.purdue.edu/kais/
+http://www.cs.purdue.edu/homes/ckillian
+http://www.cs.wmich.edu/~llilien/
+http://www.ece.purdue.edu/~qobi/
+http://dynamo.ecn.purdue.edu/~vijay/
+http://www.cs.purdue.edu/homes/jsv
+http://www.cs.purdue.edu/homes/yau
+http://www.cs.purdue.edu/homes/wxg
+http://www.cs.purdue.edu/homes/enh
+http://www.cs.purdue.edu/homes/wcrum
+http://www.cs.purdue.edu/homes/grr
+http://www.cs.purdue.edu/homes/depe
+
+#Rice University http://cohesion.rice.edu/engineering/computerScience/people.cfm?doc_id=3460
+Keith D. Cooper|http://www.cs.rice.edu/~keith
+Alan L. Cox|http://www.cs.rice.edu/~alc/
+Ronald N. Goldman|http://www.cs.rice.edu/~rng/
+Ronald N. Goldman|http://www.cs.rice.edu/~rng/
+John Greiner|http://www.cs.rice.edu/~greiner/
+David B. Johnson|http://www.cs.rice.edu/~dbj/
+John Mellor-Crummey|http://www.cs.rice.edu/~johnmc
+Luay K. Nakhleh|http://www.cs.rice.edu/~nakhleh/
+Luay K. Nakhleh|: http://www.cs.rice.edu/&#8764;nakhleh/
+T. S. Eugene Ng|http://www.cs.rice.edu/~eugeneng
+Krishna V. Palem|http://www.cs.rice.edu/~kvp1/
+Vivek Sarkar|http://www.cs.rice.edu/~vs3/home/Vivek_Sarkar.html
+Devika Subramanian|http://www.cs.rice.edu/~devika/
+Devika Subramanian|http://www.cs.rice.edu/~devika
+Moshe Y. Vardi|http://www.cs.rice.edu/~vardi/
+Dan S. Wallach|http://www.cs.rice.edu/~dwallach/
+Joe Warren|http://www.cs.rice.edu/~jwarren/
+Peter Druschel|http://www.cs.rice.edu/~druschel/
+
+#University of Southern California http://www.cs.usc.edu/faculty_staff/faculty/
+Adleman, Leonard|http://www.usc.edu/dept/molecular-science/fm-adleman.htm
+Ambite, Jose Luis|http://www.isi.edu/~ambite/
+Arbib, Michael|http://www.usc.edu/programs/neuroscience/faculty/profile.php?fid=16
+Annavaram, Murali|http://ee.usc.edu/faculty_staff/faculty_directory/annavaram.htm
+Artstein, Ron|http://ron.artstein.org/
+Ayanian, Nora|http://www-bcf.usc.edu/~ayanian/
+Barbic, Jernej|http://www-rcf.usc.edu/~jbarbic
+Bekey, George|http://www-robotics.usc.edu/~bekey/
+Billard, Aude|http://asl.epfl.ch/index.html?content=member.php?SCIPER=115671
+Boehm, Barry|http://sunset.usc.edu/people/barry.html
+Bono, Claire|http://pollux.usc.edu/~bono/
+Breuer, Melvin|http://ee.usc.edu/faculty_staff/faculty_directory/breuer.htm
+Brun, Todd|http://almaak.usc.edu/~tbrun/
+Chang, Yu-Han|http://www.isi.edu/~ychang
+Chen, Tim-Ting|http://www.cmb.usc.edu/people/tingchen/
+Cheng, William|http://merlot.usc.edu/william/usc/
+Chiang, David|http://www.isi.edu/~chiang
+Chien, Steve|http://www-aig.jpl.nasa.gov/public/home/chien/
+Cho, Young|http://www.isi.edu/~youngcho/
+Cohen, Danny|http://en.wikipedia.org/wiki/Danny_Cohen_(engineer)
+Colon, St. John|http://stjohncolon.com/
+Cote, Aaron|http://www-bcf.usc.edu/~aaroncot/
+Crowley, Michael|http://itp.usc.edu/faculty-staff/Michael-Crowley
+Debevec, Paul|http://www.pauldebevec.com/
+Deelman, Ewa|http://www.isi.edu/~deelman/
+Dehghani, Morteza|http://www.morteza-dehghani.net/
+DeVault, David|http://people.ict.usc.edu/~devault/
+Diakonikolas, Ilias|http://www.iliasdiakonikolas.org/
+Diniz, Pedro|http://www.isi.edu/~pedro/
+Dughmi, Shaddin|http://www-bcf.usc.edu/~shaddin/
+Easley, Scott|http://gamepipe.usc.edu/
+Edwards, George|http://softarch.usc.edu/~gedwards/
+Galstyan, Aram|http://isi.edu/~galstyan/
+Georgila, Kallirroi|http://people.ict.usc.edu/~kgeorgila/
+Ghandeharizadeh, Shahram|http://perspolis.usc.edu/Users/shahram/
+Gil, Yolanda|http://www.isi.edu/~gil
+Golubchik, Leana|http://bourbon.usc.edu/leana/
+Gordon, Andrew|http://www.ict.usc.edu/~gordon/
+Govindan, Ramesh|http://cs.usc.edu/~ramesh/
+Gratch, Jonathan|http://www.ict.usc.edu/~gratch/
+Halfond, William GJ|http://www-rcf.usc.edu/~halfond
+Hall, Mary|http://www.cs.utah.edu/~mhall/
+Heidemann, John|http://www.isi.edu/~johnh/
+Hill, Randall|http://people.ict.usc.edu/~hill/
+Hobbs, Jerry|http://www.isi.edu/~hobbs/
+Horowitz, Ellis|http://www.ellishorowitz.com/
+Hovy, Eduard|http://www.isi.edu/natural-language/people/hovy.html
+Huang, Ming-Deh|http://www-rcf.usc.edu/~mdhuang/
+Hwang, Kai|http://www-rcf.usc.edu/~mdhuang/
+Ijspeert, Auke|http://birg.epfl.ch/page27899.html
+Itti, Laurent|http://ilab.usc.edu/
+Kalia, Rajiv|http://cacs.usc.edu/
+Katz-Bassett, Ethan|http://www-bcf.usc.edu/~katzbass/
+Kempe, David|http://www-rcf.usc.edu/~dkempe/
+Kesselman, Carl|http://www.isi.edu/~carl/
+Knight, Kevin|http://www.isi.edu/natural-language/people/knight.html
+Knoblock, Craig^M
+            |http://www.isi.edu/integration/people/knoblock/index.html
+Koenig, Sven|http://www.idm-lab.org/
+Koolmanojwong, Supannika|http://www-scf.usc.edu/~koolmano/
+Krishnamachari, Bhaskar|http://ceng.usc.edu/~bkrishna/
+Kuo, Jay|http://viola.usc.edu/People/cckuo/index.html
+Lerman, Kristina|http://www.isi.edu/~lerman/
+Leuski, Anton|http://people.ict.usc.edu/~leuski/
+Li, Hao|http://www.hao-li.com/
+Liu, Yan|http://www-bcf.usc.edu/~liu32/
+Lloyd, Wyatt|http://www-bcf.usc.edu/~wyattllo/
+Lu, Stephen|http://wisdom.usc.edu/stephenlu/
+Lucas, Robert|http://www.isi.edu/people/rflucas/about
+Marcu, Daniel|http://www.isi.edu/~marcu/
+Marsella, Stacy|http://www.ict.usc.edu/~marsella
+Matthies, Larry|http://www-robotics.jpl.nasa.gov/people/Larry_Matthies/
+Mattmann, Chris|http://sunset.usc.edu/~mattmann/
+McLeod, Dennis|http://sir-lab.usc.edu/
+Medioni, Gerard|http://iris.usc.edu/people/medioni/
+Medvidovic, Neno|http://sunset.usc.edu/~neno/
+Miller, Jeffrey|http://www.sigmacoding.com/jeff/
+Mirkovic, Jelena|http://www.isi.edu/~mirkovic/
+Mitra, Urbashi |http://www.isi.edu/~mirkovic/
+Morency, Louis-Phillippe|http://people.ict.usc.edu/~morency/
+Nakano, Aiichiro|http://cacs.usc.edu/nakano.php
+Natarajan, Premkumar|http://www.isi.edu/about/bio/prem_natarajan
+Narayanan, Shrikanth (Shri)|http://sail.usc.edu/shri.php
+Neuman, Clifford|http://www.isi.edu/people/bcn/
+Neumann, Ulrich|http://graphics.usc.edu/cgit/un.html
+Nevatia, Ramakant|http://iris.usc.edu/people/nevatia/
+Papa, Marco|http://intersectworld.net/papa/
+Prasanna, Viktor|http://ceng.usc.edu/~prasanna/
+Pritchard, David|http://ints.io/daveagp/
+Psounis, Konstantinos|http://www-bcf.usc.edu/~kpsounis/
+Raghavachary, Saty |http://itp.usc.edu/faculty-staff/Sathyanaraya-Raghavachary
+Raghavendra, C.S.|http://ceng.usc.edu/~raghu/
+Reichardt, Ben|http://lipari.usc.edu/~requicha/
+Requicha, Ari|http://lipari.usc.edu/~requicha/
+Rohs, Remo|http://rohslab.cmb.usc.edu/
+Rosenbloom, Paul|http://cs.usc.edu/~rosenblo
+Sagae, Kenji|http://people.ict.usc.edu/~sagae/
+Schaal, Stefan|http://www-clmc.usc.edu/~sschaal/
+Scherer, Stefan|http://ict.usc.edu/profile/stefan-scherer/
+Schorr, Herbert|http://www3.isi.edu/about-bio_herbert_schorr
+Schweighofer, Nicolas|http://pt.usc.edu/labs/cnrl/
+Selby, Rick |http://www.computer.org/portal/web/tandc/Selby
+Sha, Fei|http://www-bcf.usc.edu/~feisha/
+Shahabi, Cyrus|http://infolab.usc.edu/Shahabi/index.html
+Shen, Wei-Min|http://www.isi.edu/~shen/
+Sukhatme, Gaurav|http://robotics.usc.edu/~gaurav
+Suma, Evan|http://people.ict.usc.edu/~suma/
+Swartout, William|http://www.ict.usc.edu/bio.php?pid=11
+Szekely, Pedro|http://www.isi.edu/~szekely/
+Tambe, Milind|http://teamcore.usc.edu/tambe/
+Tejada, Sheila|http://www-bcf.usc.edu/~stejada/
+Teng, Shang-Hua|http://www-rcf.usc.edu/~shanghua/
+Touch, Joe|http://www.isi.edu/~touch/
+Traum, David|http://www.ict.usc.edu/~traum/
+Valero-Cuevas, Francisco|http://bbdl.usc.edu/Francisco.php
+Vashishta, Priya|http://physics.usc.edu/Faculty/Vashishta/
+Ver Steeg, Greg|http://www.isi.edu/people/gregv/about
+Vijayakumar, Sethu|http://homepages.inf.ed.ac.uk/svijayak/
+Waterman, Michael|http://www.cmb.usc.edu/people/msw/Waterman.html
+Weinberg, Richard|http://www.usc.edu/hpcc/research/weinberg.php
+Wilson, John|http://dornsife.usc.edu/cf/faculty-and-staff/faculty.cfm?pid=1003824
+Yu, Minlan|http://www-bcf.usc.edu/~minlanyu/
+Zhang, Zhengyou|http://research.microsoft.com/en-us/um/people/zhang/
+Zhou, Xianghong Jasmine|http://zhoulab.usc.edu/
+Zimmermann, Roger|http://perspolis.usc.edu/Users/zimmerma/Welcome.html
+Zyda, Michael|http://gamepipe.usc.edu/USC_GamePipe_Laboratory/Director.html
+
+#Yale University http://cpsc.yale.edu/people/alpha
+Daniel Abadi|http://cs-www.cs.yale.edu/homes/dna/
+Henny Admoni|http://www.hennyadmoni.com
+James Aspnes|http://www.cs.yale.edu/homes/aspnes/
+Dirk Bergemann|http://dirkbergemann.commons.yale.edu/
+Dongqu Chen|http://www.cs.yale.edu/homes/dongqu/
+David Costanzo|http://www.cs.yale.edu/homes/dsc5/
+Julie Dorsey|http://graphics.cs.yale.edu/julie/index.html
+Joan Feigenbaum|http://cs-www.cs.yale.edu/homes/jf/home.html
+Michael Fischer|http://www.cs.yale.edu/homes/fischer/
+Mark Gerstein|http://www.gersteinlab.org/
+Liang Gu|http://www.cs.yale.edu/homes/guliang/
+Debayan Gupta|http://debayangupta.com/#home
+Wenjun Hu|http://seas.yale.edu/faculty-research/faculty-directory/wenjun-hu
+Kyle Jensen|http://som.yale.edu/kyle-jensen
+Amin Karbasi|http://seas.yale.edu/faculty-research/faculty-directory/amin-karbasi
+Eric Koskinen|http://ibm.biz/koskinen
+Eric Koskinen|http://ibm.biz/koskinen
+Eric Koskinen|http://eapls.org/items/1669/
+Rasmus Kyng|http://cs.yale.edu/homes/rjkyng/
+Hongqiang Liu|http://www.cs.yale.edu/homes/hl429/
+Yitzchak Lockerman|http://graphics.cs.yale.edu/site/people/yitzchak-lockerman
+John Maheswaran|http://www.cs.yale.edu/homes/maheswaran/home.html
+Michael Marmar|http://cs-www2.cs.yale.edu/homes/mjm265/
+Drew McDermott|http://www.cs.yale.edu/homes/dvm/
+Patrick Paczkowski|http://graphics.cs.yale.edu/patrick/
+Ruzica Piskac|http://www.cs.yale.edu/homes/piskac/
+Donya Quick|http://pantheon.yale.edu/~dvq2/
+Sushant Sachdeva|http://www.cs.yale.edu/homes/sachdeva/
+Mark Santolucito|http://www.marksantolucito.com/
+Brian Scassellati|http://cs-www.cs.yale.edu/homes/scaz/
+Aaron Segal|http://www.cs.yale.edu/homes/as2446/
+Zhong Shao|http://www.cs.yale.edu/homes/shao-zhong/
+Abraham Silberschatz|http://codex.cs.yale.edu/avi/
+Daniel Spielman|http://www.cs.yale.edu/homes/spielman/
+Ewa Syta|http://ewa.syta.us/
+Minghui Tan|http://cs.yale.edu/homes/minghui/
+Xiyin Tang|http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1922699
+Katherine Tsui|http://katemtsui.com/#designing-telepresence-robots-for-use-by-people-with-disabilities
+Ye Wang|http://www.cs.yale.edu/homes/yw254/
+Shu-Chun Weng|http://scw.tw/en/index.html
+Daniel Winograd-Cort|http://danwc.com/
+Mark Wogahn|http://www.cs.yale.edu/homes/wogahn/cs-support.html
+David Wolinsky|http://www.davidwolinsky.com/
+Ennan Zhai|http://www.cs.yale.edu/homes/zhai-ennan/
+Steven Zucker|http://www.cs.yale.edu/homes/vision/zucker/steve.html
+
+#Duke University http://www.cs.duke.edu/people/faculty/
+Agarwal, Pankaj K.|http://www.cs.duke.edu/~pankaj
+Astrachan, Owen|http://www.cs.duke.edu/~ola
+Babu, Shivnath|http://www.cs.duke.edu/~shivnath
+Benson, Theo|http://www.cs.duke.edu/~tbenson
+Chase, Jeffrey S.|http://www.cs.duke.edu/~chase
+Conitzer, Vincent|http://www.cs.duke.edu/~conitzer/
+Cox, Landon|http://www.cs.duke.edu/~lpcox
+Donald, Bruce R.|http://www.cs.duke.edu/brd
+Duvall, Robert C.|http://www.cs.duke.edu/~rcd
+Dwyer, Chris|http://www.ece.duke.edu/~dwyer/
+Farsiu, Sina|http://people.duke.edu/~sf59/
+Forbes, Jeffrey R. N.|http://www.cs.duke.edu/~forbes
+Gordan, Raluca-Mihaela|http://www.cs.duke.edu/~raluca
+Hartemink, Alexander J.|http://www.cs.duke.edu/~amink
+Heller, Katherine|http://stat.duke.edu/~kheller/
+Hilton, Andrew|http://people.ee.duke.edu/~adh39/
+Kim, Jungsang|http://www.ece.duke.edu/faculty/jungsang-kim
+Konidaris, George|http://www.cs.duke.edu/~gdk
+Lebeck, Alvin R.|http://www.cs.duke.edu/~alvy
+Lee, Benjamin C.|http://www.duke.edu/~bcl15/
+Lucic, Richard A.|http://www.cs.duke.edu/~lucic
+Machanavajjhala, Ashwin|http://www.cs.duke.edu/~ashwin
+Maggioni, Mauro|http://www.math.duke.edu/~mauro
+Maggs, Bruce|http://www.cs.duke.edu/~bmm
+Maggs, Bruce|http://www.cs.cmu.edu/afs/cs.cmu.edu/project/phrensy/pub/papers/GarrodMAMMOT08.pdf
+Maggs, Bruce|http://www.cs.cmu.edu/afs/cs.cmu.edu/project/phrensy/pub/papers/ManjhiAMMOT06.pdf
+Mukherjee, Sayan|http://www.stat.duke.edu/~sayan/
+Munagala, Kamesh|http://www.cs.duke.edu/~kamesh
+Panigrahi, Debmalya|http://www.cs.duke.edu/~debmalya
+Parr, Ronald E.|http://www.cs.duke.edu/~parr
+Reif, John H.|http://www.cs.duke.edu/~reif
+Rodger, Susan H.|http://www.cs.duke.edu/~rodger
+Sapiro, Guillermo|http://www.ee.duke.edu/faculty/guillermo-sapiro
+Schmidler, Scott C.|http://www.isds.duke.edu/~scs/
+Sorin, Daniel J.|http://www.ee.duke.edu/~sorin/
+Sun, Xiaobai|http://www.cs.duke.edu/~xiaobai
+Tomasi, Carlo|http://www.cs.duke.edu/~tomasi
+Trivedi, Kishor S.|http://www.ee.duke.edu/~kst
+Yang, Jun|http://www.cs.duke.edu/~junyang
+Yang, Xiaowei|http://www.cs.duke.edu/~xwy
+Arge, Lars|http://www.daimi.au.dk/~large/
+Azhar, Salman|http://www.cs.duke.edu/~azhar
+Brady, Rachael|http://www.cs.duke.edu/~rbrady
+Edelsbrunner, Herbert|http://www.cs.duke.edu/~edels
+Fowler, Robert|http://www.renci.org/~rjf/profile.html
+LaBean, Thomas H.|http://www.cs.duke.edu/~thl
+Mølhave, Thomas|http://www.cs.duke.edu/~thomasm
+Pitsianis, Nikos|http://www.cs.duke.edu/~nikos
+Roy Choudhury, Romit|http://www.ece.illinois.edu/directory/profile.asp?croy
+Biermann, Alan W.|http://www.cs.duke.edu/~awb
+Ellis, Carla Schlatter|http://www.cs.duke.edu/~carla
+Loveland, Donald W.|http://www.cs.duke.edu/~dwl
+Ramm, Dietolf|http://www.cs.duke.edu/~dr
+Starmer, C. Frank|http://frank.itlab.us
+Wagner, Robert A.|http://www.cs.duke.edu/~raw
+
+#University of Massachusetts—​Amherst https://www.cs.umass.edu/faculty/faculty-directory
+ Adrion, W. Richards|http://www.cs.umass.edu/~adrion/
+ Allan, James|http://cs.umass.edu/~allan/
+ Barrington, David A. Mix|http://www.cs.umass.edu/~barring/
+Berger, Emery|http://emeryberger.com
+Brun, Yuriy|http://people.cs.umass.edu/~brun
+Clarke, Lori|http://laser.cs.umass.edu/people/clarke.html
+Corner, Mark|http://www.cs.umass.edu/~mcorner
+Croft, W. Bruce|http://www.cs.umass.edu/~croft
+Diao, Yanlei|http://www.cs.umass.edu/~yanlei/
+Ganesan, Deepak|http://www.cs.umass.edu/~dganesan/
+Grupen, Roderic|http://www-robotics.cs.umass.edu/~grupen/home.html
+Guha, Arjun|http://www.cs.umass.edu/~arjun
+Hanson, Allen|http://vis-www.cs.umass.edu/~hanson/home.html
+Houmansadr, Amir|https://cs.umass.edu/~amir/
+Immerman, Neil|http://www.cs.umass.edu/~immerman/
+Jensen, David|http://www.cs.umass.edu/~jensen
+Kalogerakis, Evangelos|http://www.cs.umass.edu/~kalo/
+Kurose, James|http://www-net.cs.umass.edu/personnel/kurose.html
+Learned-Miller, Erik|http://www.cs.umass.edu/~elm/
+Levine, Brian|http://www.cs.umass.edu/~brian
+Mahadevan, Sridhar|http://www.cs.umass.edu/~mahadeva/
+Maji, Subhransu|https://cs.umass.edu/~smaji
+Manmatha, R.|http://ciir.cs.umass.edu/~manmatha/
+Marlin, Benjamin|http://openscholar.cs.umass.edu/marlin/
+McCallum, Andrew|http://www.cs.umass.edu/~mccallum/
+McCallum, Andrew|http://www.rexa.info/
+McGregor, Andrew|http://www.cs.umass.edu/~mcgregor/
+Meliou, Alexandra|http://people.cs.umass.edu/~ameli
+Miklau, Gerome|http://www.cs.umass.edu/~miklau/
+Moll, Robert|http://www.cs.umass.edu/~moll/
+Moss, J. Eliot B.|http://www.cs.umass.edu/~moss/
+O'Connor, Brendan|https://cs.umass.edu/~brenocon
+Osterweil, Leon|http://laser.cs.umass.edu/people/ljo.html
+Saha, Barna|https://cs.umass.edu/~barna
+Sheldon, Dan|http://cs.umass.edu/~sheldon
+Shenoy, Prashant|http://www.cs.umass.edu/~shenoy/
+Siegelmann, Hava|http://binds.cs.umass.edu/havaBio.html
+Sitaraman, Ramesh|http://www.cs.umass.edu/~ramesh/
+Towsley, Donald|http://www-net.cs.umass.edu/personnel/towsley.html
+Venkataramani, Arun|http://www.cs.umass.edu/~arun/
+Wallach, Hanna|http://www.cs.umass.edu/~wallach
+Wang, Rui|http://www.cs.umass.edu/~ruiwang/
+Weems, Charles|http://www.cs.umass.edu/~weems/
+Wileden, Jack|http://www.cs.umass.edu/~jack/
+Woolf, Beverly|http://centerforknowledgecommunication.com/05bpwabout.html
+Zilberstein, Shlomo|http://rbr.cs.umass.edu/~shlomo/
+Barto, Andrew|http://www-all.cs.umass.edu/~barto/
+Graham, Robert |http://www.cs.umass.edu/~bob/
+Lehnert, Wendy|http://www.cs.umass.edu/~lehnert/
+Lesser, Victor|http://mas.cs.umass.edu/lesser.html
+Rissland, Edwina|http://www.cs.umass.edu/~rissland/
+Rosenberg, Arnold|http://www.cs.umass.edu/~rsnbrg/
+Wogrin, Conrad|http://www.cs.umass.edu/~wogrin/
+ Avrunin, George|http://ext.math.umass.edu/~avrunin/
+Albrecht, Jeannie|http://www.cs.williams.edu/~jeannie/
+Anderson, Gordon|https://www.cs.umass.edu/~gordon/
+Arroyo, Ivon|http://centerforknowledgecommunication.com/09arroyo.html
+Cecchet, Emmanuel|http://www.cs.umass.edu/~cecchet/
+Corkill, Daniel|http://www.cs.umass.edu/~corkill/
+Fountain, Jane|http://people.umass.edu/jfountai/
+Fountain, Jane|http://people.umass.edu/jfountai/research.htm#honors
+Fountain, Jane|http://people.umass.edu/jfountai/affiliations.htm
+Fu, Kevin|http://www.cs.umass.edu/~kevinfu/
+Fu, Kevin|http://prisms.cs.umass.edu/bibliography/kevin.php?val=keywords&term=Award%20Paper&format=display
+Gong, Weibo|http://www-unix.ecs.umass.edu/~gong/
+Hudlicka, Eva|https://cs.umass.edu/~hudlicka/
+Irwin, David|http://www.ecs.umass.edu/~irwin/
+Kaplan, Scott|https://www.cs.amherst.edu/~sfkaplan/
+Liberatore, Marc|http://www.cs.umass.edu/~liberato/
+Marquard, Jenna|http://mie.umass.edu/faculty/jenna-marquard
+McGeoch, Catherine|http://www.cs.amherst.edu/ccm/
+McGeoch, Lyle|https://cms.amherst.edu/people/facstaff/lamcgeoch
+Ramamritham, Krithivasan|http://www-ccs.cs.umass.edu/~krithi/
+Richards, Tim|https://www.cs.umass.edu/~richards
+Schultz, Howard|http://vis-www.cs.umass.edu/~hschultz/
+Smaragdakis, Yannis|http://www.cs.umass.edu/~yannis/
+Smith, David|http://www.ccs.neu.edu/home/dasmith
+Sondheimer, Norman|http://www.cs.umass.edu/~normans/
+Spector, Lee|http://www.hampshire.edu/cs/7219.htm
+Streinu, Ileana|http://maven.smith.edu/~streinu/
+Thorup, Mikkel|http://www.diku.dk/hjemmesider/ansatte/mthorup/
+Verts, William|http://www.cs.umass.edu/~verts/
+Zink, Michael|http://www.ecs.umass.edu/index.pl
+
+#University of North Carolina—​Chapel Hill http://cs.unc.edu/people-page/faculty/
+http://cs.unc.edu/people/jay-aikat/
+http://www.cs.unc.edu/~aikat/
+http://cs.unc.edu/people/ron-alterovitz/
+http://www.cs.unc.edu/~ron
+http://cs.unc.edu/people/james-anderson/
+http://www.cs.unc.edu/~anderson/
+http://cs.unc.edu/people/sanjoy-k-baruah/
+http://www.cs.unc.edu/~baruah
+http://cs.unc.edu/people/alex-berg/
+http://acberg.com/
+http://cs.unc.edu/people/tamara-berg/
+http://www.tamaraberg.com/
+http://cs.unc.edu/people/gary-bishop/
+http://www.cs.unc.edu/~gb
+http://cs.unc.edu/people/prasun-dewan/
+http://www.cs.unc.edu/~dewan
+http://cs.unc.edu/people/enrique-dunn/
+http://www.cs.unc.edu/~dunn
+http://cs.unc.edu/people/michael-j-fern/
+http://cs.unc.edu/people/jan-michael-frahm/
+http://www.cs.unc.edu/~jmf
+http://cs.unc.edu/people/henry-fuchs/
+http://www.cs.unc.edu/~fuchs
+http://cs.unc.edu/people/k-jeffay/
+http://www.cs.unc.edu/~jeffay/
+http://cs.unc.edu/people/vladimir-jojic/
+http://cs.unc.edu/people/tessa-joseph-nicholas/
+http://cs.unc.edu/people/jasleen-kaur/
+http://www.cs.unc.edu/~jasleen/
+http://cs.unc.edu/people/anselmo-lastra/
+http://wwwx.cs.unc.edu/~lastra/
+http://cs.unc.edu/people/ming-c-lin/
+http://www.cs.unc.edu/~lin/
+http://cs.unc.edu/people/dinesh-manocha/
+http://www.cs.unc.edu/~dm/
+http://cs.unc.edu/people/ketan-mayer-patel/
+http://www.cs.unc.edu/~kmp/
+http://cs.unc.edu/people/leonard-mcmillan/
+http://www.csbio.unc.edu/mcmillan/index.py
+http://cs.unc.edu/people/fabian-monrose/
+http://www.cs.unc.edu/~fabian/
+http://cs.unc.edu/people/marc-niethammer/
+http://wwwx.cs.unc.edu/~mn/
+http://cs.unc.edu/people/nirjon/
+http://www.cs.virginia.edu/~smn8z/
+http://cs.unc.edu/people/stephen-m-pizer/
+http://www.cs.unc.edu/~smp/
+http://cs.unc.edu/people/david-a-plaisted/
+http://www.cs.unc.edu/~plaisted/
+http://cs.unc.edu/people/diane-pozefsky/
+http://wwwx.cs.unc.edu/~pozefsky/
+http://cs.unc.edu/people/jan-prins/
+http://www.cs.unc.edu/~prins/
+http://cs.unc.edu/people/michael-k-reiter/
+http://www.cs.unc.edu/~reiter/
+http://cs.unc.edu/people/montek-singh/
+http://www.cs.unc.edu/~montek/
+http://cs.unc.edu/people/f-don-smith/
+http://www.cs.unc.edu/~smithfd/
+http://cs.unc.edu/people/jack-snoeyink/
+http://www.cs.unc.edu/~snoeyink/
+http://cs.unc.edu/people/david-stotts/
+http://www.cs.unc.edu/~stotts/
+http://cs.unc.edu/people/cynthia-sturton/
+http://cs.unc.edu/~csturton/
+http://cs.unc.edu/people/martin-styner/
+http://www.cs.unc.edu/~styner/
+http://cs.unc.edu/people/leandra-vicci-2/
+http://www.cs.unc.edu/~vicci/
+http://cs.unc.edu/people/mary-c-whitton/
+http://www.cs.unc.edu/~whitton/
+
+#Johns Hopkins University http://www.cs.jhu.edu/faculty/?repeat=w3tc
+Yanif Ahmad|http://www.cs.jhu.edu/~yanif/
+Yair Amir|http://www.cs.jhu.edu/~yairamir/
+Raman Arora|http://ttic.uchicago.edu/~raman/Home.html
+Giuseppe Ateniese|http://www.cs.jhu.edu/~ateniese/
+Alexis Battle|http://battlelab.jhu.edu/
+Vladimir Braverman|http://www.cs.jhu.edu/~vova/
+Randal Burns|http://hssl.cs.jhu.edu/~randal/
+Stephen Checkoway|http://www.cs.jhu.edu/~s/
+Michael Dinitz|http://www.cs.jhu.edu/~mdinitz/
+Mark Dredze|http://www.cs.jhu.edu/~mdredze/
+Jason Eisner|http://www.cs.jhu.edu/~jason/
+Peter H. Froehlich|http://www.cs.jhu.edu/~phf/
+Matthew D. Green|http://spar.isi.jhu.edu/~mgreen/
+Gregory D. Hager|http://www.cs.jhu.edu/~hager/
+Susan Hohenberger|http://www.cs.jhu.edu/~susan/
+Peter Kazanzides|https://jshare.johnshopkins.edu/pkazanz1/public_html/
+Michael Kazhdan|http://www.cs.jhu.edu/~misha/
+Philipp Koehn|http://cs.jhu.edu/~phi
+Benjamin Langmead|http://www.cs.jhu.edu/~langmea/
+Simon Leonard|http://www.cs.jhu.edu/~sleonard/
+Xin Li|http://www.cs.jhu.edu/~lixints/
+Gerald Masson|http://www.cs.jhu.edu/~masson/
+Sara Miner More|http://www.cs.jhu.edu/~more/
+Austin Reiter|http://www.cs.jhu.edu/~areiter
+Aviel Rubin|http://avirubin.com/Avi_Rubins_home_page/Home.html
+Suchi Saria|http://www.suchisaria.com
+Joanne Selinski|http://www.cs.jhu.edu/~joanne/
+Russell H. Taylor|http://www.cs.jhu.edu/~rht
+Andreas Terzis|http://www.cs.jhu.edu/~terzis/
+Benjamin Van Durme|http://www.cs.jhu.edu/~vandurme/
+David Yarowsky|http://www.cs.jhu.edu/~yarowsky/
+
+#New York University http://engineering.nyu.edu/academics/departments/computer-science-engineering/people#faculty
+Boris  Aronov|http://cis.poly.edu/~aronov/
+Boris  Aronov|http://dx.doi.org/10.1007/s00454-005-1166-2
+Boris  Aronov|http://dx.doi.org/10.1016/j.comgeo.2007.07.004
+Enrico  Bertini|http://enrico.bertini.io^M
+Enrico  Bertini|http://fellinlovewithdata.com^M
+Enrico  Bertini|http://datastori.es
+Justin  Cappos|http://isis.poly.edu/~jcappos/^M
+Yi-Jen   Chiang|http://cse.poly.edu/chiang/
+Yi-Jen   Chiang|http://cse.poly.edu/chiang
+Rumi  Chunara|http://rumichunara.com
+Juliana  Freire|http://vgc.poly.edu/~juliana/^M
+Juliana  Freire|http://www.vistrails.org
+Juliana  Freire|/press-release/2015/02/25/darpa-contract-fund-exploration-hard-find-information-web
+Guido  Gerig|http://www.sci.utah.edu/scipubs/search.html?schTerm=G.+Gerig^M
+Guido  Gerig|https://scholar.google.com/citations?user=P5CovF0AAAAJ
+Guido  Gerig|http://www.sci.utah.edu/scipubs/search.html?schTerm=G.+Gerig
+Guido  Gerig|http://www.ncbi.nlm.nih.gov/pubmed?term=Gerig%20G
+Guido  Gerig|http://www.kitware.com/
+Lisa   Hellerstein|http://cse.poly.edu/~hstein
+John   Iacono|http://john.poly.edu/
+Kok-Ming   Leung|http://cis.poly.edu/~mleung/
+Nasir   Memon|http://isis.poly.edu/memon^M
+Nasir   Memon|http://www.digital-assembly.com
+Nasir   Memon|http://engineering.nyu.edu/crissp/
+Nasir   Memon|http://nyuad.nyu.edu/en/research/nyuad-institute/institute-research/crissp-ad.html
+Thomas  Reddington|http://www.ietf.org/rfc/rfc3386.txt
+Thomas  Reddington|http://tools.ietf.org/html/draft-team-tewg-restorehierarchy-00.pdf
+Keith W. Ross|http://www.nyu.edu/projects/keithwross/^M
+Claudio  Silva|http://vgc.poly.edu/~csilva/^M
+Torsten   Suel|http://cis.poly.edu/suel^M
+Torsten   Suel|/press-release/2015/02/25/darpa-contract-fund-exploration-hard-find-information-web
+Julian   Togelius|http://julian.togelius.com^M
+Julian   Togelius|http://togelius.blogspot.com
+Haldun  Hadimioglu|http://cse.poly.edu/haldun
+Andy  Nealen|http://www.nealen.net
+Andy  Nealen|http://scholar.google.com/citations?user=YjpanIYAAAAJ
+John   Sterling|http://cis.poly.edu/jsterling^M
+Jay  Chen|http://cs.nyu.edu/~jchen/
+Harish  Doraiswamy|http://www.harishd.com
+Gad M. Landau|http://cs.haifa.ac.il/LANDAU/landau.html
+Albert  Rafetseder|http://isis.poly.edu/~jcappos/papers/zhuang_seattle_gree_13.pdf
+Huy T. Vo|http://vgc.poly.edu/~hvo
+Dino  Dai Zovi|http://www.theta44.org/^M
+Dino  Dai Zovi|http://www.linkedin.com/in/dinodaizovi
+Dan  Guido|https://www.trailofbits.com^M
+
+#University of California—​Irvine http://www.cs.uci.edu/faculty/index.php
+Shannon Alfaro|http://www.ics.uci.edu/~stauro/
+
+Pierre Baldi|http://www.ics.uci.edu/~pfbaldi/
+
+Lubomir Bic|http://www.ics.uci.edu/~bic/
+
+Elaheh (Eli) Bozorgzadeh|http://www.ics.uci.edu/~eli/
+
+Michael  J Carey|http://www.ics.uci.edu/~mjcarey/
+
+Rina Dechter|http://www.ics.uci.edu/~dechter/
+
+Michael Dillencourt|http://www.ics.uci.edu/~dillenco/
+
+Paul Dourish|http://www.ics.uci.edu/~jpd/
+
+Nikil Dutt|http://www.ics.uci.edu/~dutt/
+
+Magda El Zarki|http://www.ics.uci.edu/~magda/
+
+David Eppstein|http://www.ics.uci.edu/~eppstein/
+
+Charless Fowlkes|http://www.ics.uci.edu/~fowlkes
+
+Michael Franz|http://www.ics.uci.edu/~franz/
+
+Tony Givargis|http://www.ics.uci.edu/~givargis/
+
+Michael T. Goodrich|http://www.ics.uci.edu/~goodrich/
+
+Ian G. Harris|http://www.ics.uci.edu/~harris/
+
+Wayne Hayes|http://www.ics.uci.edu/~wayne
+
+Daniel S. Hirschberg|http://www.ics.uci.edu/~dan/
+
+Alexander Ihler|http://www.ics.uci.edu/~ihler/
+
+Sandy Irani|http://www.ics.uci.edu/~irani/
+
+Stanislaw Jarecki|http://www.ics.uci.edu/~stasio
+
+Scott Jordan|http://www.ics.uci.edu/~sjordan/
+
+Dmitri V. Kalashnikov|http://www.ics.uci.edu/~dvk/
+
+David G. Kay|http://www.ics.uci.edu/~kay/
+
+Dennis Kibler|http://www.ics.uci.edu/~kibler/
+
+Alfred Kobsa|http://www.ics.uci.edu/~kobsa/
+
+Richard Lathrop|http://www.ics.uci.edu/~rickl/
+
+Marco  Levorato|http://www.ics.uci.edu/~mlevorat/
+
+Chen Li|http://www.ics.uci.edu/~chenli/
+
+George S. Lueker|http://www.ics.uci.edu/~lueker/
+
+Aditi Majumder|http://www.ics.uci.edu/~majumder
+
+Gopi Meenakshisundaram|http://www.ics.uci.edu/~gopi
+
+Sharad Mehrotra|http://www.ics.uci.edu/~sharad
+
+Eric Mjolsness|http://www.ics.uci.edu/~emj/
+
+Alexandru Nicolau|http://www.ics.uci.edu/~nicolau
+
+Richard E Pattis|http://www.ics.uci.edu/~pattis/
+
+Deva Ramanan|http://www.ics.uci.edu/~dramanan
+
+Isaac D. Scherson|http://www.ics.uci.edu/~isaac
+
+Padhraic Smyth|http://www.ics.uci.edu/~smyth
+
+Gene Tsudik|http://www.ics.uci.edu/~gts/
+
+Alexander Veidenbaum|http://www.ics.uci.edu/~alexv
+
+Nalini Venkatasubramanian|http://www.ics.uci.edu/~nalini
+
+Max Welling|http://www.ics.uci.edu/~welling
+
+Xiaohui Xie|http://www.ics.uci.edu/~xhx
+
+Harry Xu|http://www.ics.uci.edu/~guoqingx
+
+#University of Minnesota—​Twin Cities https://www.cs.umn.edu/people/faculty
+http://www-users.cs.umn.edu/~banerjee
+http://www-users.cs.umn.edu/~boley
+http://www-users.cs.umn.edu/~carlis
+http://www-users.cs.umn.edu/~chandra
+http://www-users.cs.umn.edu/~du
+http://www-users.cs.umn.edu/~gini
+http://www-users.cs.umn.edu/~sjguy
+http://www-users.cs.umn.edu/~tianhe
+http://www-users.cs.umn.edu/~bhecht
+http://www-users.cs.umn.edu/~heimdahl
+http://www-users.cs.umn.edu/~hopper
+http://www-users.cs.umn.edu/~interran
+http://www-users.cs.umn.edu/~isler/
+http://www-users.cs.umn.edu/~janardan
+http://www-users.cs.umn.edu/~karypis
+http://www-users.cs.umn.edu/~keefe/
+http://www-users.cs.umn.edu/~knights/
+http://www-users.cs.umn.edu/~konstan
+http://www-users.cs.umn.edu/~kuang
+http://www-users.cs.umn.edu/~kumar
+http://www-users.cs.umn.edu/~mccamant
+http://www-users.cs.umn.edu/~meyer
+http://www-users.cs.umn.edu/~mokbel
+http://www-users.cs.umn.edu/~cmyers/
+http://www-users.cs.umn.edu/~gopalan
+http://www-users.cs.umn.edu/~narain/
+http://www-users.cs.umn.edu/~neuha001
+http://www-users.cs.umn.edu/~npapas
+http://www-users.cs.umn.edu/~stergios
+http://www-users.cs.umn.edu/~saad
+http://www-users.cs.umn.edu/~schrater
+http://www-users.cs.umn.edu/~shekhar
+http://www-users.cs.umn.edu/~terveen
+http://www-users.cs.umn.edu/~tripathi
+http://www-users.cs.umn.edu/~evw
+http://www-users.cs.umn.edu/~jon
+http://www-users.cs.umn.edu/~lana
+http://www-users.cs.umn.edu/~yew
+http://www-users.cs.umn.edu/~zhai
+http://www-users.cs.umn.edu/~zhzhang
+http://www-users.cs.umn.edu/~barry
+http://www.cs.umn.edu/~larson
+http://www-users.cs.umn.edu/~carl
+http://www-users.cs.umn.edu/~shragowi
+
+#University of Virginia http://www.cs.virginia.edu/people/faculty/
+http://www.cs.virginia.edu/~csgsg/
+http://www.cs.virginia.edu/~csadmin/reservations/
+http://www.cs.virginia.edu/~nb3f
+http://www.cs.virginia.edu/~nb3f/
+http://www.cs.virginia.edu/~asb/
+http://www.cs.virginia.edu/~cohoon/
+http://www.cs.virginia.edu/~jwd/joomla_site/
+http://www.cs.virginia.edu/~evans/
+http://www.cs.virginia.edu/~mrf8t
+http://www.cs.virginia.edu/~mrf8t/
+http://www.cs.virginia.edu/~grimshaw/
+http://www.cs.virginia.edu/~horton/
+http://www.cs.virginia.edu/~humphrey/
+http://www.cs.virginia.edu/~jck/
+http://www.cs.virginia.edu/~jdl/
+http://www.cs.virginia.edu/~mohammad/
+http://www.cs.virginia.edu/~wnm/
+http://www.cs.virginia.edu/~robins/
+http://www.cs.virginia.edu/~shelat/Me.html
+http://www.cs.virginia.edu/~sherriff/
+http://www.cs.virginia.edu/~skadron/
+http://www.cs.virginia.edu/~soffa/
+http://www.cs.virginia.edu/~stankovic/rts.html
+http://www.cs.virginia.edu/~control/
+http://www.cs.virginia.edu/~stankovic/sensornet.html
+http://www.cs.virginia.edu/~lat7h/
+http://www.cs.virginia.edu/~lat7h/
+http://www.cs.virginia.edu/~hw5x/
+http://www.cs.virginia.edu/~weimer/
+http://www.cs.virginia.edu/~whitehouse/
+http://www.cs.virginia.edu/~jlp/
+http://www.cs.virginia.edu/~pfr/
+http://www.cs.virginia.edu/~son/
+
+#Ohio State University https://cse.osu.edu/about-us/faculty
+http://web.cse.ohio-state.edu/~agrawal
+http://web.cse.ohio-state.edu/~anish
+http://web.cse.ohio-state.edu/~mbelkin
+http://web.cse.ohio-state.edu/~sblanas
+http://web.cse.ohio-state.edu/~mikebond
+http://web.cse.ohio-state.edu/~crawfis/
+http://web.cse.ohio-state.edu/~jwdavis
+http://web.cse.ohio-state.edu/~tamaldey
+http://web.cse.ohio-state.edu/~fosler
+http://web.cse.ohio-state.edu/~lai
+http://web.cse.ohio-state.edu/~raghu
+https://people.math.osu.edu/memoli.2/
+http://web.cse.ohio-state.edu/~arnab
+http://web.cse.ohio-state.edu/~panda
+http://web.cse.ohio-state.edu/~srini/
+http://web.cse.ohio-state.edu/~chunyi
+http://web.cse.ohio-state.edu/~qin
+http://web.cse.ohio-state.edu/~lrademac
+http://aritter.github.io/
+http://lima.osu.edu/people/nroman/
+http://web.cse.ohio-state.edu/~rountev
+http://web.cse.ohio-state.edu/~saday
+http://web.cse.ohio-state.edu/~hwshen
+http://www.ece.osu.edu/~shroff
+http://web.cse.ohio-state.edu/~prasun
+http://web.cse.ohio-state.edu/~paolo
+http://web.cse.ohio-state.edu/~neelam
+http://web.cse.ohio-state.edu/~kannan
+http://web.cse.ohio-state.edu/~cstewart
+http://web.cse.ohio-state.edu/~supowit
+http://web.cse.ohio-state.edu/~teodores/
+http://web.cse.ohio-state.edu/~dwang
+http://web.cse.ohio-state.edu/~whmin
+http://web.cse.ohio-state.edu/~yangwang/
+http://web.cse.ohio-state.edu/~yusu
+http://web.cse.ohio-state.edu/~wenger
+http://web.cse.ohio-state.edu/~xuan
+http://web.cse.ohio-state.edu/~zhang
+http://web.cse.ohio-state.edu/~yinqian/
+
+#Rutgers, The State University of New Jersey—​New Brunswick http://www.cs.rutgers.edu/people/directory.php?type=faculty
+Eric Allender|http://www.cs.rutgers.edu/~allender/
+Abhishek Bhattacharjee|http://www.cs.rutgers.edu/~abhib/
+Ricardo Bianchini|http://www.cs.rutgers.edu/~ricardob/
+Alex Borgida|http://www.cs.rutgers.edu/~borgida/
+David Cash|http://www.cs.rutgers.edu/~david.cash/
+Ahmed Elgammal|http://www.cs.rutgers.edu/~elgammal/
+Tina Eliassi-Rad|http://www.cs.rutgers.edu/~eliassi/
+Martin Farach-Colton|http://www.cs.rutgers.edu/~farach/
+Michael Fredman|http://www.cs.rutgers.edu/~fredman/
+Vinod Ganapathy|http://www.cs.rutgers.edu/~vinodg/
+Apostolos Gerasoulis|http://www.cs.rutgers.edu/~gerasoul/
+Liviu Iftode|http://www.cs.rutgers.edu/~iftode/
+Tomasz Imielinski|http://www.cs.rutgers.edu/~imielins/
+Bahman Kalantari|http://www.cs.rutgers.edu/~kalantar/
+Mubbasir Kapadia|http://www.cs.rutgers.edu/~mk1353/
+ Swastik Kopparty|http://www.math.rutgers.edu/~sk1233/
+Ulrich Kremer|http://www.cs.rutgers.edu/~uli/
+Casimir Kulikowski|http://www.cs.rutgers.edu/~kulikows/
+Ping Li|http://www.cs.rutgers.edu/~pl314/
+Amélie Marian|http://www.cs.rutgers.edu/~amelie/
+Richard Martin|http://www.cs.rutgers.edu/~rmartin/
+Dimitris Metaxas|http://www.cs.rutgers.edu/~dnm/
+Naftaly Minsky|http://www.cs.rutgers.edu/~minsky/
+Shan Muthukrishnan|http://www.cs.rutgers.edu/~muthu/
+Santosh Nagarakatte|http://www.cs.rutgers.edu/~sn349/
+Badri Nath|http://www.cs.rutgers.edu/~badri/
+Thu Nguyen|http://www.cs.rutgers.edu/~tdnguyen/
+Manish Parashar|http://www.cs.rutgers.edu/~parashar/
+Vladimir Pavlovic|http://www.cs.rutgers.edu/~vladimir/
+Gerard Richter|http://www.cs.rutgers.edu/~richter/
+Shubhangi Saraf|http://www.math.rutgers.edu/~ss1984/
+Alexander Schliep|http://www.cs.rutgers.edu/~schliep/
+William Steiger|http://www.cs.rutgers.edu/~steiger/
+Louis Steinberg|http://www.cs.rutgers.edu/~lou/
+Matthew Stone|http://www.cs.rutgers.edu/~mdstone/
+Mario Szegedy|http://www.cs.rutgers.edu/~szegedy/
+Endre Szemeredi|http://www.cs.rutgers.edu/~szemered/
+Rebecca Wright|http://www.cs.rutgers.edu/~rebecca.wright/
+Zheng Zhang|http://www.cs.rutgers.edu/~zz124/
+James Abello Monedero|http://www.cs.rutgers.edu/~abelloj/
+Andrew Tjang|http://www.cs.rutgers.edu/~atjang/
+Frances Trees|http://www.cs.rutgers.edu/~fpt9/
+Seshadri Venugopal|http://www.cs.rutgers.edu/~venugopa/
+Ruby Agarwal|http://www.cs.rutgers.edu/~ra557/
+Guhan Balasubramanian|http://www.cs.rutgers.edu/~gb370/
+Alan Belowich|http://www.cs.rutgers.edu/~belowich/
+John Chirco|http://www.cs.rutgers.edu/~jt/
+Anagha Desai|http://www.cs.rutgers.edu/~ad1014/
+Guillermo Fuentes|http://www.cs.rutgers.edu/~gefc/
+Bhushan Kale|http://www.cs.rutgers.edu/~bsk68/
+Paul Krzyzanowski|http://www.cs.rutgers.edu/~pxk/
+Nitin Kumar|http://www.cs.rutgers.edu/~nk477/
+Shanmukha Priya Loke|http://www.cs.rutgers.edu/~sl1208/
+Neelakantan Nurani Krishnan|http://www.cs.rutgers.edu/~nn217/
+Abhishekkataria Rikhab Chand Kataria|http://www.cs.rutgers.edu/~ar1166/
+Brian Russell|http://www.cs.rutgers.edu/~morbius/
+Edmond Wu|http://www.cs.rutgers.edu/~ew231/
+Shiyu Zhou|http://www.cs.rutgers.edu/~szhou/
+Qingshan Liu|http://www.cs.rutgers.edu/~qsliu/
+Christopher Restif|http://www.cs.rutgers.edu/~crestif/
+Chao Chen|http://www.research.rutgers.edu/~cc1092/
+Lingda Li|http://www.research.rutgers.edu/~ll660/
+Sucheta Soundarajan|http://www.research.rutgers.edu/~ss2078/
+
+#University of California—​Davis http://www.cs.ucdavis.edu/
+Raissa D’Souza|http://mae.engr.ucdavis.edu/dsouza
+Vladimir Filkov|http://www.cs.ucdavis.edu/~filkov
+Matthew Franklin|http://www.cs.ucdavis.edu/~franklin
+Dipak Ghosal|http://dipakghosal.cs.ucdavis.edu
+Dan Gusfield|http://csiflabs.cs.ucdavis.edu/~gusfield
+Francois Gygi|http://eslab.ucdavis.edu/
+Bernd Hamann|http://graphics.cs.ucdavis.edu/~hamann/
+Patrice Koehl|http://www.cs.ucdavis.edu/~koehl/
+Yong Jae Lee|http://www.cs.ucdavis.edu/~yjlee/
+Karl N. Levitt|http://seclab.cs.ucdavis.edu/
+Xin Liu|http://www.cs.ucdavis.edu/~liu/
+Bertram Ludaescher|https://sites.google.com/site/ludaesch/
+Kwan-Liu Ma|http://www.cs.ucdavis.edu/~ma/
+Norman S. Matloff|http://heather.cs.ucdavis.edu/nm.html
+Norman S. Matloff|http://heather.cs.ucdavis.edu/~matloff/linux.html
+Nelson Max|http://library.llnl.gov/uhtbin/cgisirsi/0/0/0/60/55/X
+Biswanath Mukherjee|http://networks.cs.ucdavis.edu/~mukherje
+Michael Neff,|http://www.cs.ucdavis.edu/~neff/
+Ronald A. Olsson|http://www.cs.ucdavis.edu/~olsson/
+Cindy Rubio Gonzalez|http://web.cs.ucdavis.edu/~rubio/
+Ilias Tagkopoulos|http://www.cs.ucdavis.edu/~iliast
+S. Felix Wu|http://www.cs.ucdavis.edu/~wu
+Todd J. Green|http://www.cs.ucdavis.edu/~green/
+Sean Peisert|http://www.cs.ucdavis.edu/~peisert/
+Charles U. Martel|http://theory.cs.ucdavis.edu/
+Charles U. Martel|http://www.cs.ucdavis.edu/~martel/main/
+
+##Pennsylvania State University—​University Park
+
+#Northwestern University http://www.mccormick.northwestern.edu/research-faculty/directory/index.html
+Daniel Abrams|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/abrams-daniel.html
+Jan Achenbach|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/achenbach-jan.html
+Luis A.N. Amaral|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/amaral-luis-a-nunes.html
+Guillermo A. Ameer|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/ameer-guillermo.html
+Bruce Ankenman|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/ankenman-bruce.html
+Daniel Apley|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/apley-daniel.html
+Brenna Argall|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/argall-brenna.html
+Benjamin Armbruster|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/armbruster-benjamin.html
+Koray Aydin|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/aydin-koray.html
+Vadim Backman|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/backman-vadim.html
+Neda Bagheri|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/bagheri-neda.html
+Oluwaseyi Balogun|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/balogun-oluwaseyi.html
+Scott Barnett|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/barnett-scott.html
+Alvin Bayliss|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/bayliss-alvin.html
+Zdenek P. Bazant|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/bazant-zdenek.html
+Michael Bedzyk|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/bedzyk-michael.html
+Randy Berry|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/berry-randy.html
+Larry Birnbaum|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/birnbaum-larry.html
+Neal Blair|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/blair-neal.html
+Laurence Booth|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/booth-larry.html
+L. Catherine Brinson|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/brinson-catherine.html
+Linda J. Broadbelt|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/broadbelt-linda.html
+Wesley R. Burghardt|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/burghardt-wesley.html
+Giuseppe Buscarnera|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/buscarnera-giuseppe.html
+Fabian E. Bustamante|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/bustamante-fabian.html
+Arthur Butz|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/butz-arthur.html
+Jian Cao|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/cao-jian.html
+Stephen Carr|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/carr-stephen.html
+Timothy Carroll|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/carroll-timothy.html
+Robert Chang|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/chang-robert.html
+Wei Chen|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/chen-wei.html
+Yan Chen|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/chen-yan.html
+David Chopp|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/chopp-david.html
+Karen Chou|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/chou-karen.html
+Alok Choudhary|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/choudhary-alok.html
+Yip-Wah Chung|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/chung-wah-yip.html
+Mark Clark|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/clark-mark.html
+Jennifer Cole|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/cole-jennifer.html
+J. Edward Colgate|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/colgate-edward.html
+James Conley|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/conley-james.html
+Noshir Contractor|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/contractor-noshir.html
+David Corr|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/corr-david.html
+Oliver S. Cossairt|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/cossairt-oliver.html
+Buckley Crist|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/crist-buckley.html
+Gianluca Cusatis|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/cusatis-gianluca.html
+Isaac M. Daniel|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/daniel-isaac.html
+Stephen Davis|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/davis-stephen.html
+Peter Dinda|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/dinda-peter.html
+Irina Dolinskaya|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/dolinskaya-irina.html
+Jing Dong|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/dong-jing.html
+Charles H. Dowding|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/dowding-charles.html
+Douglas Downey|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/downey-douglas.html
+Vinayak P. Dravid|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/dravid-vinayak.html
+Jennie M. Duggan|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/duggan-jennie.html
+David Dunand|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/dunand-david.html
+Pablo Durango-Cohen|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/durango-cohen-pablo.html
+Richard P. Van Duyne|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/duyne-van-richard.html
+Kornel F. Ehmann|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/ehmann-kornel.html
+Horacio D. Espinosa|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/espinosa-horacio.html
+Robby Findler|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/findler-robert.html
+Morris Fine|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/fine-morris.html
+Richard Finno|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/finno-richard.html
+Ken Forbus|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/forbus-ken.html
+Robert Fourer|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/fourer-robert.html
+Arthur J. Freeman|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/freeman-arthur.html
+Randy Freeman|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/freeman-randy.html
+Richard Freeman|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/freeman-richard.html
+Jean-Francois Gaillard|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/gaillard-jean-francois.html
+David Gatchell|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/gatchell-david.html
+Elizabeth Gerber|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/gerber-elizabeth.html
+Sandip Ghosal|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/ghosal-sandip.html
+Matthew R. Glucksberg|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/glucksberg-matthew.html
+Adam Goodman|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/goodman-adam.html
+Kimberly A. Gray|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/gray-kimberly.html
+Matthew Grayson|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/grayson-matthew.html
+Jie Gu|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/gu-jie.html
+Dongning Guo|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/guo-dongning.html
+Ahmad Hadavi|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hadavi-ahmad.html
+Abraham H. Haddad|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/haddad-abraham.html
+Sossina M. Haile|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/haile-sossina.html
+Kristian J. Hammond|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hammond-kristian.html
+Nikos Hardavellas|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hardavellas-nikos.html
+Jason D. Hartline|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hartline-jason.html
+Mitra Hartmann|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hartmann-mitra.html
+Gordon Hazen|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hazen-gordon.html
+Larry Henschen|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/henschen-larry.html
+Walter Herbst|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/herbst-walter.html
+Mark C. Hersam|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hersam-mark.html
+Seng-Tiong Ho|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/ho-tiong-seng.html
+Greg Holderfield|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/holderfield-greg.html
+Michael Honig|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/honig-michael.html
+Michael Horn|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/horn-michael.html
+Ian Horswill|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/horswill-ian.html
+Jiaxing Huang|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/huang-jiaxing.html
+Yonggang Huang|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/huang-yonggang.html
+Seyed M.R. Iravani|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/iravani-seyed.html
+Michael Jewett|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/jewett-mike.html
+Derk Joester|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/joester-derk.html
+Mark Johnson|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/johnson-mark.html
+Russell Joseph|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/joseph-russ.html
+Ming-Yang Kao|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/kao-yang-ming.html
+William Kath|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/kath-william.html
+Aggelos K. Katsaggelos|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/katsaggelos-aggelos.html
+Leon M. Keer|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/keer-leon.html
+David M. Kelso|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/kelso-david.html
+Sinan Keten|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/keten-sinan.html
+Gloria J. Kim|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/kim-gloria.html
+Patrick F. Kiser|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/kiser-patrick.html
+Diego Klabjan|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/klabjan-diego.html
+Sridhar Krishnaswamy|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/krishnaswamy-sridhar.html
+Raymond J. Krizek|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/krizek-raymond.html
+Manohar Kulkarni|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/kulkarni-manohar.html
+Prem Kumar|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/kumar-prem.html
+Harold H. Kung|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/kung-harold.html
+Aleksandar Kuzmanovic|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/kuzmanovic-aleksandar.html
+Lincoln J. Lauhon|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/lauhon-lincoln.html
+Chung-Chieh Lee|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/lee-chieh-chung.html
+Josh Leonard|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/leonard-josh.html
+Seth Lichter|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/lichter-seth.html
+Wei-Chung Lin|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/lin-chung-wei.html
+John Linehan|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/linehan-john.html
+Vadim Linetsky|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/linetsky-vadim.html
+Robert A. Linsenmeier|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/linsenmeier-robert.html
+Chang Liu|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-chang.html
+Wing K. Liu|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-kam-wing.html
+Shu Q. Liu|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-shu.html
+Amanda Petford-Long|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/long-petford-amanda.html
+Richard M. Lueptow|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/lueptow-richard.html
+Erik Luijten|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/luijten-erik.html
+Kevin Lynch|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/lynch-kevin.html
+Malcolm A. MacIver|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/macIver-malcolm.html
+Hani Mahmassani|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/mahmassani-hani.html
+Madhav Mani|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/mani-madhav.html
+Mike Marasco|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/marasco-mike.html
+Luisa Marcelino|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/marcelino-luisa.html
+Michael Markl|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/markl-michael.html
+Laurence Marks|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/marks-laurence.html
+Tobin J. Marks|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/marks-tobin.html
+Eric Masanet|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/masanet-eric.html
+Thomas Mason|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/mason-thomas.html
+Bernard J. Matkowsky|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/matkowsky-bernard.html
+Sanjay Mehrotra|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/mehrotra-sanjay.html
+Gokhan Memik|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/memik-gokhan.html
+Seda O. Memik|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/memik-ogrenci-seda.html
+Michael J. Miksis|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/miksis-michael.html
+William M. Miller|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/miller-william.html
+Chad Mirkin|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/mirkin-chad.html
+Hooman Mohseni|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/mohseni-hooman.html
+David Morton|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/morton-david.html
+Milan Mrksich|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/mrksich-milan.html
+Todd Murphey|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/murphey-todd.html
+Wendy M. Murray|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/murray-wendy.html
+Barry Nelson|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/nelson-barry.html
+Jorge Nocedal|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/nocedal-jorge.html
+Omid Nohadani|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/nohadani-omid.html
+Don Norman|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/norman-don.html
+Justin M. Notestein|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/notestein-justin.html
+Teri Odom|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/odom-teri.html
+Suzanne Olds|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/olds-suzanne.html
+Gregory B. Olson|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/olson-gregory.html
+Monica Olvera de la Cruz|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/olvera-de-la-cruz-monica.html
+Julio M. Ottino|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/ottino-julio.html
+Aaron I. Packman|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/packman-aaron.html
+Bryan Pardo|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/pardo-bryan.html
+Neelesh A. Patankar|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/patankar-neelesh.html
+Eric J. Perreault|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/perreault-eric.html
+Ohad Perry|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/perry-ohad.html
+Michael A. Peshkin|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/peshkin-michael.html
+Martin Plonus|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/plonus-martin.html
+Jianmin Qu|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/qu-jianmin.html
+Morteza Amir Rahimi|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/rahimi-morteza.html
+Mark A. Ratner|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/ratner-mark.html
+Manijeh Razeghi|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/razeghi-manijeh.html
+Hermann Riecke|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/riecke-hermann.html
+Chris Riesbeck|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/riesbeck-chris.html
+James Rondinelli|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/rondinelli-james.html
+Elliott Rouse|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/rouse-elliott.html
+John Rudnicki|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/rudnicki-john.html
+Gregory Ryskin|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/ryskin-gregory.html
+Alan V. Sahakian|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/sahakian-alan.html
+Peter Scheuermann|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/scheuermann-peter.html
+Joseph L. Schofer|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/schofer-joseph.html
+Evan Scott|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/scott-evan.html
+David Seidman|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/seidman-david.html
+Ramille Shah|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/shah-ramille.html
+Surendra P. Shah|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/shah-surendra.html
+Selim Shahriar|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/shahriar-selim.html
+Kenneth Shull|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/shull-kenneth.html
+Mary Silber|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/silber-mary.html
+Karen Smilowitz|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/smilowitz-karen.html
+Randall Q. Snurr|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/snurr-randall.html
+G. Jeffrey Snyder|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/snyder-gerald.html
+Siavash Sohrab|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/sohrab-siavash.html
+Sara Owsley Sood |http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/sood-owsley-sara.html
+Kathleen A. Stair|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/stair-kathleen.html
+Amanda Stathopoulos|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/stathopoulos-amanda.html
+Jeremy Staum|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/staum-jeremy.html
+Samuel Stupp|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/stupp-samuel.html
+Cheng Sun|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/sun-cheng.html
+Igal Szleifer|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/szleifer-igal.html
+Allen Taflove|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/taflove-allen.html
+Ajit Tamhane|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/tamhane-ajit.html
+Charles Thompson|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/thompson-charles.html
+John M. Torkelson|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/torkelson-john.html
+Goce Trajcevski|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/trajcevski-goce.html
+Matthew Tresch|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/tresch-matthew.html
+John B. Troy|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/troy-john.html
+Jack E. Tumblin|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/tumblin-john.html
+Keith E.J. Tyo|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/tyo-keith.html
+Vladimir Volpert|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/volpert-vladimir.html
+Peter W. Voorhees|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/voorhees-peter.html
+Andreas Waechter|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/waechter-andreas.html
+Gregory J. Wagner|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/wagner-gregory.html
+Joseph T. Walsh|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/walsh-joseph.html
+Q. Jane Wang|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/wang-jane-qian.html
+Yun Wang|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/wang-yun.html
+Johannes Weertman|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/weertman-johannes.html
+Julia Weertman|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/weertman-julia.html
+Ermin Wei|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/wei-ermin.html
+George Wells|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/wells-george.html
+Mark Werwath|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/werwath-mark.html
+Bruce Wessels|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/wessels-bruce.html
+William White|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/white-william.html
+Uri Wilensky|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/wilensky-uri.html
+Jill H. Wilson|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/wilson-jill.html
+Chris Wolverton|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/wolverton-chris.html
+Chi-Haur Wu|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/wu-haur-chi.html
+Tai T. Wu|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/wu-tai.html
+Ying Wu|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/wu-ying.html
+Fengqi You|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/you-fengqi.html
+Horace Yuen|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/yuen-horace.html
+Hao Zhang|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/zhang-hao.html
+Haoqi Zhang|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/zhang-haoqi.html
+Hai Zhou|http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/zhou-hai.html
+
+#University of California—​Santa Barbara
+http://www.cs.ucsb.edu/~almeroth/
+http://www.cs.ucsb.edu/~ebelding
+http://www.cs.ucsb.edu/~bultan/
+http://www.cs.ucsb.edu/~chong
+http://www.cs.ucsb.edu/~pconrad
+http://www.cs.ucsb.edu/~mikec
+http://www.cs.ucsb.edu/~vandam/
+http://www.cs.ucsb.edu/~omer/
+http://www.cs.ucsb.edu/~amr
+http://www.cs.ucsb.edu/~franklin
+http://www.cs.ucsb.edu/~teo/index.html
+http://www.cs.ucsb.edu/~benh
+http://www.cs.ucsb.edu/~holl
+http://www.cs.ucsb.edu/~ckrintz
+http://www.cs.ucsb.edu/~chris
+http://www.cs.ucsb.edu/~sherwood
+http://www.cs.ucsb.edu/~dbl
+http://www.cs.ucsb.edu/~su
+http://www.cs.ucsb.edu/~suri/
+http://www.cs.ucsb.edu/~tessaro/
+http://www.cs.ucsb.edu/~mturk/
+http://www.cs.ucsb.edu/~vigna
+http://www.cs.ucsb.edu/~yfwang
+http://www.cs.ucsb.edu/~xyan/
+http://www.cs.ucsb.edu/~tyang/
+http://www.cs.ucsb.edu/~ravenben
+http://www.cs.ucsb.edu/~htzheng
+
+#University of Chicago https://cs.uchicago.edu/people
+Tim Armstrong|http://people.cs.uchicago.edu/~tga/
+Mohit Bansal|http://ttic.uchicago.edu/~mbansal/
+T. Andrew Binkowski|http://people.cs.uchicago.edu/~abinkowski/
+Geraldine Brady|http://people.cs.uchicago.edu/~brady
+Stefan Canzar|http://ttic.uchicago.edu/~canzar/
+Ayan Chakrabarti|http://ttic.uchicago.edu/~ayanc/www/
+Ravi Chugh|http://people.cs.uchicago.edu/~rchugh/
+Julia Chuzhoy|http://ttic.uchicago.edu/~cjulia/
+Todd Dupont|http://people.cs.uchicago.edu/~dupont
+Lance Fortnow|http://people.cs.uchicago.edu/~fortnow/
+Kevin Gimpel|http://ttic.uchicago.edu/~kgimpel/
+Haryadi Gunawi|http://people.cs.uchicago.edu/~haryadi
+Pooya Hatami|http://people.cs.uchicago.edu/~pooya
+Qixing Huang|http://ttic.uchicago.edu/~huangqx/
+Aly Khan|http://ttic.uchicago.edu/~aakhan/
+Gordon Kindlmann|http://people.cs.uchicago.edu/~glk/
+Gustav Larsson|http://people.cs.uchicago.edu/~larsson/
+Prof. Haryadi Gunawi|http://people.cs.uchicago.edu/~haryadi
+Shi Li|http://ttic.uchicago.edu/~shili/
+Yuan Li|http://people.cs.uchicago.edu/~yuanli
+Karen Livescu|http://ttic.uchicago.edu/~klivescu/
+Zhihao Lou|http://people.cs.uchicago.edu/~zhlou
+Shan Lu|http://people.cs.uchicago.edu/~shanlu
+Mehrdad Mahdavi|http://ttic.uchicago.edu/~mahdavi/
+Michael Maire|http://ttic.uchicago.edu/~mmaire/
+Yury Makarychev|http://ttic.uchicago.edu/~yury/
+David McAllester|http://ttic.uchicago.edu/~dmcallester/
+Ofer Meshi|http://ttic.uchicago.edu/~meshi/
+Todd Nugent|http://people.cs.uchicago.edu/~nugent
+Anna Olson|http://people.cs.uchicago.edu/~olsona/home.html
+Denis Pankratov|http://people.cs.uchicago.edu/~pankratov/
+Tiratat Patana-anake|http://people.cs.uchicago.edu/~tiratatp/
+Alexander A Razborov|http://people.cs.uchicago.edu/~razborov/teaching/index.html
+Sharon Salveter|http://people.cs.uchicago.edu/~salveter
+Mark Shacklette|http://people.cs.uchicago.edu/~mark
+Gregory Shakhnarovich|http://ttic.uchicago.edu/~gregory/
+Adam Shaw|http://people.cs.uchicago.edu/~adamshaw
+Corina Simian|http://people.cs.uchicago.edu/~csimian/
+Borja Sotomayor|http://people.cs.uchicago.edu/~borja/
+Nathan Srebro|http://ttic.uchicago.edu/~nati/
+Mark Anthony Stoehr|http://people.cs.uchicago.edu/~stoehr/
+Nedelina Teneva|http://people.cs.uchicago.edu/~nteneva/
+Ryota Tomioka|http://ttic.uchicago.edu/~ryotat/
+Madhur Tulsiani|http://ttic.uchicago.edu/~madhurt/
+Raquel Urtasun|http://www.cs.toronto.edu/~urtasun/
+Peter Vassilatos|http://people.cs.uchicago.edu/~pete/
+Alexander Veit|http://people.cs.uchicago.edu/~aveit/
+Matthew Walter|http://ttic.uchicago.edu/~mwalter/
+Jinbo Xu|http://ttic.uchicago.edu/~jinbo/
+Qinqing Zheng|http://people.cs.uchicago.edu/~qinqing
+
+#Dartmouth College http://web.cs.dartmouth.edu/people
+Devin J. Balkcom|http://www.cs.dartmouth.edu/~devin/
+Andrew Thomas Campbell|http://www.cs.dartmouth.edu/~campbell/
+Michael A. Casey|http://eamusic.dartmouth.edu/~mcasey/index.html
+Michael A. Casey|http://bregman.dartmouth.edu/~mcasey
+Michael A. Casey|http://bregman.dartmouth.edu/~mcasey
+Amit Chakrabarti|http://www.cs.dartmouth.edu/~ac/
+Thomas H. Cormen|http://www.cs.dartmouth.edu/~thc/
+Thomas H. Cormen|http://www.cs.dartmouth.edu/~thc/
+Robert Lewis (Scot) Drysdale, III|http://www.cs.dartmouth.edu/~scot/
+Wojciech Jarosz|http://www.cs.dartmouth.edu/~wjarosz/
+Prasad Jayanti|http://www.cs.dartmouth.edu/~prasad/
+David Kotz|http://www.cs.dartmouth.edu/~dfk/
+David Kotz|http://www.cs.dartmouth.edu/~dfk/
+Qiang Liu|http://www.cs.dartmouth.edu/~qliu/
+Daniel Rockmore|http://www.cs.dartmouth.edu/~rockmore/
+Sean W. Smith|http://www.cs.dartmouth.edu/~sws/
+Lorenzo Torresani|http://www.cs.dartmouth.edu/~lorenzo/
+Emily Whiting|http://www.cs.dartmouth.edu/~emily/
+Peter Winkler|http://www.math.dartmouth.edu/~pw/
+Xing-Dong Yang|http://xingdongyang.net/
+Xia Zhou|http://www.cs.dartmouth.edu/~xia/
+Xia Zhou|http://www.cs.dartmouth.edu/~xia/
+Sergey Bratus|http://www.cs.dartmouth.edu/~sergey/
+Sergey Bratus|http://www.cs.dartmouth.edu/~sergey/
+Lorie Loeb|http://www.cs.dartmouth.edu/~lorie/About.html
+Douglas McIlroy|http://www.cs.dartmouth.edu/~doug/
+Bill McKeeman|http://www.cs.dartmouth.edu/~mckeeman/
+Charles C. Palmer |http://www.cs.dartmouth.edu/~ccpalmer/
+Olga Zhaxybayeva|http://carrot.mcb.uconn.edu/~olgazh/
+Loris Bazzani|http://www.lorisbazzani.info/
+Yoonjoo Choi|http://www.cs.dartmouth.edu/~yoonjoo/
+Karen G. Dowell|http://www.cs.dartmouth.edu/~kgd/
+Anna Shubina|http://www.cs.dartmouth.edu/~ashubina/
+Anna Shubina|http://www.cs.dartmouth.edu/~ashubina////
+Deeptak Verma|http://www.cs.dartmouth.edu/~dverma////
+Wayne Cripps|http://www.cs.dartmouth.edu/~wbc/
+David Jewell|http://www.grigoryanlab.org/?sec=people
+Ron Peterson|http://www.cs.dartmouth.edu/~rapjr/
+Tim Tregubov|http://www.cs.dartmouth.edu/~tim////
+Bennet Vance|http://neukom.dartmouth.edu/people/vance.html
+Wojciech Jarosz|http://www.cs.dartmouth.edu/~wjarosz
+
+#Stony Brook University—​SUNY https://www.cs.stonybrook.edu/people/faculty
+Arie E. Kaufman|http://www.cs.stonybrook.edu/~ari
+Leman Akoglu|http://www.cs.stonybrook.edu/~leman
+Leo Bachmair|http://www.cs.stonybrook.edu/~leo
+Aruna Balasubramanian|http://www3.cs.stonybrook.edu/~arunab
+Niranjan Balasubramanian|http://www.cs.stonybrook.edu/~niranjan
+Michael Bender|http://www.cs.stonybrook.edu/~bender
+Jing Chen|http://www.cs.stonybrook.edu/~jingchen
+Rezaul Chowdhury|http://www.cs.stonybrook.edu/~rezaul
+Samir R. Das|http://www.cs.stonybrook.edu/~samir
+Michael Ferdman|http://compas.cs.stonybrook.edu/~mferdman/
+Paul Fodor|http://www.cs.stonybrook.edu/~pfodor
+Anshul Gandhi|http://www.cs.stonybrook.edu/~anshul
+Jie Gao|http://www.cs.stonybrook.edu/~jgao
+Phillipa Gill|http://www.cs.stonybrook.edu/~phillipa
+Xianfeng Gu|http://www.cs.stonybrook.edu/~gu
+Himanshu Gupta|http://www.cs.stonybrook.edu/~hgupta
+Nima Honarmand|http://compas.cs.stonybrook.edu/~nhonarmand
+Rob Johnson|http://www.cs.stonybrook.edu/~rob
+Arie Kaufman|http://www.cs.stonybrook.edu/~ari
+Robert F. Kelly|http://www.cs.stonybrook.edu/~robkelly/
+Michael Kifer|http://www.cs.stonybrook.edu/~kifer/
+Y. Annie Liu|http://www.cs.stonybrook.edu/~liu
+Long Lu|http://www.cs.stonybrook.edu/~long
+Kevin McDonnell|http://www3.cs.stonybrook.edu/~ktm
+Richard McKenna|http://www.cs.stonybrook.edu/~richard/
+Klaus Mueller|http://www.cs.stonybrook.edu/~mueller
+Minh Hoai Nguyen|http://www.cs.stonybrook.edu/~minhhoai/
+Luis Ortiz|http://www.cs.stonybrook.edu/~leortiz/
+Michalis Polychronakis|http://www3.cs.stonybrook.edu/~mikepo/
+Donald Porter|http://www.cs.stonybrook.edu/~porter
+Hong Qin|http://www.cs.stonybrook.edu/~qin/
+Dimitris Samaras|http://www.cs.stonybrook.edu/~samaras/
+Tony Scarlatos|http://www.cs.stonybrook.edu/~tony/
+Andrew Schwartz|http://www.seas.upenn.edu/~hansens/
+Roy Shilkrot|http://www.cs.stonybrook.edu/~roys/
+Radu Sion|http://www.cs.stonybrook.edu/~sion/
+Steven Skiena|http://www.cs.stonybrook.edu/~skiena/
+Scott Smolka|http://www.cs.stonybrook.edu/~sas/
+Eugene Stark|http://bsd7.cs.sunysb.edu/~stark/
+Scott Stoller|http://www.cs.stonybrook.edu/~stoller/
+Allen Tannenbaum|http://www.cs.stonybrook.edu/~arobertan/
+Michael Tashbook|http://www.cs.stonybrook.edu/~tashbook/
+Anita Wasilewska|http://www.cs.stonybrook.edu/~anita/
+Jennifer Wong-Ma|http://www.cs.stonybrook.edu/~jwong/
+Erez Zadok|http://www.cs.stonybrook.edu/~ezk/
+Rong Zhao|http://www.cs.stonybrook.edu/~rzhao/
+Tamara Berg|http://www.cs.stonybrook.edu/~tlberg
+Yevgen Borodin|http://www.cs.stonybrook.edu/~borodin
+Tzi-cker Chiueh|http://www.ecsl.cs.sunysb.edu/~chiueh/
+Bong Jun Choi|http://www.cs.stonybrook.edu/~bjchoi/
+Pradipta De|http://www.cs.stonybrook.edu/~prade/
+Sael Lee (Lee Sael)|http://www.cs.stonybrook.edu/~sael/
+Michael Schatz|http://www.cbcb.umd.edu/~mschatz/
+Vyas Sekar|http://www.cs.stonybrook.edu/~vyas/
+Vyas Sekar|http://www.cs.stonybrook.edu/~vyas/mobileweb.html
+Ilchul Yoon|http://www.cs.stonybrook.edu/~icyoon/
+Esther Arkin|http://www.ams.stonybrook.edu/~estie
+Sangjin Hong|http://web.ece.sunysb.edu/~snjhong/
+Xiangmin Jiao|http://www.ams.sunysb.edu/~jiao/
+Zhenhua Liu|http://www.ams.stonybrook.edu/~zhliu/
+Zhenhua Liu|http://www.ams.stonybrook.edu/~zhliu/
+Joseph S.B. Mitchell|http://www.ams.sunysb.edu/~jsbm/
+Lori Scarlatos|http://www.cs.stonybrook.edu/~lori/
+Xin Wang|http://www.ece.sunysb.edu/~xwang/
+Yuanyuan Yang|http://www.ee.sunysb.edu/~yang/
+Wei Zhu|http://www.ams.sunysb.edu/~zhu/
+Arthur Bernstein|http://www.cs.stonybrook.edu/~art
+Ker-I Ko|http://www.cs.stonybrook.edu/~keriko/
+Philip Lewis|http://www.cs.stonybrook.edu/~pml/
+David Smith|http://www.cs.stonybrook.edu/~drs/
+David Warren|http://www.cs.stonybrook.edu/~warren/
+Larry Wittie|http://www.cs.stonybrook.edu/~lw/
+
+#Texas A&M University—​College Station http://engineering.tamu.edu/cse/people/faculty
+Riccardo Bettati|http://faculty.cse.tamu.edu/bettati
+James Caverlee|http://faculty.cse.tamu.edu/caverlee/
+Jinxiang Chai|http://faculty.cse.tamu.edu/jchai/
+Jianer Chen|http://faculty.cse.tamu.edu/chen/
+Yoonsuck Choe|http://faculty.cse.tamu.edu/choe/
+Dilma Da Silva|http://faculty.cse.tamu.edu/dilma/
+Walter Daugherity|http://faculty.cse.tamu.edu/daugher/
+Tim Davis|http://faculty.cse.tamu.edu/davis
+Richard Furuta|http://www.csdl.tamu.edu/~furuta/
+Guofei Gu|http://faculty.cse.tamu.edu/guofei/
+Ricardo Gutierrez-Osuna|http://psi.cse.tamu.edu/people/ricardo-gutierrez-osuna/
+Tracy Anne Hammond|http://faculty.cse.tamu.edu/hammond/
+Jaakko Jarvi|https://parasol.tamu.edu/~jarvi/
+Daniel A. Jimnez|http://faculty.cse.tamu.edu/djimenez/
+Andruid Kerne|http://ecologylab.cse.tamu.edu
+John Keyser|http://faculty.cse.tamu.edu/keyser
+ Andreas Klappenecker|http://faculty.cse.tamu.edu/klappi/
+Hyunyoung Lee|http://faculty.cse.tamu.edu/hlee/
+Teresa Leyk|http://courses.cs.tamu.edu/teresa/
+Dmitri Loguinov|http://irl.cse.tamu.edu/people/dmitri/
+Rabi N. Mahapatra|http://codesign.cs.tamu.edu/people/director/
+J. Michael Moore|http://faculty.cse.tamu.edu/jmichael/
+Robin Murphy|http://faculty.cse.tamu.edu/murphy
+Lawrence Rauchwerger|http://parasol.tamu.edu/~rwerger
+Philip Ritchey|http://faculty.cse.tamu.edu/ritchey/
+Vivek Sarin|http://faculty.cse.tamu.edu/sarin/
+Scott Schaefer|http://faculty.cse.tamu.edu/schaefer/
+Dylan Shell|http://robotics.cse.tamu.edu/dshell/
+Frank M. Shipman|http://www.csdl.tamu.edu/~shipman/
+Dezhen Song|http://faculty.cse.tamu.edu/dzsong
+Radu Stoleru|http://faculty.cse.tamu.edu/stoleru
+Sing-Hoi Sze|http://faculty.cse.tamu.edu/shsze/
+Duncan M. "Hank" Walker|http://faculty.cse.tamu.edu/walker/
+Ronnie Ward|http://faculty.cse.tamu.edu/ward/
+Jennifer Welch|http://parasol.cse.tamu.edu/people/welch
+Tiffani L. Williams|http://faculty.cse.tamu.edu/tlw
+
+#University of Arizona https://www.cs.arizona.edu/personnel/faculty.html
+Gregory R. Andrews|https://www.cs.arizona.edu/~greg/
+Christian Collberg|https://www.cs.arizona.edu/~collberg/
+Saumya Debray|https://www.cs.arizona.edu/~debray/
+Peter J. Downey|https://www.cs.arizona.edu/~pete/
+Alon Efrat|https://www.cs.arizona.edu/~alon/
+Chris Gniady|https://www.cs.arizona.edu/~gniady/
+John H. Hartman|https://www.cs.arizona.edu/~jhh/
+Patrick Homer|https://www.cs.arizona.edu/~patrick/
+John Kececioglu|https://www.cs.arizona.edu/~kece/
+Stephen Kobourov|https://www.cs.arizona.edu/~kobourov/
+David Lowenthal|https://www.cs.arizona.edu/~dkl/
+Lester I. McCann|https://www.cs.arizona.edu/~mccann/
+Rick Mercer|https://www.cs.arizona.edu/~mercer/
+Larry Peterson|http://www.cs.arizona.edu/~llp
+Todd Proebsting|http://www.cs.arizona.edu/~proebsting
+Carlos Scheidegger|https://www.cs.arizona.edu/~cscheid/
+Ravi Sethi|https://www.cs.arizona.edu/~rsethi/
+Richard T. Snodgrass|https://www.cs.arizona.edu/~rts/
+Beichuan Zhang|https://www.cs.arizona.edu/~bzhang/
+
+#University of Colorado—​Boulder http://www.colorado.edu/cs/our-people
+http://www.cs.colorado.edu/users/kena
+http://redwood.colorado.edu/jkb/jkbweb/
+http://www.cs.colorado.edu/~jrblack/
+http://elizabethsugar.com/
+http://www.jbpub.com/Catalog/9780763754600
+http://AgentLearner.com
+http://www.cs.colorado.edu/~jbg/
+http://ecee.colorado.edu/~timxb/
+https://jedbrown.org
+http://www.jedbrubaker.com
+http://www.cs.colorado.edu/~richard/
+http://www.cs.colorado.edu/~cai/
+http://ecee.colorado.edu/pavol/
+http://www.cs.colorado.edu/~bec/
+http://spot.colorado.edu/~lich1539/
+http://structureandstrangeness.com
+http://psych.colorado.edu/~colunga/
+http://mcdb.colorado.edu/labs1/dowelllab/
+http://www.cs.colorado.edu/~andrzej/
+http://l3d.cs.colorado.edu/~duck/Home.html
+http://l3d.cs.colorado.edu/~eisenbea/Home/Home.html
+http://www.cs.colorado.edu/~skip/bioEllis.html
+http://ecsite.cs.colorado.edu/people/staff/
+http://www.caseyfiesler.com
+http://l3d.cs.colorado.edu/~gerhard
+http://www.colorado.edu/aerospace/frew_eric.html
+http://www.cs.colorado.edu/~hal
+http://www.cs.colorado.edu/~debra/index.html
+http://atlas.colorado.edu/mdgross
+http://www.modrobotics.com
+http://blankslatesystems.com
+http://kenny.gruchalla.org/
+http://www.cs.colorado.edu/~grunwald
+http://systems.cs.colorado.edu/people/faculty/dirk-grunwald/
+http://ngn.cs.colorado.edu/~sangtaeha/
+http://www.cs.colorado.edu/~rhan/
+https://www.rc.colorado.edu/about/director
+http://compbio.ucdenver.edu/hunter/
+http://www.cs.colorado.edu/~jessup/
+http://shaunkane.info
+http://ecee.colorado.edu/~ekeller/
+http://buzzking.co
+http://chem.colorado.edu/index.php?option=com_content&view=article&id=263%3Arob-knight&catid=41%3Afaculty&Itemid=93
+http://spot.colorado.edu/~clayton/
+http://www.cs.colorado.edu/~lv/
+http://www.cs.colorado.edu/~main/
+http://www.cs.colorado.edu/~martin/
+http://www.colorado.edu/mycuhub/
+http://www.cs.colorado.edu/~mishras/
+http://www.cs.colorado.edu/~mozer
+http://www.cs.colorado.edu/~evi/
+http://www.cs.colorado.edu/~nutt/
+http://www.cs.colorado.edu/~palen/Home/Welcome.html
+http://verbs.colorado.edu/~mpalmer/
+http://cs.jhu.edu/~mpaul
+http://smallwhitecube.com
+http://www.cs.colorado.edu/~ralex/Home.html
+http://www.liacs.nl/~rozenber/#CV
+http://www.cs.colorado.edu/~sanders/
+http://www.cs.colorado.edu/~srirams
+http://www.soic.indiana.edu/people/profiles/schnabel-robert.shtml
+http://www.prinmath.com/csci5229/
+http://arpg.colorado.edu
+http://spot.colorado.edu/~sicker/
+http://www.cs.colorado.edu/~just0377
+http://spot.colorado.edu/~sumner/
+http://cs.wisc.edu/~dalbers
+http://www.csc.cs.colorado.edu/~tufo/
+http://stephen.voida.com
+http://amy.voida.com
+http://ecee.colorado.edu/~waite/
+http://www.tomyeh.info/
+
+#University of Utah http://www.cs.utah.edu/people/faculty/
+Rajeev Balasubramonian|http://www.cs.utah.edu/~rajeev/
+Erik Brunvand|http://www.cs.utah.edu/~elb/
+Anton Burtsev|http://www.cs.utah.edu/~aburtsev/
+Elaine Cohen|http://www.cs.utah.edu/~cohen/
+Tamara Denning|http://www.cs.utah.edu/~tdenning/
+Eric Eide|http://www.cs.utah.edu/~eeide/
+Matthew Flatt|http://www.cs.utah.edu/~mflatt/
+Thomas Fletcher|http://www.cs.utah.edu/~fletcher/
+Ganesh Gopalakrishnan|http://www.cs.utah.edu/~ganesh/
+Mary Hall|http://www.cs.utah.edu/~mhall/
+Chuck Hansen|http://www.cs.utah.edu/~hansen/
+Tom Henderson|http://www.cs.utah.edu/~tch/
+Tucker Hermans|http://www.cs.utah.edu/~thermans/
+John Hollerbach|http://www.cs.utah.edu/~jmh/
+Christopher Johnson|http://www.cs.utah.edu/~crj/
+David Johnson|http://www.cs.utah.edu/~dejohnso/
+Sneha Kasera|http://www.cs.utah.edu/~kasera/
+Bob Kessler|http://www.cs.utah.edu/~kessler/
+Mike Kirby|http://www.cs.utah.edu/~kirby/
+Feifei Li|http://www.cs.utah.edu/~lifeifei/
+Miriah Meyer|http://www.cs.utah.edu/~miriah/
+Erin Parker|http://www.cs.utah.edu/~parker/
+Jeff Phillips|http://www.cs.utah.edu/~jeffp/
+John Regehr|http://www.cs.utah.edu/~regehr/
+Ellen Riloff|http://www.cs.utah.edu/~riloff/
+James de St. Germain|http://www.cs.utah.edu/~germain/
+Ryan Stutsman|http://www.cs.utah.edu/~stutsman/
+Hari Sundar|http://www.cs.utah.edu/~hari/
+William Thompson|http://www.cs.utah.edu/~thompson/
+Kobus Van der Merwe|http://www.cs.utah.edu/~kobus/
+Suresh Venkatasubramanian|http://www.cs.utah.edu/~suresh/web/
+Ross Whitaker|http://www.cs.utah.edu/~whitaker/
+Joe Zachary|http://www.cs.utah.edu/~zachary/
+
+#Virginia Tech http://www.cs.vt.edu/people
+http://bioinformatics.cs.vt.edu/~ramu/
+http://people.cs.vt.edu/~gback/
+http://manta.cs.vt.edu/balci/
+http://www.cs.vt.edu/~barnette
+http://ndssl.vbi.vt.edu/people/cbarrett/
+http://people.cs.vt.edu/butta/
+http://scape.cs.vt.edu/
+http://people.cs.vt.edu/~ycao/
+http://people.cs.vt.edu/~irchen/
+http://people.cs.vt.edu/~edwards/
+http://www.cs.vt.edu/~feng
+http://fox.cs.vt.edu
+http://people.cs.vt.edu/~gracanin/
+http://people.cs.vt.edu/~srh/
+http://people.cs.vt.edu/~heath/
+http://berthuang.com
+http://www.cs.vt.edu/~chjung
+http://people.cs.vt.edu/~kafura/
+http://www.cs.vt.edu/user/kavanaugh
+http://people.cs.vt.edu/~dongyoon/
+http://people.cs.vt.edu/wjlou
+http://people.cs.vt.edu/~ctlu
+http://people.cs.vt.edu/~kluther
+http://ndssl.vbi.vt.edu/people/mmarathe/
+http://people.cs.vt.edu/~mccricks/
+http://people.cs.vt.edu/~mcquain
+http://people.cs.vt.edu/~north
+http://people.cs.vt.edu/~onufriev/
+http://people.cs.vt.edu/~npolys/
+http://people.cs.vt.edu/badityap/
+http://www.cs.duke.edu/~sharath
+http://people.cs.vt.edu/~ramakris/
+http://people.cs.vt.edu/~ribbens/
+http://cs.brown.edu/people/aritz/
+http://people.cs.vt.edu/~ryder
+http://www.cs.vt.edu/~asandu
+http://www.fservant.com
+http://people.cs.vt.edu/~shaffer/
+http://people.cs.vt.edu/gurjot
+http://people.cs.vt.edu/~rstefane/
+http://people.cs.vt.edu/tandonr/
+http://people.cs.vt.edu/dtatar/
+http://people.cs.vt.edu/~tilevich
+http://ndssl.vbi.vt.edu/people/akumar.php
+http://people.cs.vt.edu/~hwang121
+http://people.cs.vt.edu/~ltw/shortvita.html
+http://people.cs.vt.edu/~danfeng
+http://people.cs.vt.edu/~lqzhang/
+
+#Washington University in St. Louis http://cse.wustl.edu/people/Pages/tenured-tenure-track-faculty.aspx
+Kunal Agrawal|http://www.cse.wustl.edu/~kunal/
+Aaron Bobick|http://www.cc.gatech.edu/~afb/
+Michael Brent|http://mblab.wustl.edu/
+Jeremy Buhler|http://www.cse.wustl.edu/~jbuhler/
+Shantanu Chakrabartty|http://www.cse.wustl.edu/~shantanu/
+Roger Chamberlain|http://www.ccrc.wustl.edu/~roger/
+Yixin Chen|http://www.cse.wustl.edu/~chen/
+Patrick Crowley|http://www.arl.wustl.edu/~pcrowley/
+Ron Cytron|http://www.cse.wustl.edu/~cytron/
+Sanmay Das|http://www.cse.wustl.edu/~sanmay/
+Yasutaka Furukawa|http://www.cse.wustl.edu/~furukawa/
+Roman Garnett|http://www.cse.wustl.edu/~garnett
+Christopher Gill|http://www.cse.wustl.edu/~cdgill/
+Viktor Gruev|http://www.cse.wustl.edu/~vgruev/
+Roch Guérin|http://www.cse.wustl.edu/~guerin/
+Raj Jain|http://www.cse.wustl.edu/~jain/
+Tao Ju|http://www.cs.wustl.edu/~taoju/
+Brendan Juba|http://www.cse.wustl.edu/~bjuba/
+Caitlin Kelleher|http://www.cse.wustl.edu/~ckelleher/
+I-Ting Angelina Lee|http://www.cse.wustl.edu/~angelee/
+Chenyang Lu|http://www.cse.wustl.edu/~lu/
+Benjamin Moseley|http://www.cse.wustl.edu/~bmoseley/
+Robert Pless|http://www.cse.wustl.edu/~pless/
+William Richard|http://www.cse.wustl.edu/~wdr/
+Weixiong Zhang|http://www.cse.wustl.edu/~zhang/
+Mark Franklin|http://www.cse.wustl.edu/~jbf/
+Jonathan Turner|http://www.arl.wustl.edu/~jst/
+
+#Arizona State University http://www.cs.arizona.edu/personnel/faculty.html
+Gregory R. Andrews|http://www.cs.arizona.edu/~greg/
+Christian Collberg|http://www.cs.arizona.edu/~collberg/
+Saumya Debray|http://www.cs.arizona.edu/~debray/
+Peter J. Downey|http://www.cs.arizona.edu/~pete/
+Alon Efrat|http://www.cs.arizona.edu/~alon/
+Chris Gniady|http://www.cs.arizona.edu/~gniady/
+John H. Hartman|http://www.cs.arizona.edu/~jhh/
+Patrick Homer|http://www.cs.arizona.edu/~patrick/
+John Kececioglu|http://www.cs.arizona.edu/~kece/
+Stephen Kobourov|http://www.cs.arizona.edu/~kobourov/
+David Lowenthal|http://www.cs.arizona.edu/~dkl/
+Lester I. McCann|http://www.cs.arizona.edu/~mccann/
+Rick Mercer|http://www.cs.arizona.edu/~mercer/
+Larry Peterson|http://www.cs.arizona.edu/~llp
+Todd Proebsting|http://www.cs.arizona.edu/~proebsting
+Carlos Scheidegger|http://www.cs.arizona.edu/~cscheid/
+Ravi Sethi|http://www.cs.arizona.edu/~rsethi/
+Richard T. Snodgrass|http://www.cs.arizona.edu/~rts/
+Beichuan Zhang|http://www.cs.arizona.edu/~bzhang/
+
+#Boston University http://www.bu.edu/cs/people/faculty/
+Jonathan Appavoo|http://www.cs.bu.edu/~jappavoo/jappavoo.github.com/index.html
+Azer Bestavros|http://azer.bestavros.net/
+Margrit Betke|http://www.cs.bu.edu/~betke/
+John Byers|http://www.cs.bu.edu/~byers/
+Ran Canetti|http://www.cs.bu.edu/~canetti/
+Mark Crovella|http://www.cs.bu.edu/~crovella/
+Peter Gacs|http://www.cs.bu.edu/fac/gacs/
+Sharon Goldberg|http://www.cs.bu.edu/fac/goldbe/
+Steve Homer|http://www.cs.bu.edu/fac/homer/
+Leonid Levin|http://www.cs.bu.edu/fac/lnd/
+Abraham Matta|http://www.cs.bu.edu/fac/matta/
+Lorenzo Orecchia|http://cs-people.bu.edu/orecchia/
+Leonid Reyzin|http://www.cs.bu.edu/fac/reyzin/
+Stan Sclaroff|http://www.cs.bu.edu/fac/sclaroff/
+Wayne Snyder|http://www.cs.bu.edu/fac/snyder/
+David Sullivan|http://cs-people.bu.edu/dgs/index.html
+Evimaria Terzi|http://www.cs.bu.edu/fac/evimaria/
+Richard West|http://www.cs.bu.edu/fac/richwest/index.html
+Susan Worst|http://cs-people.bu.edu/sworst/index.html
+Hongwei Xi|http://www.cs.bu.edu/fac/hwxi/
+
+#North Carolina State University http://www.cs.ncsu.edu/directories/faculty.php
+Dr.  Kemafor   Anyanwu Ogan|http://www.csc.ncsu.edu/faculty/anyanwu/
+Dr.  Dennis R.   Bahler|http://www4.ncsu.edu/~bahler/
+Dr.  Suzanne   Balik|http://www4.ncsu.edu/~spbalik/
+Dr.  Tiffany   Barnes|http://people.engr.ncsu.edu/tmbarnes
+Dr.  Camille   Barot|http://go.ncsu.edu/cbarot
+Dr.  Lina   Battestilli|http://people.engr.ncsu.edu/tbdimitr/
+Dr.  Kristy Elizabeth   Boyer|http://research.csc.ncsu.edu/learndialogue/person.php?id=keboyer
+Dr.  Min   Chi|http://people.engr.ncsu.edu/mchi/
+Dr.  Rada Y.   Chirkova|http://dbgroup.ncsu.edu/?page_id=29
+Dr.  Edward W.   Davis|http://www4.ncsu.edu/~davis/
+Dr.  Jon   Doyle|http://www.csc.ncsu.edu/faculty/doyle/
+Dr.  Rudra   Dutta|http://dutta.csc.ncsu.edu/
+Dr.  William   Enck|http://www.enck.org
+Dr.  Robert   Fornaro|http://www.csc2.ncsu.edu/sdc/
+Dr.  Vincent W.   Freeh|http://freeh.wordpress.ncsu.edu/
+Dr.  Edward   Gehringer|http://www4.ncsu.edu/~efg/
+Dr.  Xiaohui (Helen)   Gu|http://www.csc.ncsu.edu/faculty/gu/
+Dr.  Khaled   Harfoush|http://www4.ncsu.edu/~kaharfou/
+Dr.  Christopher G.   Healey|http://www.csc.ncsu.edu/faculty/healey
+Dr.  Steffen   Heber|http://statgen.ncsu.edu/~sheber/
+Dr.  Sarah   Heckman|http://www4.ncsu.edu/~sesmith5
+Dr.  Gary   Howell|http://www.ncsu.edu/itd/hpc/Documents/Publications/gary_howell/contents.html
+Dr.  Steven   Hunter|http://people.ee.duke.edu/~shunter/
+Dr.   Xuxian   Jiang|http://www.cs.ncsu.edu/faculty/jiang
+Dr.  Guoliang   Jin|http://people.engr.ncsu.edu/gjin2/
+Dr.  Jaewoo   Kang|http://www4.ncsu.edu/~jkang2/
+Dr.  James C.   Lester|http://www.intellimedia.ncsu.edu/people/lester/
+Dr.  Xiaosong   Ma|http://www4.ncsu.edu/~xma/
+Dr.  David F.   McAllister|http://www4.ncsu.edu/~mcallist/
+Dr.  Timothy J.   Menzies|http://menzies.us
+Dr.  Bradford   Mott|http://www.intellimedia.ncsu.edu/people/bwmott/
+Dr.  Frank   Mueller|http://moss.csc.ncsu.edu/~mueller/
+Dr.  Emerson   Murphy-Hill|http://people.engr.ncsu.edu/ermurph3/
+Dr.  Peng   Ning|http://discovery.csc.ncsu.edu/~pning/
+Dr.  Christopher   Parnin|http://chrisparnin.me
+Dr.  Harry   Perros|http://www4.ncsu.edu/~hp/
+Dr.  Michael   Rappa|http://analytics.ncsu.edu/
+Dr.  Douglas S.   Reeves|http://reeves.csc.ncsu.edu/
+Dr.  Injong   Rhee|http://www4.ncsu.edu/~rhee/
+Dr.  David L.   Roberts|http://www.csc.ncsu.edu/faculty/robertsd/
+Dr.  George N.   Rouskas|http://rouskas.csc.ncsu.edu/
+Dr.  Nagiza   Samatova|http://freescience.org/cs/samatova/cv.pdf
+Dr.  Carla D.   Savage|http://www4.ncsu.edu/~savage/
+Dr.  Xipeng   Shen|http://people.engr.ncsu.edu/xshen5/
+Dr.  Munindar P.   Singh|http://www.csc.ncsu.edu/faculty/mpsingh/
+Dr.  Robert   St. Amant|http://www4.ncsu.edu/~stamant/
+Dr.  Matthias   Stallmann|http://people.engr.ncsu.edu/mfms
+Dr.  William J.   Stewart|http://www4.ncsu.edu/~billy/
+Dr.  Blair D.   Sullivan|http://www.csc.ncsu.edu/faculty/bdsullivan/
+Dr.  Alan L.   Tharp|http://people.engr.ncsu.edu/tharp
+Dr.  Ranga   Vatsavai|http://people.engr.ncsu.edu/rrvatsav/
+Dr.  Mladen   Vouk|http://renoir.csc.ncsu.edu/Faculty/Vouk/
+Dr.  Ben   Watson|http://watson.csc.ncsu.edu
+Dr.  Laurie   Williams|http://collaboration.csc.ncsu.edu/laurie/
+Dr.  Tao   Xie|http://www.cs.illinois.edu/homes/taoxie/
+Dr.  R. Michael   Young|http://go.ncsu.edu/michael
+Dr.  Ting   Yu|http://www4.ncsu.edu/~tyu/
+
+#University of Florida https://www.cise.ufl.edu/people/faculty/
+Lisa Anthony, Ph.D.         |http://www.cise.ufl.edu/~lanthony/
+Lisa Anthony, Ph.D.         |http://init.cise.ufl.edu/
+Manuel E. Bermudez, Ph.D.        |http://www.cise.ufl.edu/~manuel/
+Shigang Chen, Ph.D.        |http://www.cise.ufl.edu/~sgchen/
+Su-Shing Chen, Ph.D.         |http://www.cise.ufl.edu/~suchen/
+Randy Chow, Ph.D.        |http://www.cise.ufl.edu/~chow/
+Shaundra B. Daily, Ph.D.        |http://www.shaundradaily.com
+Shaundra B. Daily, Ph.D.        |http://www.venvi.org
+Douglas D. Dankel II, Ph.D.        |http://www.cise.ufl.edu/~ddd/
+Alireza Entezari, Ph.D.        |http://www.cise.ufl.edu/~entezari/research/
+Jose A.B. Fortes, Ph.D.        |http://www.acis.ufl.edu/fortes/
+Paul D. Gader, Ph.D.        |http://www.cise.ufl.edu/~pgader/
+Juan E. Gilbert, Ph.D.        |http://www.cise.ufl.edu/~juan/
+Juan E. Gilbert, Ph.D.        |http://www.hxrlab.org/
+Sumi Helal, Ph.D.        |http://www.cise.ufl.edu/~helal/
+Ahmed Helmy, Ph.D.        |http://www.cise.ufl.edu/~helmy/
+Tamer Kahveci, Ph.D.        |http://www.cise.ufl.edu/~tamer/
+Tamer Kahveci, Ph.D.        |http://bioinformatics.cise.ufl.edu/
+Jonathan (Chien-Liang) Liu, Ph.D.        |http://www.cise.ufl.edu/~jcliu/
+Benjamin C. Lok, Ph.D.        |http://www.cise.ufl.edu/~lok/
+Prabhat Mishra, Ph.D.         |http://www.cise.ufl.edu/~prabhat/
+Prabhat Mishra, Ph.D.         |http://esl.cise.ufl.edu
+Richard Newman, Ph.D.        |http://www.cise.ufl.edu/~nemo/
+Jih-Kwon Peir, Ph.D.         |http://www.cise.ufl.edu/~peir/
+Jorg Peters, Ph.D.        |http://www.cise.ufl.edu/~jorg/
+Jorg Peters, Ph.D.        |http://www.cise.ufl.edu/research/SurfLab/pubs.shtml
+Anand Rangarajan, Ph.D.        |http://www.cise.ufl.edu/~anand/
+Sanjay Ranka, Ph.D.        |http://www.cise.ufl.edu/~ranka/
+Gerhard X Ritter, Ph.D.        |http://www.cise.ufl.edu/~ritter/
+Sartaj Sahni, Ph.D.        |http://www.cise.ufl.edu/~sahni/
+Beverly Sanders, Ph.D.        |http://www.cise.ufl.edu/~sanders/
+Mark S. Schmalz, Ph.D., O.D.        |http://www.cise.ufl.edu/~mssz/
+Meera Sitharam, Ph.D.        |http://www.cise.ufl.edu/~sitharam/
+Stanley Y. W. Su, Ph.D.        |http://www.dbcenter.cise.ufl.edu/~su/
+My T. Thai, Ph.D.        |http://www.cise.ufl.edu/~mythai/
+Corey Toler-Franklin, Ph.D.        |http://www.coreytoler.com
+Baba C. Vemuri, Ph.D.        |http://www.cise.ufl.edu/~vemuri/
+Daisy Zhe Wang, Ph.D.        |http://www.cise.ufl.edu/~daisyw/
+Daisy Zhe Wang, Ph.D.        |http://dsr.cise.ufl.edu/
+Joseph N Wilson, Ph.D.        |http://www.cise.ufl.edu/~jnw/
+
+#Indiana University—​Bloomington http://www.cs.indiana.edu/people/index.html
+Randall  Beer|http://mypage.iu.edu/~rdbeer/
+Randall  Bramley|http://www.cs.indiana.edu/~bramley
+Volker  Brendel|http://brendelgroup.org
+Geoffrey  Brown|http://www.cs.indiana.edu/~geobrown
+L. Jean  Camp|http://www.ljean.com/
+Fred  Cate|http://info.law.indiana.edu/faculty-research/faculty-staff/profiles/faculty/cate-fred-h.shtml
+Arun  Chauhan|http://www.cs.indiana.edu/~achauhan/
+Peter  Cherbas|http://www.bio.indiana.edu/faculty/directory/profile.php?person=cherbas
+David  Clemmer|http://www.indiana.edu/~clemmer/Group%20Members/David.php
+Kay  Connelly|http://www.cs.indiana.edu/~connelly
+David  Crandall|http://www.cs.indiana.edu/~djcran/
+Mehmet  Dalkilic|http://www.informatics.indiana.edu/dalkilic
+Markus  Dickinson|http://cl.indiana.edu/~md7/
+Marc  Gyssens|https://www.uhasselt.be/fiche?voornaam=marc&naam=gyssens
+Ryan  Henry|http://homes.soic.indiana.edu/henry
+Mitja  Hmeljak|http://www.cs.indiana.edu/~mitja/
+Chunfeng  Huang|http://www.stat.indiana.edu/people/profile.phtml?id=huang48
+Yan  Huang|http://homes.soic.indiana.edu/yh33/
+Eric  Isaacson|http://info.music.indiana.edu/faculty/current/isaacson-eric.shtml
+Sandra  Kbler|http://cl.indiana.edu/~skuebler/
+Alex  Leykin|http://www.cs.indiana.edu/cgi-pub/oleykin/
+Michael  Lynch|http://www.bio.indiana.edu/faculty/directory/profile.php?person=milynch
+Daniel  McDonald|http://mypage.iu.edu/~dajmcdon
+Larry  Moss|http://www.indiana.edu/~iulg/moss/
+Steven  Myers|http://homes.soic.indiana.edu/samyers/
+Gerardo  Ortiz|http://mypage.iu.edu/~ortizg
+Beth  Plale|http://www.cs.indiana.edu/~plale
+Feng  Qian|http://www.cs.indiana.edu/~fengqian/
+Predrag  Radivojac|http://www.informatics.indiana.edu/predrag/
+Amr  Sabry|http://www.cs.indiana.edu/~sabry
+Matthias  Scheutz|http://www.cs.tufts.edu/Faculty/matthias-scheutz.html
+Jeremy  Siek|http://homes.soic.indiana.edu/jsiek/
+Olaf  Sporns|http://psych.indiana.edu/faculty/osporns.php
+Craig  Stewart|http://it.iu.edu/ovpit/stewart
+Haixu  Tang|http://www.informatics.indiana.edu/hatang/
+Sam  Tobin-Hochstadt|http://homes.soic.indiana.edu/samth/
+Michael  Trossett|http://mypage.iu.edu/~mtrosset/
+Jan  Van den Bussche|http://alpha.uhasselt.be/jan.vandenbussche/
+Steven  Wallace|http://incntre.iu.edu/people
+Eric  Wernert|http://itnews.iu.edu/people/ewenert.php
+Martha  White|http://homes.soic.indiana.edu/martha/
+Yuqing Melanie  Wu|http://www.cs.indiana.edu/~yuqwu
+Yuzhen  Ye|http://informatics.indiana.edu/yye
+Chen  Yu|http://psych.indiana.edu/faculty/chenyu.php
+Qin  Zhang|http://homes.soic.indiana.edu/qzhangcs/
+
+#Rensselaer Polytechnic Institute http://www.cs.rpi.edu/people/faculty.html
+http://www.cs.rpi.edu/~sibel/
+http://www.cs.rpi.edu/~eanshel/
+http://www.cs.rpi.edu/~bermaf/
+http://www.cs.rpi.edu/~chrisc/
+http://www.cs.rpi.edu/~cutler/
+http://www.cs.rpi.edu/~drinep/
+http://www.cs.rpi.edu/~hendler/
+http://nlp.cs.rpi.edu/hengji.html
+http://www.cs.rpi.edu/~moorthy/
+http://www.cs.rpi.edu/~magdon/
+http://www.cs.rpi.edu/~milanova/
+http://www.cs.rpi.edu/~pattes3/
+http://www.cs.rpi.edu/~spoonerd/
+http://www.cs.rpi.edu/~stewart/
+http://www.cs.rpi.edu/~szymansk/
+http://www.cs.rpi.edu/~trink/
+http://www.cs.rpi.edu/~cvarela
+http://www.cs.rpi.edu/~xial/
+http://www.cs.rpi.edu/~yener/
+http://www.cs.rpi.edu/~zaki/
+http://www.rpi.edu/~bennek/
+http://www.rpi.edu/~brings/
+http://www.bioinfo.rpi.edu/bystrc/
+http://www.rpi.edu/~eglash/eglash.htm
+http://www.cs.rpi.edu/~pfox
+http://www.ecse.rpi.edu/Homepages/wrf/
+http://www.rpi.edu/~grayw/
+http://www.rpi.edu/~isaacd/
+http://eaton.math.rpi.edu/faculty/Mclaughlin/harry.html
+http://www.cogsci.rpi.edu/pl/faculty-staff-cogsci/nirenburg
+http://sites.google.com/site/drronsun
+http://www.eng.rpi.edu/soe/research_faculty_details.cfm?facultyID=woznym
+http://www.cs.rpi.edu/~goldsd
+http://www.cs.rpi.edu/~kotfid
+http://www.cs.rpi.edu/~flaherje/
+http://www.cs.rpi.edu/~glinert/
+http://www.cs.rpi.edu/~goldberg/
+http://www.cs.rpi.edu/~musser/
+http://www.cs.rpi.edu/~rogerseh
+
+#University of Pittsburgh http://www.cs.pitt.edu/people/faculty.php
+
+#University of Rochester http://www.rochester.edu/data-science/people/faculty/index.html
+
+#Michigan State University http://www.cse.msu.edu/People/Faculty_Staff/
+
+#University of California—​Riverside http://www1.cs.ucr.edu/people/faculty/
+
+#University of California—​Santa Cruz https://cs.soe.ucsc.edu/people/faculty
+
+#Vanderbilt University http://engineering.vanderbilt.edu/eecs/faculty-staff/index.php
+
+#Northeastern University http://www.ccs.neu.edu/people/faculty/
+
+#University of Illinois—​Chicago http://www.cs.uic.edu/Main/Faculty
+
+#University of Notre Dame
+
+#Iowa State University
+
+#University at Buffalo—​SUNY
+
+#University of Iowa
+
+#University of Oregon
+
+#George Mason University
+
+#Oregon State University
+
+#Syracuse University
+
+#Case Western Reserve University
+
+#College of William and Mary
+
+#Colorado State University
+
+#Naval Postgraduate School
+
+#New York University
+
+#Tufts University
+
+#University of Delaware
+
+#University of Maryland—​Baltimore County
+
+#University of Nebraska—​Lincoln
+
+#University of Tennessee—​Knoxville
+
+#University of Texas—​Dallas
+
+#Washington State University
+
+#Brandeis University
+
+#Clemson University
+
+#CUNY Graduate School and University Center
+
+#Florida State University
+
+#George Washington University
+
+#University of Connecticut
+
+#University of Kansas
+
+#University of New Mexico
+
+#Auburn University
+
+#Brigham Young University
+
+#Drexel University
+
+#Kansas State University
+
+#New Jersey Institute of Technology
+
+#Oregon Health and Science University
+
+#University of Central Florida
+
+#University of Georgia
+
+#University of Kentucky
+
+#University of Texas—​Arlington
+
+#Worcester Polytechnic Institute
+
+#Colorado School of Mines
+
+#Illinois Institute of Technology
+
+#Lehigh University
+
+#Louisiana State University—​Baton Rouge
+
+#Stevens Institute of Technology
+
+#University at Albany—​SUNY
+
+#University of Houston
+
+#University of Missouri
+
+#University of North Carolina—​Charlotte
+
+#University of South Carolina
+
+#University of South Florida
+
+#Binghamton University—​SUNY
+
+#Georgia State University
+
+#Missouri University of Science & Technology
+
+#Southern Methodist University
+
+#Temple University
+
+#University of Cincinnati
+
+#University of Oklahoma
+
+#Wayne State University
+
+#West Virginia University
+

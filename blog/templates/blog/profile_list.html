@@ -1,0 +1,33 @@
+{% extends 'blog/base.html' %}
+
+{% block content %}
+    <h1>Researcher Profile List</h1> 
+    <form method="POST" class="post-form">{% csrf_token %}
+      {{ form.as_p }}
+      <p><input type="submit" value="Submit"></p>
+    </form>
+    <hr>
+    <table>
+        <thead>
+          <tr>
+            <th width="100">Name</th>
+            <th width="100">Position</th>
+            <th width="100">School</th>
+            <th width="100">Interests</th>
+            <th width="100">More</th>
+          </tr>
+        </thead>
+        <tbody> 
+    {% for profile in profiles %}
+          <tr>
+            <td>{{ profile.name|linebreaks }}</td>
+            <td>{{ profile.position|linebreaks }}</td>
+            <td>{{ profile.university|linebreaks }}</td>
+            <td>{{ profile.interests|linebreaks }}</td>
+            <td><a href="{% url 'blog.views.researcher_detail' pk=profile.pk %}">More</a></td>
+          </tr>
+    {% endfor %}
+        </tbody> 
+{% endblock content %}
+
+

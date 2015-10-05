@@ -1,0 +1,1 @@
+I installed apache2 and put the /blog under /var/www/sampleapp/blog where sampleapp is the directery for django. It's not neccessery to use apahce2. 

@@ -1,0 +1,95 @@
+{% load staticfiles %}
+<html>
+    <head>
+        <title>GoGrad</title>
+        <link rel="stylesheet" href="{% static 'css/blog.css' %}">
+        <link rel="stylesheet" href="{% static 'css/foundation.css' %}">
+        <script src="{% static 'javascript/vendor/modernizr.js' %}"></script>
+    </head>
+    <body class="antialiased hide-extras">
+          <nav class="top-bar" data-topbar role="navigation">
+            <ul class="title-area">
+              <li class="name">
+                <h1><a href="#">GoGrad</a></h1>
+              </li>
+               <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+              <li class="toggle-topbar menu-icon"><a href="#"><span></span></a></li>
+            </ul>
+          
+            <section class="top-bar-section">
+              <!-- Right Nav Section -->
+              <ul class="right">
+                <li><a>
+                  {% if user.is_authenticated %}
+                      Welcome, {{ user.username }}. 
+                  {% else %}
+                      Welcome, new user. Please log in.
+                  {% endif %}</a>
+                </li>
+                <li class="active"><a href="#">Right Button Active</a></li>
+                <li class="has-dropdown">
+                  <a href="#">Right Button Dropdown</a>
+                  <ul class="dropdown">
+                    <li><a href="#">First link in dropdown</a></li>
+                    <li class="active"><a href="#">Active link in dropdown</a></li>
+                  </ul>
+                </li>
+             </ul>
+          
+              <!-- Left Nav Section -->
+              <ul class="left">
+                 <li class="has-form">
+                  <div class="row collapse">
+                    <div class="large-8 small-9 columns">
+                      <input type="text" placeholder="Find Stuff">
+                    </div>
+                    <div class="large-4 small-3 columns">
+                      <a href="#" class="alert button expand">Search</a>
+                    </div>
+                  </div>
+                </li>
+                <li><a href="{% url 'blog.views.post_new' %}">Add</a>
+                </li>
+                <li><a href="{% url 'post_draft_list' %}">List</a>
+                </li>
+                <li><a href="{% url 'blog.views.cayley_show_all_vertex' %}">Test</a>
+                </li>
+              </ul>
+            </section>
+          </nav>
+                <div class="small-4 large-3 columns">
+                  <ul class="side-nav">
+                    <li class="active"><a href="#">List All1</a></li>
+                    <li>
+                      <form>
+                        <div class="row">
+                          <div class="large-12 columns">
+                            <label>UNIVERSITY
+                              <select>
+                                <option value="husker">Husker</option>
+                              </select>
+                            </label>
+                          </div>
+                        </div>
+                      </form> 
+                    </li>
+                    <li class="divider"></li>
+                    <li><a href="#">Link 3</a></li>
+                    <li><a href="#">Link 4</a></li>
+                  </ul>
+                </div>
+                <div class="small-8 large-9 columns">
+       	           <div class="col-md-8">
+       	              {% block content %}
+       	              {% endblock %}
+       	           </div>
+       	          </div>
+                </div>
+              </div>
+           <script src="js/vendor/jquery.js"></script>
+           <script src="js/foundation.min.js"></script>
+           <script>
+             $(document).foundation();
+           </script>
+    </body> 
+</html>

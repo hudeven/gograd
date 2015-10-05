@@ -1,0 +1,76 @@
+{% extends 'blog/base.html' %}
+{% load staticfiles %}
+
+{% block content %}
+     <p>{{ realname|linebreaks }}</p>
+     <p>{{ realname.text|linebreaks }}</p>
+     <p>{{ coauthor|linebreaks }}</p>
+     <p>{{ coauthor.text|linebreaks }}</p>
+
+     <div id="canvas"></div>
+
+<script type="text/javascript" src="{% static 'javascript/raphael-min.js' %}"></script> 
+<script type="text/javascript" src="{% static 'javascript/rgraph2.js' %}"></script>
+
+<script type="text/javascript">
+window.onload = function(){
+    graph = new RGraph("canvas",{
+        onnodeclick:function(e,node){
+            alert(node.nodeId);
+        },
+        onnodemouseover:function(e,node){
+            //console.log(node.nodeId +" mouse over");
+        },
+        onnodemouseout:function(e,node){
+            //console.log(node.nodeId +" mouse out");
+        }
+    });
+
+    graph.loadData({
+        nodes:{
+            "1":{label:"{name}\n{type}",name:"节点1",type:"任务"},
+            "2":{label:"节点2",rectStyle:{fill:"#616130",stroke:"#616130"},textStyle:{fill:"#fff"}},
+            "3":{label:"节点3"},
+        },
+        edges:[
+            {source:"1",target:"2"},
+            {source:"1",target:"3"},
+        ]
+    });
+
+    graph.center("1");
+
+
+    var maxNode = 100;
+    addNode=function (){
+        graph.addNode({
+            nodeId:maxNode,
+            label:"我是节点"+maxNode
+        });
+        graph.addEdge({
+            source:maxNode,
+            target:"1",
+            label:maxNode+"->1"
+        });
+        maxNode++;
+    }
+
+    updateNode=function (){
+        var node = graph.getNode("1");
+        node.label="{name}\n{type}\n新行";
+        graph.updateNode("1");
+    }
+
+
+    removeNode=function (){
+        graph.removeNode("3");
+    }
+
+    relayout = function(){
+        graph.relayout();
+        graph.center("1");
+    }
+}
+</script>
+
+{% endblock content %}
